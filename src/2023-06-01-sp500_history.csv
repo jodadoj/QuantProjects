@@ -1,0 +1,918 @@
+,Date,Ticker,Name,Action,CIK
+142,"September 8, 2016",CHTR,Charter Communications,Added,
+142,"September 8, 2016",EMC,EMC Corporation,Removed,
+143,"September 6, 2016",MTD,Mettler Toledo,Added,
+143,"September 6, 2016",TYC,Tyco International,Removed,
+238,"September 5, 2012",LYB,LyondellBasell,Added,
+238,"September 5, 2012",SHLD,Sears Holdings,Removed,
+140,"September 30, 2016",COTY,Coty Inc,Added,
+140,"September 30, 2016",DO,Diamond Offshore Drilling,Removed,
+283,"September 28, 2009",ARG,Airgas,Added,
+283,"September 28, 2009",CBE,Cooper Industries,Removed,
+301,"September 27, 2007",MXIM,Maxim Integrated Products,Removed,
+301,"September 27, 2007",TSO,Tesoro Corporation,Added,
+72,"September 26, 2019",JEF,Jefferies Financial Group,Removed,
+72,"September 26, 2019",NVR,NVR Inc,Added,
+302,"September 26, 2007",FDC,First Data,Removed,
+302,"September 26, 2007",ICE,Intercontinental Exchange,Added,
+310,"September 25, 2003",ESRX,Express Scripts,Added,
+310,"September 25, 2003",QTRN,Quintiles Transnational,Removed,
+73,"September 23, 2019",CDW,CDW,Added,
+73,"September 23, 2019",TSS,TSYS,Removed,
+257,"September 23, 2011",MOS,The Mosaic Company,Added,
+257,"September 23, 2011",NSM,National Semiconductor,Removed,
+141,"September 22, 2016",COO,The Cooper Companies,Added,
+141,"September 22, 2016",HOT,Starwood,Removed,
+50,"September 21, 2020",COTY,Coty,Removed,
+51,"September 21, 2020",CTLT,Catalent,Added,
+49,"September 21, 2020",ETSY,Etsy,Added,
+49,"September 21, 2020",HRB,H&R Block,Removed,
+51,"September 21, 2020",KSS,Kohl's,Removed,
+50,"September 21, 2020",TER,Teradyne,Added,
+31,"September 20, 2021",BRO,Brown & Brown,Added,
+30,"September 20, 2021",CDAY,Ceridian,Added,
+29,"September 20, 2021",MTCH,Match Group,Added,
+31,"September 20, 2021",NOV,Nov,Removed,
+29,"September 20, 2021",PRGO,Perrigo,Removed,
+30,"September 20, 2021",UNM,Unum,Removed,
+198,"September 20, 2014",BTU,Peabody Energy,Removed,
+199,"September 20, 2014",GHC,Graham Holdings,Removed,
+199,"September 20, 2014",UHS,Universal Health Services,Added,
+198,"September 20, 2014",URI,United Rentals,Added,
+219,"September 20, 2013",AMD,Advanced Micro Devices,Removed,
+220,"September 20, 2013",AME,Ametek,Added,
+220,"September 20, 2013",SAI,SAIC,Removed,
+219,"September 20, 2013",VRTX,Vertex Pharmaceuticals,Added,
+177,"September 2, 2015",HSP,Hospira,Removed,
+177,"September 2, 2015",UAL,United Continental Holdings,Added,
+14,"September 19, 2022",CSGP,CoStar Group,Added,
+15,"September 19, 2022",INVH,Invitation Homes,Added,
+15,"September 19, 2022",PENN,Penn Entertainment,Removed,
+14,"September 19, 2022",PVH,PVH,Removed,
+111,"September 18, 2017",CDNS,Cadence Design Systems,Added,
+111,"September 18, 2017",SPLS,Staples,Removed,
+174,"September 18, 2015",CMCSK,Comcast Class K Special,Added,
+175,"September 18, 2015",FOX,Twenty-First Century Fox Class B,Added,
+176,"September 18, 2015",NWS,News Corporation Class B,Added,
+289,"September 16, 2008",HRS,Harris Corporation,Added,
+289,"September 16, 2008",LEH,Lehman Brothers,Removed,
+95,"September 14, 2018",WCG,WellCare,Added,
+95,"September 14, 2018",XL,XL Group,Removed,
+290,"September 12, 2008",CRM,Salesforce,Added,
+291,"September 12, 2008",FAST,Fastenal,Added,
+291,"September 12, 2008",FNM,Fannie Mae,Removed,
+290,"September 12, 2008",FRE,Freddie Mac,Removed,
+221,"September 10, 2013",BMC,BMC Software,Removed,
+221,"September 10, 2013",DAL,Delta Air Lines,Added,
+113,"September 1, 2017",DD,DuPont,Removed,
+112,"September 1, 2017",DOW,Dow Chemical Company,Removed,
+112,"September 1, 2017",DWDP,DowDuPont Inc.,Added,
+113,"September 1, 2017",SBAC,SBA Communications,Added,
+47,"October 9, 2020",VNT,Vontier,Added,
+48,"October 7, 2020",ETFC,E-Trade,Removed,
+48,"October 7, 2020",POOL,Pool Corporation,Added,
+173,"October 7, 2015",JOY,Joy Global,Removed,
+173,"October 7, 2015",VRSK,Verisk Analytics,Added,
+255,"October 31, 2011",ITT,ITT,Removed,
+255,"October 31, 2011",XYL,Xylem,Added,
+12,"October 3, 2022",CTXS,Citrix Systems,Removed,
+13,"October 3, 2022",DRE,Duke Realty,Removed,
+13,"October 3, 2022",EQT,EQT,Added,
+12,"October 3, 2022",PCG,PG&E,Added,
+71,"October 3, 2019",LVS,Las Vegas Sands,Added,
+71,"October 3, 2019",NKTR,Nektar Therapeutics,Removed,
+218,"October 29, 2013",DELL,Dell,Removed,
+218,"October 29, 2013",RIG,Transocean,Added,
+298,"October 26, 2007",AV,Avaya,Removed,
+298,"October 26, 2007",JEC,Jacobs Engineering Group,Added,
+235,"October 2, 2012",ANR,Alpha Natural Resources,Removed,
+235,"October 2, 2012",KRFT,Kraft Foods,Added,
+299,"October 2, 2007",EXPE,Expedia,Added,
+299,"October 2, 2007",SLR,Solectron,Removed,
+256,"October 14, 2011",CEPH,Cephalon,Removed,
+256,"October 14, 2011",TEL,TE Connectivity,Added,
+110,"October 13, 2017",LVLT,Level 3 Communications,Removed,
+110,"October 13, 2017",NCLH,Norwegian Cruise Line Holdings,Added,
+11,"October 12, 2022",NLSN,Nielsen Holdings,Removed,
+11,"October 12, 2022",TRGP,Targa Resources,Added,
+46,"October 12, 2020",NBL,Noble Energy,Removed,
+93,"October 11, 2018",EVHC,Envision Healthcare,Removed,
+93,"October 11, 2018",FTNT,Fortinet,Added,
+234,"October 10, 2012",PETM,PetSmart,Added,
+234,"October 10, 2012",SUN,Sunoco,Removed,
+94,"October 1, 2018",ANDV,Andeavor,Removed,
+94,"October 1, 2018",ROL,Rollins Inc,Added,
+236,"October 1, 2012",ADT,ADT,Added,
+237,"October 1, 2012",DV,DeVry,Removed,
+236,"October 1, 2012",LXK,Lexmark,Removed,
+237,"October 1, 2012",PNR,Pentair,Added,
+300,"October 1, 2007",NCR,NCR Corporation,Removed,
+300,"October 1, 2007",TDC,Teradata,Added,
+92,"November 6, 2018",CA,CA Technologies,Removed,
+92,"November 6, 2018",KEYS,Keysight,Added,
+197,"November 5, 2014",JBL,Jabil Circuit,Removed,
+197,"November 5, 2014",LVLT,Level 3 Communications,Added,
+282,"November 3, 2009",PCLN,Priceline.com,Added,
+282,"November 3, 2009",SGP,Schering-Plough,Removed,
+70,"November 21, 2019",CELG,Celgene,Removed,
+70,"November 21, 2019",NOW,ServiceNow,Added,
+172,"November 2, 2015",HCBK,Hudson City Bancorp,Removed,
+172,"November 2, 2015",HPE,Hewlett Packard Enterprise,Added,
+170,"November 19, 2015",ILMN,Illumina,Added,
+170,"November 19, 2015",SIAL,Sigma-Aldrich,Removed,
+171,"November 18, 2015",GNW,Genworth Financial,Removed,
+171,"November 18, 2015",SYF,Synchrony Financial,Added,
+254,"November 18, 2011",CBE,Cooper Industries,Added,
+254,"November 18, 2011",JNS,Janus Capital Group,Removed,
+308,"November 18, 2005",AMZN,Amazon,Added,
+308,"November 18, 2005",T,AT&T Corporation,Removed,
+270,"November 17, 2010",IR,Ingersoll-Rand,Added,
+270,"November 17, 2010",PTV,Pactiv,Removed,
+91,"November 13, 2018",EQT,EQT,Removed,
+91,"November 13, 2018",JKHY,Jack Henry & Associates,Added,
+217,"November 13, 2013",KORS,Michael Kors,Added,
+217,"November 13, 2013",NYX,NYSE Euronext,Removed,
+10,"November 1, 2022",ACGL,Arch Capital Group,Added,
+10,"November 1, 2022",TWTR,Twitter,Removed,
+139,"November 1, 2016",AA,Alcoa Inc,Removed,
+139,"November 1, 2016",ARNC,Arconic Inc,Added,
+205,"May 8, 2014",AVGO,Avago Technologies,Added,
+205,"May 8, 2014",LSI,LSI Corporation,Removed,
+227,"May 8, 2013",CVH,Coventry Health Care,Removed,
+227,"May 8, 2013",MAC,Macerich,Added,
+0,"May 4, 2023",AXON,Axon Enterprise,Added,
+0,"May 4, 2023",FRC,First Republic Bank,Removed,
+103,"May 31, 2018",ABMD,Abiomed,Added,
+103,"May 31, 2018",WYN,Wyndham Worldwide,Removed,
+149,"May 31, 2016",AJG,Arthur J. Gallagher & Co.,Added,
+149,"May 31, 2016",CCE,Coca-Cola Enterprises,Removed,
+153,"May 3, 2016",ADT,ADT,Removed,
+153,"May 3, 2016",AYI,Acuity Brands,Added,
+150,"May 23, 2016",ARG,Airgas,Removed,
+150,"May 23, 2016",LKQ,LKQ Corporation,Added,
+226,"May 23, 2013",DF,Dean Foods,Removed,
+226,"May 23, 2013",KSU,Kansas City Southern,Added,
+55,"May 22, 2020",HP,Helmerich & Payne,Removed,
+55,"May 22, 2020",WST,West Pharmaceutical Services,Added,
+243,"May 21, 2012",ALXN,Alexion Pharmaceuticals,Added,
+243,"May 21, 2012",MMI,Motorola Mobility,Removed,
+151,"May 18, 2016",DLR,Digital Realty,Added,
+151,"May 18, 2016",TWC,Time Warner Cable,Removed,
+244,"May 17, 2012",EP,El Paso Corporation,Removed,
+244,"May 17, 2012",KMI,Kinder Morgan,Added,
+36,"May 14, 2021",CRL,Charles River Laboratories,Added,
+36,"May 14, 2021",FLIR,FLIR Systems,Removed,
+152,"May 13, 2016",ALK,Alaska Air Group,Added,
+152,"May 13, 2016",SNDK,SanDisk,Removed,
+57,"May 12, 2020",AGN,Allergan,Removed,
+56,"May 12, 2020",CPRI,Capri Holdings,Removed,
+56,"May 12, 2020",DPZ,Domino's Pizza,Added,
+57,"May 12, 2020",DXCM,Dexcom,Added,
+206,"May 1, 2014",BEAM,Beam Inc,Removed,
+207,"May 1, 2014",NAVI,Navient,Added,
+207,"May 1, 2014",SLM,SLM Corporation,Removed,
+206,"May 1, 2014",UA,Under Armour (Class A),Added,
+108,"March 7, 2018",IPGP,IPG Photonics,Added,
+108,"March 7, 2018",SNI,Scripps Networks Interactive,Removed,
+160,"March 7, 2016",GMCR,Keurig Green Mountain,Removed,
+160,"March 7, 2016",UDR,UDR Inc,Added,
+161,"March 4, 2016",AWK,American Water Works,Added,
+161,"March 4, 2016",CNX,Consol Energy,Removed,
+263,"March 31, 2011",EW,Edwards Lifesciences,Added,
+263,"March 31, 2011",Q,Qwest Communications,Removed,
+159,"March 30, 2016",CNC,Centene Corporation,Added,
+159,"March 30, 2016",ESV,Ensco,Removed,
+158,"March 30, 2016",HOLX,Hologic,Added,
+158,"March 30, 2016",POM,Pepco Holdings,Removed,
+305,"March 30, 2007",KFT,Kraft Foods,Added,
+305,"March 30, 2007",TSG,Sabre Corporation,Removed,
+286,"March 3, 2009",ACAS,American Capital,Removed,
+286,"March 3, 2009",HRL,Hormel Foods,Added,
+287,"March 3, 2009",JNY,Jones Apparel Group,Removed,
+287,"March 3, 2009",VTR,Ventas,Added,
+188,"March 23, 2015",AAL,American Airlines Group,Added,
+188,"March 23, 2015",AGN,Allergan,Removed,
+191,"March 23, 2015",AVP,Avon Products,Removed,
+189,"March 23, 2015",DNR,Denbury Resources,Removed,
+189,"March 23, 2015",EQIX,Equinix,Added,
+191,"March 23, 2015",HBI,Hanesbrands,Added,
+190,"March 23, 2015",NBR,Nabors Industries,Removed,
+190,"March 23, 2015",SLG,SL Green Realty,Added,
+41,"March 22, 2021",CZR,Caesars Entertainment,Added,
+38,"March 22, 2021",FLS,Flowserve,Removed,
+40,"March 22, 2021",GNRC,Generac Holdings,Added,
+38,"March 22, 2021",NXPI,NXP,Added,
+39,"March 22, 2021",PENN,Penn National Gaming,Added,
+39,"March 22, 2021",SLG,SL Green Realty,Removed,
+41,"March 22, 2021",VNT,Vontier,Removed,
+40,"March 22, 2021",XRX,Xerox,Removed,
+210,"March 21, 2014",GMCR,Keurig Green Mountain,Added,
+210,"March 21, 2014",WPX,WPX Energy,Removed,
+1,"March 20, 2023",FICO,Fair Isaac,Added,
+1,"March 20, 2023",LUMN,Lumen Technologies,Removed,
+128,"March 20, 2017",AMD,Advanced Micro Devices,Added,
+130,"March 20, 2017",ARE,Alexandria Real Estate Equities,Added,
+130,"March 20, 2017",FSLR,First Solar,Removed,
+129,"March 20, 2017",FTR,Frontier Communications,Removed,
+129,"March 20, 2017",RJF,Raymond James Financial,Added,
+128,"March 20, 2017",URBN,Urban Outfitters,Removed,
+21,"March 2, 2022",INFO,IHS Markit,Removed,
+21,"March 2, 2022",MOH,Molina Healthcare,Added,
+63,"March 2, 2020",IR,Ingersoll Rand,Added,
+63,"March 2, 2020",XEC,Cimarex Energy,Removed,
+133,"March 2, 2017",ENDP,Endo International,Removed,
+133,"March 2, 2017",REG,Regency Centers,Added,
+107,"March 19, 2018",CHK,Chesapeake Energy,Removed,
+107,"March 19, 2018",NKTR,Nektar Therapeutics,Added,
+106,"March 19, 2018",PDCO,Patterson Companies,Removed,
+105,"March 19, 2018",SIG,Signet Jewelers,Removed,
+106,"March 19, 2018",SIVB,SVB Financial Group,Added,
+105,"March 19, 2018",TTWO,Take-Two Interactive,Added,
+192,"March 18, 2015",CFN,Carefusion,Removed,
+192,"March 18, 2015",HSIC,Henry Schein,Added,
+131,"March 16, 2017",HAR,Harman International,Removed,
+131,"March 16, 2017",SNPS,Synopsys,Added,
+2,"March 15, 2023",BG,Bunge Limited,Added,
+3,"March 15, 2023",PODD,Insulet,Added,
+2,"March 15, 2023",SBNY,Signature Bank,Removed,
+3,"March 15, 2023",SIVB,SVB Financial Group,Removed,
+132,"March 13, 2017",DISH,Dish Network,Added,
+132,"March 13, 2017",LLTC,Linear Technology,Removed,
+247,"March 13, 2012",CCI,Crown Castle,Added,
+247,"March 13, 2012",CEG,Constellation Energy Group,Removed,
+193,"March 12, 2015",PETM,PetSmart,Removed,
+193,"March 12, 2015",SWKS,Skyworks,Added,
+134,"March 1, 2017",CBOE,Cboe Holdings,Added,
+134,"March 1, 2017",PBI,Pitney Bowes,Removed,
+319,"June 9, 1999",HPH,Harnischfeger Industries,Removed,
+319,"June 9, 1999",WLP,Wellpoint,Added,
+19,"June 8, 2022",CERN,Cerner,Removed,
+19,"June 8, 2022",VICI,Vici Properties,Added,
+79,"June 7, 2019",BMS,Bemis,Added,
+79,"June 7, 2019",MAT,Mattel,Removed,
+101,"June 7, 2018",MON,Monsanto,Removed,
+101,"June 7, 2018",TWTR,Twitter,Added,
+317,"June 7, 2000",SBUX,Starbucks,Added,
+317,"June 7, 2000",SMS,Shared Medical Systems,Removed,
+225,"June 6, 2013",GM,General Motors,Added,
+225,"June 6, 2013",HNZ,Heinz,Removed,
+102,"June 5, 2018",EVRG,Evergy,Added,
+102,"June 5, 2018",NAVI,Navient,Removed,
+242,"June 5, 2012",LRCX,Lam Research,Added,
+242,"June 5, 2012",NVLS,Novellus Systems,Removed,
+285,"June 5, 2009",COV,Covidien,Removed,
+285,"June 5, 2009",FTI,FMC Technologies,Added,
+34,"June 4, 2021",HFC,HollyFrontier,Removed,
+259,"June 30, 2011",MPC,Marathon Oil,Added,
+259,"June 30, 2011",RSH,RadioShack,Removed,
+273,"June 30, 2010",QEP,QEP Resources,Added,
+273,"June 30, 2010",STR,Questar,Removed,
+35,"June 3, 2021",OGN,Organon & Co.,Added,
+81,"June 3, 2019",CTVA,Corteva,Added,
+80,"June 3, 2019",DD,DuPont,Added,
+80,"June 3, 2019",DWDP,DowDuPont Inc.,Removed,
+81,"June 3, 2019",FLR,Fluor Corporation,Removed,
+148,"June 3, 2016",BXLT,Baxalta,Removed,
+148,"June 3, 2016",TDG,TransDigm Group,Added,
+241,"June 29, 2012",MNST,Monster Beverage,Added,
+241,"June 29, 2012",SLE,Sara Lee Corporation,Removed,
+274,"June 28, 2010",KMX,CarMax,Added,
+274,"June 28, 2010",XTO,XTO Energy,Removed,
+293,"June 23, 2008",BC,Brunswick,Removed,
+293,"June 23, 2008",COG,Cabot Oil & Gas,Added,
+294,"June 23, 2008",MEE,Massey Energy,Added,
+294,"June 23, 2008",OMX,OfficeMax,Removed,
+52,"June 22, 2020",ADS,Alliance Data Systems,Removed,
+52,"June 22, 2020",BIO,Bio-Rad Laboratories,Added,
+53,"June 22, 2020",HOG,Harley-Davidson,Removed,
+54,"June 22, 2020",JWN,Nordstrom,Removed,
+53,"June 22, 2020",TDY,Teledyne,Added,
+54,"June 22, 2020",TYL,Tyler Technologies,Added,
+147,"June 22, 2016",CVC,Cablevision Systems,Removed,
+147,"June 22, 2016",FBHS,Fortune Brands Home & Security,Added,
+18,"June 21, 2022",IPGP,IPG Photonics,Removed,
+17,"June 21, 2022",KDP,Keurig Dr Pepper,Added,
+18,"June 21, 2022",ON,ON Semiconductor,Added,
+16,"June 21, 2022",UA,Under Armour,Removed,
+17,"June 21, 2022",UAA,Under Armour,Removed,
+224,"June 21, 2013",FHN,First Horizon,Removed,
+224,"June 21, 2013",ZTS,Zoetis,Added,
+98,"June 20, 2018",FLT,FleetCor Technologies,Added,
+98,"June 20, 2018",TWX,Time Warner,Removed,
+204,"June 20, 2014",IGT,International Game Technology,Removed,
+204,"June 20, 2014",XEC,Cimarex Energy,Added,
+125,"June 2, 2017",INFO,IHS Markit,Added,
+125,"June 2, 2017",TGNA,Tegna,Removed,
+307,"June 2, 2006",ABS,Albertsons,Removed,
+307,"June 2, 2006",JNPR,Juniper Networks,Added,
+122,"June 19, 2017",ALGN,Align Technology,Added,
+123,"June 19, 2017",ANSS,Ansys,Added,
+121,"June 19, 2017",HLT,Hilton,Added,
+124,"June 19, 2017",MJN,Mead Johnson,Removed,
+123,"June 19, 2017",R,Ryder System,Removed,
+124,"June 19, 2017",RE,Everest Re,Added,
+122,"June 19, 2017",TDC,Teradata,Removed,
+121,"June 19, 2017",YHOO,Yahoo!,Removed,
+100,"June 18, 2018",AYI,Acuity Brands,Removed,
+99,"June 18, 2018",BR,Broadridge Financial Solutions,Added,
+100,"June 18, 2018",HFC,HollyFrontier,Added,
+99,"June 18, 2018",RRC,Range Resources,Removed,
+323,"June 17, 1997",CCI,Countrywide Credit Industries,Added,
+323,"June 17, 1997",USL,USLife,Removed,
+316,"June 12, 2000",CVG,Convergys,Added,
+316,"June 12, 2000",TMC,Times Mirror,Removed,
+78,"June 11, 2019",AMCR,Amcor,Added,
+78,"June 11, 2019",BMS,Bemis,Removed,
+186,"June 11, 2015",LO,Lorillard Tobacco Company,Removed,
+186,"June 11, 2015",QRVO,Qorvo,Added,
+295,"June 10, 2008",ABK,Ambac Financial,Removed,
+295,"June 10, 2008",LO,Lorillard Tobacco Company,Added,
+260,"June 1, 2011",ANR,Alpha Natural Resources,Added,
+260,"June 1, 2011",MEE,Massey Energy,Removed,
+181,"July 8, 2015",AAP,Advance Auto Parts,Added,
+181,"July 8, 2015",FDO,Family Dollar,Removed,
+222,"July 8, 2013",NLSN,Nielsen Holdings,Added,
+222,"July 8, 2013",S,Sprint Nextel,Removed,
+182,"July 6, 2015",KHC,Kraft Heinz,Added,
+182,"July 6, 2015",KRFT,Kraft Foods,Removed,
+144,"July 5, 2016",CPGX,Columbia Pipeline Group,Removed,
+144,"July 5, 2016",FTV,Fortive Corp,Added,
+258,"July 5, 2011",ACN,Accenture,Added,
+258,"July 5, 2011",MI,Marshall & Ilsley,Removed,
+239,"July 31, 2012",ESV,Ensco,Added,
+239,"July 31, 2012",GR,Goodrich Corporation,Removed,
+179,"July 29, 2015",DTV,DirecTV,Removed,
+179,"July 29, 2015",SIG,Signet Jewelers,Added,
+315,"July 27, 2000",JDSU,JDS Uniphase,Added,
+315,"July 27, 2000",RAD,RiteAid,Removed,
+117,"July 26, 2017",AOS,A. O. Smith,Added,
+117,"July 26, 2017",BBBY,Bed Bath & Beyond,Removed,
+116,"July 26, 2017",DRE,Duke Realty Corp,Added,
+120,"July 26, 2017",MGM,MGM Resorts International,Added,
+119,"July 26, 2017",MNK,Mallinckrodt,Removed,
+118,"July 26, 2017",MUR,Murphy Oil,Removed,
+118,"July 26, 2017",PKG,Packaging Corporation of America,Added,
+120,"July 26, 2017",RAI,Reynolds American,Removed,
+116,"July 26, 2017",RIG,Transocean,Removed,
+119,"July 26, 2017",RMD,ResMed,Added,
+33,"July 21, 2021",ALXN,Alexion Pharmaceuticals,Removed,
+33,"July 21, 2021",MRNA,Moderna,Added,
+180,"July 20, 2015",NE,Noble Corporation,Removed,
+180,"July 20, 2015",PYPL,PayPal,Added,
+97,"July 2, 2018",CPRT,Copart,Added,
+97,"July 2, 2018",DPS,Dr Pepper Snapple Group,Removed,
+183,"July 2, 2015",ATI,Allegheny Technologies,Removed,
+183,"July 2, 2015",CPGX,Columbia Pipeline Group,Added,
+202,"July 2, 2014",MLM,Martin Marietta,Added,
+202,"July 2, 2014",X,United States Steel,Removed,
+240,"July 2, 2012",PGN,Progress Energy,Removed,
+240,"July 2, 2012",STX,Seagate Technology,Added,
+304,"July 2, 2007",DFS,Discover Financial Services,Added,
+76,"July 15, 2019",RHT,Red Hat,Removed,
+76,"July 15, 2019",TMUS,T-Mobile US,Added,
+272,"July 14, 2010",CB,Chubb,Added,
+272,"July 14, 2010",MIL,Millipore,Removed,
+77,"July 1, 2019",LLL,L3 Technologies,Removed,
+77,"July 1, 2019",MKTX,MarketAxess,Added,
+146,"July 1, 2016",ALB,Albemarle Corporation,Added,
+145,"July 1, 2016",GAS,AGL Resources,Removed,
+145,"July 1, 2016",LNT,Alliant Energy Corp,Added,
+146,"July 1, 2016",TE,TECO Energy,Removed,
+185,"July 1, 2015",BXLT,Baxalta,Added,
+184,"July 1, 2015",JBHT,J.B. Hunt,Added,
+185,"July 1, 2015",QEP,QEP Resources,Removed,
+184,"July 1, 2015",TEG,Integrys Energy Group,Removed,
+203,"July 1, 2014",AMG,Affiliated Managers Group,Added,
+203,"July 1, 2014",FRX,Forest Laboratories,Removed,
+223,"July 1, 2013",APOL,Apollo Education Group,Removed,
+223,"July 1, 2013",NWSA,21st Century Fox,Added,
+292,"July 1, 2008",AKS,AK Steel,Added,
+292,"July 1, 2008",CFC,Countrywide Financial Corp,Removed,
+309,"July 1, 2005",GLK,Great Lakes Chemical,Removed,
+309,"July 1, 2005",STZ,Constellation Brands,Added,
+44,"January 7, 2021",ENPH,Enphase Energy,Added,
+44,"January 7, 2021",TIF,Tiffany & Co,Removed,
+4,"January 5, 2023",VNO,Vornado Realty Trust,Removed,
+136,"January 5, 2017",IDXX,Idexx Laboratories,Added,
+136,"January 5, 2017",STJ,St Jude Medical,Removed,
+166,"January 5, 2016",FOSL,Fossil Group,Removed,
+166,"January 5, 2016",WLTW,Willis Towers Watson,Added,
+5,"January 4, 2023",GEHC,GE HealthCare,Added,
+109,"January 3, 2018",BCR,CR Bard,Removed,
+109,"January 3, 2018",HII,Huntington Ingalls Industries,Added,
+64,"January 28, 2020",PAYC,Paycom,Added,
+64,"January 28, 2020",WCG,WellCare,Removed,
+195,"January 27, 2015",COV,Covidien,Removed,
+195,"January 27, 2015",ENDP,Endo International,Added,
+194,"January 27, 2015",HCA,HCA Holdings,Added,
+194,"January 27, 2015",SWY,Safeway,Removed,
+211,"January 24, 2014",LIFE,Life Technologies,Removed,
+211,"January 24, 2014",TSCO,Tractor Supply,Added,
+43,"January 21, 2021",CXO,Concho Resources,Removed,
+43,"January 21, 2021",TRMB,Trimble Inc,Added,
+86,"January 2, 2019",FRC,First Republic Bank,Added,
+86,"January 2, 2019",SCG,SCANA,Removed,
+230,"January 2, 2013",ABBV,AbbVie,Added,
+230,"January 2, 2013",FII,Federated Investors,Removed,
+165,"January 19, 2016",ACE,Chubb,Removed,
+165,"January 19, 2016",EXR,Extra Space Storage,Added,
+85,"January 18, 2019",PCG,Pacific Gas & Electric Company,Removed,
+85,"January 18, 2019",TFX,Teleflex,Added,
+306,"January 10, 2007",AVB,AvalonBay Communities,Added,
+306,"January 10, 2007",SBL,Symbol Technologies,Removed,
+23,"February 3, 2022",GPS,Gap Inc.,Removed,
+135,"February 28, 2017",INCY,Incyte,Added,
+135,"February 28, 2017",SE,Spectra Energy,Removed,
+264,"February 28, 2011",COV,Covidien,Added,
+264,"February 28, 2011",MFE,McAfee,Removed,
+83,"February 27, 2019",GT,The Goodyear Tire & Rubber Company,Removed,
+83,"February 27, 2019",WAB,Wabtec,Added,
+276,"February 26, 2010",HP,Helmerich & Payne,Added,
+276,"February 26, 2010",RX,IMS Health,Removed,
+265,"February 25, 2011",AYE,Allegheny Energy,Removed,
+265,"February 25, 2011",JOYG,Joy Global,Added,
+162,"February 22, 2016",CXO,Concho Resources,Added,
+162,"February 22, 2016",PCL,Plum Creek Timber,Removed,
+24,"February 2, 2022",CEG,Constellation Energy,Added,
+22,"February 15, 2022",NDSN,Nordson Corporation,Added,
+22,"February 15, 2022",XLNX,Xilinx,Removed,
+84,"February 15, 2019",ATO,Atmos Energy,Added,
+84,"February 15, 2019",NFX,Newfield Exploration,Removed,
+229,"February 15, 2013",BIG,Big Lots,Removed,
+229,"February 15, 2013",PVH,PVH,Added,
+42,"February 12, 2021",FTI,TechnipFMC,Removed,
+42,"February 12, 2021",MPWR,Monolithic Power Systems,Added,
+164,"February 1, 2016",BRCM,Broadcom Corporation,Removed,
+163,"February 1, 2016",CFG,Citizens,Added,
+164,"February 1, 2016",FRT,Federal Realty Investment Trust,Added,
+163,"February 1, 2016",PCP,Precision Castparts Corporation,Removed,
+68,"December 9, 2019",ODFL,Old Dominion Freight Line,Added,
+68,"December 9, 2019",STI,SunTrust Banks,Removed,
+318,"December 7, 1999",LDW,Laidlaw,Removed,
+318,"December 7, 1999",YHOO,Yahoo!,Added,
+69,"December 5, 2019",VIAB,Viacom,Removed,
+69,"December 5, 2019",WRB,W. R. Berkley Corporation,Added,
+196,"December 5, 2014",BMS,Bemis Company,Removed,
+196,"December 5, 2014",RCL,Royal Caribbean Cruises,Added,
+314,"December 5, 2000",ABK,Ambac Financial,Added,
+313,"December 5, 2000",AYE,Allegheny Energy,Added,
+311,"December 5, 2000",BS,Bethlehem Steel,Removed,
+314,"December 5, 2000",CCK,Crown Holdings,Removed,
+313,"December 5, 2000",GRA,WR Grace,Removed,
+311,"December 5, 2000",INTU,Intuit,Added,
+312,"December 5, 2000",OI,Owens-Illinois,Removed,
+312,"December 5, 2000",SBL,Symbol Technologies,Added,
+248,"December 31, 2011",CPWR,Compuware,Removed,
+248,"December 31, 2011",WPX,WPX Energy,Added,
+288,"December 31, 2008",OI,Owens-Illinois,Added,
+288,"December 31, 2008",WB,Wachovia Bank,Removed,
+89,"December 3, 2018",AET,Aetna,Removed,
+88,"December 3, 2018",COL,Rockwell Collins,Removed,
+90,"December 3, 2018",FANG,Diamondback Energy,Added,
+88,"December 3, 2018",LW,Lamb Weston,Added,
+89,"December 3, 2018",MXIM,Maxim Integrated,Added,
+90,"December 3, 2018",SRCL,Stericycle,Removed,
+233,"December 3, 2012",CBE,Cooper Industries,Removed,
+233,"December 3, 2012",DG,Dollar General,Added,
+167,"December 29, 2015",ALTR,Altera,Removed,
+167,"December 29, 2015",CHD,Church & Dwight,Added,
+87,"December 24, 2018",CE,Celanese,Added,
+87,"December 24, 2018",ESRX,Express Scripts,Removed,
+65,"December 23, 2019",AMG,Affiliated Managers Group,Removed,
+65,"December 23, 2019",LYV,Live Nation Entertainment,Added,
+67,"December 23, 2019",MAC,Macerich,Removed,
+67,"December 23, 2019",STE,Steris,Added,
+66,"December 23, 2019",TRIP,TripAdvisor,Removed,
+66,"December 23, 2019",ZBRA,Zebra Technologies,Added,
+212,"December 23, 2013",ADS,Alliance Data Systems,Added,
+212,"December 23, 2013",ANF,Abercrombie & Fitch,Removed,
+214,"December 23, 2013",FB,Facebook,Added,
+213,"December 23, 2013",JDSU,JDS Uniphase,Removed,
+213,"December 23, 2013",MHK,Mohawk Industries,Added,
+214,"December 23, 2013",TER,Teradyne,Removed,
+6,"December 22, 2022",ABMD,Abiomed,Removed,
+6,"December 22, 2022",STLD,Steel Dynamics,Added,
+45,"December 21, 2020",AIV,Apartment Investment & Management,Removed,
+45,"December 21, 2020",TSLA,Tesla Inc,Added,
+231,"December 21, 2012",DLPH,Delphi Automotive,Added,
+231,"December 21, 2012",TIE,Titanium Metals,Removed,
+27,"December 20, 2021",FDS,FactSet,Added,
+26,"December 20, 2021",HBI,Hanesbrands,Removed,
+25,"December 20, 2021",LEG,Leggett & Platt,Removed,
+25,"December 20, 2021",SBNY,Signature Bank,Added,
+26,"December 20, 2021",SEDG,SolarEdge,Added,
+27,"December 20, 2021",WU,Western Union,Removed,
+249,"December 20, 2011",TLAB,Tellabs,Removed,
+249,"December 20, 2011",TRIP,TripAdvisor,Added,
+296,"December 20, 2007",RRC,Range Resources,Added,
+296,"December 20, 2007",TRB,Tribune Media,Removed,
+138,"December 2, 2016",EVHC,Envision Healthcare,Added,
+138,"December 2, 2016",LM,Legg Mason,Removed,
+137,"December 2, 2016",MAA,Mid-America Apartments,Added,
+137,"December 2, 2016",OI,Owens-Illinois,Removed,
+216,"December 2, 2013",ALLE,Allegion,Added,
+216,"December 2, 2013",JCP,JCPenney,Removed,
+7,"December 19, 2022",FBHS,Fortune Brands Home & Security,Removed,
+7,"December 19, 2022",FSLR,First Solar,Added,
+8,"December 19, 2022",MBC,MasterBrand,Removed,
+277,"December 18, 2009",CIEN,Ciena,Removed,
+279,"December 18, 2009",CLF,Cliffs Natural Resources,Added,
+280,"December 18, 2009",CVG,Convergys,Removed,
+278,"December 18, 2009",DYN,Dynegy,Removed,
+279,"December 18, 2009",KBH,KB Home,Removed,
+281,"December 18, 2009",MBI,MBIA,Removed,
+278,"December 18, 2009",MJN,Mead Johnson Nutrition,Added,
+281,"December 18, 2009",ROST,Ross Stores,Added,
+280,"December 18, 2009",SAI,SAIC,Added,
+277,"December 18, 2009",V,Visa,Added,
+266,"December 17, 2010",CVC,Cablevision,Added,
+267,"December 17, 2010",EK,Eastman Kodak,Removed,
+267,"December 17, 2010",FFIV,F5 Networks,Added,
+266,"December 17, 2010",KG,King Pharmaceuticals,Removed,
+268,"December 17, 2010",NFLX,Netflix,Added,
+269,"December 17, 2010",NFX,Newfield Exploration,Added,
+269,"December 17, 2010",NYT,The New York Times Company,Removed,
+268,"December 17, 2010",ODP,Office Depot,Removed,
+250,"December 16, 2011",AKS,AK Steel,Removed,
+250,"December 16, 2011",BWA,BorgWarner,Added,
+252,"December 16, 2011",DLTR,Dollar Tree,Added,
+251,"December 16, 2011",MWW,Monster Worldwide,Removed,
+251,"December 16, 2011",PRGO,Perrigo,Added,
+252,"December 16, 2011",WFR,MEMC Electronic Materials,Removed,
+9,"December 15, 2022",MBC,MasterBrand,Added,
+168,"December 15, 2015",CMCSK,Comcast K Corp,Removed,
+28,"December 14, 2021",EPAM,EPAM Systems,Added,
+28,"December 14, 2021",KSU,Kansas City Southern,Removed,
+297,"December 13, 2007",DJ,Dow Jones,Removed,
+297,"December 13, 2007",GME,GameStop,Added,
+253,"December 12, 2011",GAS,AGL Resources.,Added,
+253,"December 12, 2011",GAS,Nicor Gas,Removed,
+232,"December 11, 2012",GRMN,Garmin,Added,
+232,"December 11, 2012",RRD,RR Donnelley,Removed,
+321,"December 11, 1998",CCL,Carnival Corp.,Added,
+322,"December 11, 1998",CPWR,Compuware,Added,
+320,"December 11, 1998",FSR,Firstar,Added,
+321,"December 11, 1998",GRN,General Re,Removed,
+320,"December 11, 1998",LDW,Amoco,Removed,
+322,"December 11, 1998",SUN,SunAmerica,Removed,
+215,"December 10, 2013",GGP,General Growth Properties,Added,
+215,"December 10, 2013",MOLX,Molex,Removed,
+169,"December 1, 2015",CSC,Computer Sciences Corporation,Removed,
+169,"December 1, 2015",CSRA,CSRA,Added,
+74,"August 9, 2019",APC,Anadarko Petroleum,Removed,
+75,"August 9, 2019",FL,Foot Locker,Removed,
+75,"August 9, 2019",IEX,IDEX Corporation,Added,
+74,"August 9, 2019",LDOS,Leidos,Added,
+115,"August 8, 2017",AN,AutoNation,Removed,
+115,"August 8, 2017",BHF,Brighthouse Financial,Added,
+201,"August 6, 2014",DISCK,Discovery Communications,Added,
+32,"August 30, 2021",MXIM,Maxim Integrated,Removed,
+32,"August 30, 2021",TECH,Bio-Techne,Added,
+114,"August 29, 2017",Q,QuintilesIMS,Added,
+114,"August 29, 2017",WFM,Whole Foods Market,Removed,
+96,"August 28, 2018",ANET,Arista Networks,Added,
+96,"August 28, 2018",GGP,GGP,Removed,
+178,"August 28, 2015",ATVI,Activision Blizzard,Added,
+178,"August 28, 2015",PLL,Pall Corporation,Removed,
+271,"August 26, 2010",SII,Smith International,Removed,
+271,"August 26, 2010",TYC,Tyco International,Added,
+303,"August 24, 2007",KSE,KeySpan,Removed,
+303,"August 24, 2007",LUK,Leucadia National,Added,
+284,"August 19, 2009",CTX,Centex Corp.,Removed,
+284,"August 19, 2009",FMC,FMC Corporation,Added,
+200,"August 18, 2014",MNK,Mallinckrodt,Added,
+200,"August 18, 2014",RDC,Rowan Companies,Removed,
+156,"April 8, 2016",UA,Under Armour (Class C),Added,
+187,"April 7, 2015",O,Realty Income Corporation,Added,
+187,"April 7, 2015",WIN,Windstream Communications,Removed,
+58,"April 6, 2020",M,Macy's,Removed,
+59,"April 6, 2020",RTN,Raytheon Company,Removed,
+126,"April 5, 2017",DNB,Dun & Bradstreet,Removed,
+126,"April 5, 2017",IT,Gartner,Added,
+20,"April 4, 2022",CPT,Camden Property Trust,Added,
+20,"April 4, 2022",PBCT,People's United Financial,Removed,
+104,"April 4, 2018",CSRA,CSRA,Removed,
+104,"April 4, 2018",MSCI,MSCI,Added,
+127,"April 4, 2017",DXC,DXC Technology,Added,
+127,"April 4, 2017",SWN,Southwestern Energy,Removed,
+157,"April 4, 2016",CAM,Cameron International,Removed,
+157,"April 4, 2016",FL,Foot Locker,Added,
+228,"April 30, 2013",PCS,MetroPCS,Removed,
+228,"April 30, 2013",REGN,Regeneron Pharmaceuticals,Added,
+61,"April 3, 2020",CARR,Carrier,Added,
+60,"April 3, 2020",OTIS,Otis Worldwide,Added,
+208,"April 3, 2014",GOOGL,Google,Added,
+246,"April 3, 2012",FOSL,Fossil,Added,
+246,"April 3, 2012",MHS,Medco Health Solutions,Removed,
+275,"April 29, 2010",BJS,BJ Services,Removed,
+275,"April 29, 2010",CERN,Cerner,Added,
+261,"April 27, 2011",CMG,Chipotle Mexican Grill,Added,
+261,"April 27, 2011",NOVL,Novell,Removed,
+154,"April 25, 2016",GME,GameStop,Removed,
+154,"April 25, 2016",GPN,Global Payments,Added,
+245,"April 23, 2012",PSX,Phillips 66,Added,
+245,"April 23, 2012",SVU,Supervalu,Removed,
+37,"April 20, 2021",PTC,PTC,Added,
+37,"April 20, 2021",VAR,Varian Medical Systems,Removed,
+82,"April 2, 2019",BHF,Brighthouse Financial,Removed,
+82,"April 2, 2019",DOW,Dow Inc.,Added,
+209,"April 2, 2014",CLF,Cliffs Natural Resources,Removed,
+209,"April 2, 2014",ESS,Essex Property Trust,Added,
+155,"April 18, 2016",THC,Tenet Healthcare,Removed,
+155,"April 18, 2016",ULTA,Ulta Beauty,Added,
+62,"April 1, 2020",ARNC,Arconic,Removed,
+62,"April 1, 2020",HWM,Howmet Aerospace,Added,
+262,"April 1, 2011",BLK,BlackRock,Added,
+262,"April 1, 2011",GENZ,Genzyme,Removed,
+481,2022-04-11 00:00:00,WBD,Warner Bros. Discovery,Added,0001437107
+264,2017-08-29 00:00:00,IQV,IQVIA,Added,0001478242
+58,2017-07-07 00:00:00,BKR,Baker Hughes,Added,0001701605
+493,2016-01-05 00:00:00,WTW,Willis Towers Watson,Added,0001140536
+313,2013-12-23 00:00:00,META,Meta Platforms,Added,0001326801
+209,2013-07-01 00:00:00,FOXA,Fox Corporation (Class A),Added,0001754301
+46,2012-12-24 00:00:00,APTV,Aptiv,Added,0001521332
+325,2012-10-02 00:00:00,MDLZ,Mondelez International,Added,0001103982
+451,2010-11-17 00:00:00,TT,Trane Technologies,Added,0001466258
+270,2010-08-27 00:00:00,JCI,Johnson Controls,Added,0000833444
+358,2010-03-15 00:00:00,OKE,ONEOK,Added,0001039684
+65,2010-02-16 00:00:00,BRK.B,Berkshire Hathaway,Added,0001067983
+348,2010-01-29 00:00:00,NRG,NRG Energy,Added,0001013871
+407,2009-12-23 00:00:00,ROP,Roper Technologies,Added,0000882835
+73,2009-11-06 00:00:00,BKNG,Booking Holdings,Added,0001075531
+391,2009-07-01 00:00:00,PWR,Quanta Services,Added,0001050915
+488,2009-07-01 00:00:00,WDC,Western Digital,Added,0000106040
+353,2009-03-27 00:00:00,ORLY,O'Reilly Auto Parts,Added,0000898173
+486,2009-01-30 00:00:00,WELL,Welltower,Added,0000766704
+265,2009-01-06 00:00:00,IRM,Iron Mountain,Added,0001020569
+401,2008-12-05 00:00:00,RSG,Republic Services,Added,0001060391
+495,2008-11-14 00:00:00,WYNN,Wynn Resorts,Added,0001174922
+146,2008-11-14 00:00:00,XRAY,Dentsply Sirona,Added,0000818479
+421,2008-11-06 00:00:00,SJM,J.M. Smucker Company (The),Added,0000091419
+484,2008-10-31 00:00:00,WEC,WEC Energy Group,Added,0000783325
+333,2008-10-22 00:00:00,NDAQ,"Nasdaq, Inc.",Added,0001120193
+39,2008-09-30 00:00:00,APH,Amphenol,Added,0000820313
+376,2008-09-24 00:00:00,PXD,Pioneer Natural Resources,Added,0001038357
+283,2008-09-22 00:00:00,LHX,L3Harris,Added,0000202058
+102,2008-08-27 00:00:00,CF,CF Industries,Added,0001324404
+262,2008-08-21 00:00:00,IVZ,Invesco,Added,0000914208
+143,2008-07-31 00:00:00,DVA,DaVita Inc.,Added,0000927066
+306,2008-07-18 00:00:00,MA,Mastercard,Added,0001141391
+135,2008-06-23 00:00:00,CTRA,Coterra,Added,0000858470
+261,2008-06-02 00:00:00,ISRG,Intuitive Surgical,Added,0001035267
+231,2008-03-31 00:00:00,PEAK,Healthpeak,Added,0000765880
+373,2008-03-31 00:00:00,PM,Philip Morris International,Added,0001413329
+33,2007-11-19 00:00:00,AMT,American Tower,Added,0001053507
+268,2007-10-26 00:00:00,J,Jacobs Solutions,Added,0000052988
+190,2007-10-10 00:00:00,EXPD,Expeditors International,Added,0000746515
+317,2007-09-07 00:00:00,MCHP,Microchip Technology,Added,0000827054
+14,2007-07-12 00:00:00,AKAM,Akamai,Added,0001086222
+50,2007-04-10 00:00:00,AIZ,Assurant,Added,0001267238
+241,2007-03-20 00:00:00,HST,Host Hotels & Resorts,Added,0001070750
+83,2007-03-02 00:00:00,CHRW,C.H. Robinson,Added,0001043277
+394,2007-02-02 00:00:00,RL,Ralph Lauren Corporation,Added,0001037038
+120,2006-11-17 00:00:00,CTSH,Cognizant,Added,0001058290
+96,2006-11-10 00:00:00,CBRE,CBRE Group,Added,0001138118
+202,2006-11-10 00:00:00,FIS,FIS,Added,0001136893
+117,2006-08-11 00:00:00,CME,CME Group,Added,0001156375
+278,2006-04-04 00:00:00,KIM,Kimco Realty,Added,0000879101
+75,2006-04-03 00:00:00,BXP,Boston Properties,Added,0001037540
+23,2006-04-03 00:00:00,GOOG,Alphabet Inc. (Class C),Added,0001652044
+469,2006-02-01 00:00:00,VRSN,Verisign,Added,0001014473
+183,2006-01-05 00:00:00,EL,Estée Lauder Companies (The),Added,0001001250
+289,2005-10-04 00:00:00,LEN,Lennar,Added,0000920760
+35,2005-10-03 00:00:00,AMP,Ameriprise Financial,Added,0000820027
+388,2005-08-19 00:00:00,PSA,Public Storage,Added,0001393311
+457,2005-08-10 00:00:00,TSN,Tyson Foods,Added,0000100493
+140,2005-06-22 00:00:00,DHI,D.R. Horton,Added,0000882184
+284,2004-11-01 00:00:00,LH,LabCorp,Added,0000920148
+438,2004-09-01 00:00:00,TPR,"Tapestry, Inc.",Added,0001116132
+448,2004-08-03 00:00:00,TMO,Thermo Fisher Scientific,Added,0000097745
+223,2004-07-01 00:00:00,GILD,Gilead Sciences,Added,0000882095
+474,2004-04-23 00:00:00,VTRS,Viatris,Added,0001792044
+298,2004-02-23 00:00:00,MTB,M&T Bank,Added,0000036270
+69,2003-11-13 00:00:00,BIIB,Biogen,Added,0000875045
+384,2003-07-17 00:00:00,PLD,Prologis,Added,0001045609
+216,2003-03-25 00:00:00,GEN,Gen Digital,Added,0000849399
+308,2003-03-20 00:00:00,MKC,McCormick & Company,Added,0000063754
+428,2003-03-14 00:00:00,STT,State Street Corporation,Added,0000093751
+467,2002-12-20 00:00:00,VLO,Valero Energy,Added,0001035002
+393,2002-12-12 00:00:00,DGX,Quest Diagnostics,Added,0001022079
+122,2002-11-19 00:00:00,CMCSA,Comcast,Added,0001166691
+453,2002-08-21 00:00:00,TRV,Travelers Companies (The),Added,0000086312
+171,2002-07-25 00:00:00,ELV,Elevance Health,Added,0001156039
+170,2002-07-22 00:00:00,EA,Electronic Arts,Added,0000712515
+166,2002-07-22 00:00:00,EBAY,eBay,Added,0001065088
+226,2002-07-22 00:00:00,GS,Goldman Sachs,Added,0000886982
+381,2002-07-22 00:00:00,PFG,Principal Financial Group,Added,0001126328
+385,2002-07-22 00:00:00,PRU,Prudential Financial,Added,0001137774
+463,2002-07-22 00:00:00,UPS,United Parcel Service,Added,0001090727
+419,2002-06-26 00:00:00,SPG,Simon Property Group,Added,0001063761
+483,2002-01-02 00:00:00,WAT,Waters Corporation,Added,0001000697
+181,2001-12-03 00:00:00,EQR,Equity Residential,Added,0000906107
+350,2001-11-30 00:00:00,NVDA,Nvidia,Added,0001045810
+380,2001-10-01 00:00:00,PPL,PPL Corporation,Added,0000922224
+36,2001-08-30 00:00:00,ABC,AmerisourceBergen,Added,0001140859
+500,2001-08-07 00:00:00,ZBH,Zimmer Biomet,Added,0001136869
+501,2001-06-22 00:00:00,ZION,Zions Bancorporation,Added,0000109380
+203,2001-04-02 00:00:00,FISV,Fiserv,Added,0000798354
+112,2001-03-01 00:00:00,CTAS,Cintas,Added,0000723254
+431,2000-12-12 00:00:00,SYK,Stryker Corporation,Added,0000310764
+314,2000-12-11 00:00:00,MET,MetLife,Added,0001099219
+404,2000-12-05 00:00:00,RHI,Robert Half,Added,0000315213
+176,2000-11-02 00:00:00,EOG,EOG Resources,Added,0000821189
+342,2000-11-02 00:00:00,NI,NiSource,Added,0001111711
+147,2000-08-30 00:00:00,DVN,Devon Energy,Added,0001090012
+12,2000-06-05 00:00:00,A,Agilent Technologies,Added,0001090872
+40,1999-10-12 00:00:00,ADI,Analog Devices,Added,0000006281
+375,1999-10-04 00:00:00,PNW,Pinnacle West,Added,0000764622
+392,1999-07-22 00:00:00,QCOM,Qualcomm,Added,0000804328
+477,1999-06-30 00:00:00,VMC,Vulcan Materials Company,Added,0001396009
+66,1999-06-29 00:00:00,BBY,Best Buy,Added,0000764478
+334,1999-06-25 00:00:00,NTAP,NetApp,Added,0001002047
+11,1999-05-28 00:00:00,AFL,Aflac,Added,0000004977
+310,1999-01-13 00:00:00,MCK,McKesson,Added,0000927653
+141,1998-11-18 00:00:00,DHR,Danaher Corporation,Added,0000313616
+10,1998-10-02 00:00:00,AES,AES Corporation,Added,0000874761
+366,1998-10-01 00:00:00,PAYX,Paychex,Added,0000723531
+400,1998-08-28 00:00:00,RF,Regions Financial Corporation,Added,0001281761
+88,1998-07-01 00:00:00,COF,Capital One,Added,0000927628
+328,1998-07-01 00:00:00,MCO,Moody's Corporation,Added,0001059556
+302,1998-05-29 00:00:00,MAR,Marriott International,Added,0001048286
+211,1998-04-30 00:00:00,BEN,Franklin Templeton,Added,0000038777
+345,1998-01-30 00:00:00,NTRS,Northern Trust,Added,0000073124
+356,1997-12-31 00:00:00,OMC,Omnicom Group,Added,0000029989
+111,1997-12-18 00:00:00,CINF,Cincinnati Financial,Added,0000020286
+455,1997-12-04 00:00:00,TFC,Truist,Added,0000092230
+201,1997-11-28 00:00:00,FE,FirstEnergy,Added,0001031296
+498,1997-10-06 00:00:00,YUM,Yum! Brands,Added,0001041061
+280,1997-09-30 00:00:00,KLAC,KLA Corporation,Added,0000319201
+245,1997-08-28 00:00:00,HBAN,Huntington Bancshares,Added,0000049196
+383,1997-08-04 00:00:00,PGR,Progressive Corporation,Added,0000080661
+43,1997-07-28 00:00:00,APA,APA Corporation,Added,0001841666
+179,1997-06-19 00:00:00,EFX,Equifax,Added,0000033185
+104,1997-06-02 00:00:00,SCHW,Charles Schwab Corporation,Added,0000316709
+89,1997-05-27 00:00:00,CAH,Cardinal Health,Added,0000721371
+7,1997-05-05 00:00:00,ADBE,Adobe Inc.,Added,0000796343
+54,1997-01-02 00:00:00,AZO,AutoZone,Added,0000866787
+42,1996-04-23 00:00:00,AON,Aon,Added,0000315293
+199,1996-03-29 00:00:00,FITB,Fifth Third Bank,Added,0000035527
+123,1995-12-01 00:00:00,CMA,Comerica,Added,0000028412
+21,1995-07-13 00:00:00,ALL,Allstate,Added,0000899051
+142,1995-05-31 00:00:00,DRI,Darden Restaurants,Added,0000940944
+295,1995-05-31 00:00:00,L,Loews Corporation,Added,0000060086
+71,1995-03-31 00:00:00,BK,BNY Mellon,Added,0001390777
+45,1995-03-16 00:00:00,AMAT,Applied Materials,Added,0000006951
+131,1995-02-27 00:00:00,GLW,Corning Inc.,Added,0000024741
+76,1995-02-24 00:00:00,BSX,Boston Scientific,Added,0000885725
+364,1994-09-30 00:00:00,PARA,Paramount Global,Added,0000813828
+318,1994-09-27 00:00:00,MU,Micron Technology,Added,0000723125
+425,1994-07-01 00:00:00,LUV,Southwest Airlines,Added,0000092380
+465,1994-07-01 00:00:00,UNH,UnitedHealth Group,Added,0000731766
+319,1994-06-01 00:00:00,MSFT,Microsoft,Added,0000789019
+275,1994-03-01 00:00:00,KEY,KeyCorp,Added,0000091576
+164,1994-01-01 00:00:00,EMN,Eastman Chemical Company,Added,0000915389
+113,1993-12-01 00:00:00,CSCO,Cisco,Added,0000858877
+134,1993-10-01 00:00:00,COST,Costco,Added,0000909832
+329,1993-07-29 00:00:00,MS,Morgan Stanley,Added,0000895421
+259,1992-10-01 00:00:00,IPG,Interpublic Group of Companies (The),Added,0000051644
+291,1992-07-01 00:00:00,LIN,Linde plc,Added,0001707925
+38,1992-01-02 00:00:00,AMGN,Amgen,Added,0000318154
+28,1991-09-19 00:00:00,AEE,Ameren,Added,0001002910
+53,1989-12-01 00:00:00,ADSK,Autodesk,Added,0000769397
+273,1989-09-11 00:00:00,K,Kellogg's,Added,0000055067
+359,1989-08-31 00:00:00,ORCL,Oracle Corporation,Added,0001341439
+224,1989-04-30 00:00:00,GL,Globe Life,Added,0000320335
+336,1989-04-30 00:00:00,NWL,Newell Brands,Added,0000814453
+167,1989-01-31 00:00:00,ECL,Ecolab,Added,0000031462
+341,1988-11-30 00:00:00,NKE,"Nike, Inc.",Added,0000320187
+114,1988-05-31 00:00:00,C,Citigroup,Added,0000831001
+377,1988-04-30 00:00:00,PNC,PNC Financial Services,Added,0000713676
+238,1988-03-31 00:00:00,HD,Home Depot (The),Added,0000354950
+56,1987-12-31 00:00:00,AVY,Avery Dennison,Added,0000008818
+303,1987-08-31 00:00:00,MMC,Marsh McLennan,Added,0000062709
+434,1986-12-31 00:00:00,SYY,Sysco,Added,0000096021
+311,1986-10-31 00:00:00,MDT,Medtronic,Added,0001613103
+250,1986-02-28 00:00:00,ITW,Illinois Tool Works,Added,0000049826
+365,1985-11-30 00:00:00,PH,Parker Hannifin,Added,0000076334
+158,1985-10-31 00:00:00,DOV,Dover Corporation,Added,0000029905
+449,1985-09-30 00:00:00,TJX,TJX Companies,Added,0000109198
+100,1985-07-31 00:00:00,CNP,CenterPoint Energy,Added,0001130310
+403,1985-05-31 00:00:00,RVTY,Revvity,Added,0000031791
+13,1985-04-30 00:00:00,APD,Air Products and Chemicals,Added,0000002969
+349,1985-04-30 00:00:00,NUE,Nucor,Added,0000073309
+59,1984-10-31 00:00:00,BALL,Ball Corporation,Added,0000009389
+229,1984-09-30 00:00:00,HAS,Hasbro,Added,0000046080
+234,1984-05-31 00:00:00,HES,Hess Corporation,Added,0000004447
+389,1984-04-30 00:00:00,PHM,PulteGroup,Added,0000822416
+296,1984-02-29 00:00:00,LOW,Lowe's,Added,0000060667
+471,1983-11-30 00:00:00,VZ,Verizon,Added,0000732712
+61,1983-09-30 00:00:00,BBWI,"Bath & Body Works, Inc.",Added,0000701985
+124,1983-08-31 00:00:00,CAG,Conagra Brands,Added,0000023217
+44,1982-11-30 00:00:00,AAPL,Apple Inc.,Added,0000320193
+81,1982-10-31 00:00:00,BF.B,Brown–Forman,Added,0000014693
+422,1982-09-30 00:00:00,SNA,Snap-on,Added,0000091440
+426,1982-09-30 00:00:00,SWK,Stanley Black & Decker,Added,0000093556
+480,1982-08-31 00:00:00,WMT,Walmart,Added,0000104169
+494,1981-06-30 00:00:00,GWW,W. W. Grainger,Added,0000277135
+305,1981-06-30 00:00:00,MAS,Masco,Added,0000062996
+8,1981-03-31 00:00:00,ADP,ADP,Added,0000008670
+198,1980-12-31 00:00:00,FDX,FedEx,Added,0001048911
+362,1980-12-31 00:00:00,PCAR,Paccar,Added,0000075362
+32,1980-03-31 00:00:00,AIG,American International Group,Added,0000005272
+479,1979-12-31 00:00:00,WBA,Walgreens Boots Alliance,Added,0001618921
+473,1979-06-30 00:00:00,VFC,VF Corporation,Added,0000103379
+447,1978-12-31 00:00:00,TXT,Textron,Added,0000217346
+255,1976-12-31 00:00:00,INTC,Intel,Added,0000050863
+440,1976-12-31 00:00:00,TGT,Target Corporation,Added,0000027419
+31,1976-06-30 00:00:00,AXP,American Express,Added,0000004962
+60,1976-06-30 00:00:00,BAC,Bank of America,Added,0000070858
+110,1976-06-30 00:00:00,CI,Cigna,Added,0001739940
+153,1976-06-30 00:00:00,DIS,Disney,Added,0001744489
+161,1976-06-30 00:00:00,DUK,Duke Energy,Added,0001326160
+290,1976-06-30 00:00:00,LNC,Lincoln Financial,Added,0000059558
+340,1976-06-30 00:00:00,NEE,NextEra Energy,Added,0000753308
+324,1976-06-30 00:00:00,TAP,Molson Coors Beverage Company,Added,0000024545
+485,1976-06-30 00:00:00,WFC,Wells Fargo,Added,0000072971
+257,1976-03-31 00:00:00,IFF,International Flavors & Fragrances,Added,0000051253
+271,1975-06-30 00:00:00,JPM,JPMorgan Chase,Added,0000019617
+492,1975-03-31 00:00:00,WMB,Williams Companies,Added,0000107263
+243,1974-12-31 00:00:00,HPQ,HP Inc.,Added,0000047217
+222,1973-12-31 00:00:00,GPC,Genuine Parts Company,Added,0000040987
+269,1973-06-30 00:00:00,JNJ,Johnson & Johnson,Added,0000200406
+62,1972-09-30 00:00:00,BAX,Baxter International,Added,0000010456
+63,1972-09-30 00:00:00,BDX,Becton Dickinson,Added,0000010795
+172,1970-12-31 00:00:00,LLY,Eli Lilly and Company,Added,0000059478
+309,1970-06-30 00:00:00,MCD,McDonald's,Added,0000063908
+337,1969-06-30 00:00:00,NEM,Newmont,Added,0001164727
+116,1969-03-31 00:00:00,CLX,Clorox,Added,0000021076
+138,1965-03-31 00:00:00,CMI,Cummins,Added,0000026172
+173,1965-03-31 00:00:00,EMR,Emerson Electric,Added,0000032604
+418,1964-06-30 00:00:00,SHW,Sherwin-Williams,Added,0000089800
+2,1957-03-04 00:00:00,ABT,Abbott,Added,0000001800
+6,1957-03-04 00:00:00,ADM,ADM,Added,0000007084
+30,1957-03-04 00:00:00,AEP,American Electric Power,Added,0000004904
+72,1957-03-04 00:00:00,BA,Boeing,Added,0000012927
+77,1957-03-04 00:00:00,BMY,Bristol Myers Squibb,Added,0000014272
+94,1957-03-04 00:00:00,CAT,Caterpillar Inc.,Added,0000018230
+121,1957-03-04 00:00:00,CL,Colgate-Palmolive,Added,0000021665
+118,1957-03-04 00:00:00,CMS,CMS Energy,Added,0000811156
+125,1957-03-04 00:00:00,COP,ConocoPhillips,Added,0001163165
+87,1957-03-04 00:00:00,CPB,Campbell Soup Company,Added,0000016732
+137,1957-03-04 00:00:00,CSX,CSX,Added,0000277948
+139,1957-03-04 00:00:00,CVS,CVS Health,Added,0000064803
+106,1957-03-04 00:00:00,CVX,Chevron Corporation,Added,0000093410
+144,1957-03-04 00:00:00,DE,John Deere,Added,0000315189
+160,1957-03-04 00:00:00,DTE,DTE Energy,Added,0000936340
+126,1957-03-04 00:00:00,ED,Consolidated Edison,Added,0001047862
+168,1957-03-04 00:00:00,EIX,Edison International,Added,0000827052
+165,1957-03-04 00:00:00,ETN,Eaton Corporation,Added,0001551182
+175,1957-03-04 00:00:00,ETR,Entergy,Added,0000065984
+188,1957-03-04 00:00:00,EXC,Exelon,Added,0001109357
+206,1957-03-04 00:00:00,F,Ford Motor Company,Added,0000037996
+218,1957-03-04 00:00:00,GD,General Dynamics,Added,0000040533
+219,1957-03-04 00:00:00,GE,General Electric,Added,0000040545
+220,1957-03-04 00:00:00,GIS,General Mills,Added,0000040704
+227,1957-03-04 00:00:00,HAL,Halliburton,Added,0000045012
+228,1957-03-04 00:00:00,HIG,Hartford (The),Added,0000874766
+239,1957-03-04 00:00:00,HON,Honeywell,Added,0000773840
+233,1957-03-04 00:00:00,HSY,Hershey's,Added,0000047111
+247,1957-03-04 00:00:00,IBM,IBM,Added,0000051143
+258,1957-03-04 00:00:00,IP,International Paper,Added,0000051434
+277,1957-03-04 00:00:00,KMB,Kimberly-Clark,Added,0000055785
+119,1957-03-04 00:00:00,KO,Coca-Cola Company (The),Added,0000021344
+282,1957-03-04 00:00:00,KR,Kroger,Added,0000056873
+294,1957-03-04 00:00:00,LMT,Lockheed Martin,Added,0000936468
+0,1957-03-04 00:00:00,MMM,3M,Added,0000066740
+24,1957-03-04 00:00:00,MO,Altria,Added,0000764180
+312,1957-03-04 00:00:00,MRK,Merck & Co.,Added,0000310158
+299,1957-03-04 00:00:00,MRO,Marathon Oil,Added,0000101778
+331,1957-03-04 00:00:00,MSI,Motorola Solutions,Added,0000068505
+346,1957-03-04 00:00:00,NOC,Northrop Grumman,Added,0001133421
+344,1957-03-04 00:00:00,NSC,Norfolk Southern Railway,Added,0000702165
+354,1957-03-04 00:00:00,OXY,Occidental Petroleum,Added,0000797468
+386,1957-03-04 00:00:00,PEG,Public Service Enterprise Group,Added,0000788784
+370,1957-03-04 00:00:00,PEP,PepsiCo,Added,0000077476
+371,1957-03-04 00:00:00,PFE,Pfizer,Added,0000078003
+382,1957-03-04 00:00:00,PG,Procter & Gamble,Added,0000080424
+379,1957-03-04 00:00:00,PPG,PPG Industries,Added,0000079879
+396,1957-03-04 00:00:00,RTX,Raytheon Technologies,Added,0000101829
+415,1957-03-04 00:00:00,SEE,Sealed Air,Added,0001012100
+413,1957-03-04 00:00:00,SLB,Schlumberger,Added,0000087347
+424,1957-03-04 00:00:00,SO,Southern Company,Added,0000092122
+410,1957-03-04 00:00:00,SPGI,S&P Global,Added,0000064040
+461,1957-03-04 00:00:00,UNP,Union Pacific Corporation,Added,0000100885
+489,1957-03-04 00:00:00,WRK,WestRock,Added,0001732845
+496,1957-03-04 00:00:00,XEL,Xcel Energy,Added,0000072903
+192,1957-03-04 00:00:00,XOM,ExxonMobil,Added,0000034088
+156,1900-01-01 00:00:00,D,Dominion Energy,Added,0000715957
+187,1900-01-01 00:00:00,ES,Eversource,Added,0000072741
+212,1900-01-01 00:00:00,FCX,Freeport-McMoRan,Added,0000831259
+244,1900-01-01 00:00:00,HUM,Humana,Added,0000049071
+405,1900-01-01 00:00:00,ROK,Rockwell Automation,Added,0001024478
+416,1900-01-01 00:00:00,SRE,Sempra Energy,Added,0001032208
+436,1900-01-01 00:00:00,TROW,T. Rowe Price,Added,0001113169
+446,1900-01-01 00:00:00,TXN,Texas Instruments,Added,0000097476
+458,1900-01-01 00:00:00,USB,U.S. Bank,Added,0000036104
+491,1900-01-01 00:00:00,WHR,Whirlpool Corporation,Added,0000106640
+482,1900-01-01 00:00:00,WM,Waste Management,Added,0000823768
+490,1900-01-01 00:00:00,WY,Weyerhaeuser,Added,0000106535
