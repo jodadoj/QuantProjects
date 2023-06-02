@@ -1,5 +1,6 @@
 import datetime as dt
 import pandas as pd
+import os
 
 def scrape_sp500_wiki_list():
     """Fetches the current list of S&P500 companies from wikipedia and stores them as a csv file"""
@@ -43,8 +44,12 @@ def scrape_sp500_wiki_list():
 
     today = dt.datetime.today().strftime('%Y-%m-%d')
 
-    current.to_csv(f'{today}-sp500.csv')
-    sp500_history.to_csv(f'{today}-sp500_history.csv')
+    current.to_csv(os.path.join(
+                os.path.dirname(os.path.realpath(__file__)), f'output/{today}-sp500.csv')
+    )
+    sp500_history.to_csv(os.path.join(
+                os.path.dirname(os.path.realpath(__file__)), f'output/{today}-sp500_history.csv')
+    )
 
 def scrape_nasdaq100_wiki_list():
     """Fetches the current list of Nasdaq100 companies from wikipedia and stores them as a csv file"""
@@ -56,7 +61,9 @@ def scrape_nasdaq100_wiki_list():
         
     today = dt.datetime.today().strftime('%Y-%m-%d')
 
-    nasdaq100.to_csv(f'{today}-nasdaq100.csv')
+    nasdaq100.to_csv(os.path.join(
+                os.path.dirname(os.path.realpath(__file__)), f'output/{today}-nasdaq100.csv')
+    )
 
 
 if __name__ == "__main__":

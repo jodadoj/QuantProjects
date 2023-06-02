@@ -15,7 +15,10 @@ session.headers['User-agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple
 
 def fetch_sp500_data():
     """Fetches current financial market data from Yahoo finance public api"""
-    stocks = pd.read_csv('2023-06-01-sp500.csv')
+    file_path=os.path.join(
+                os.path.dirname(os.path.realpath(__file__)), 'output/2023-06-01-sp500.csv'
+            )
+    stocks = pd.read_csv(file_path)
     load_dotenv()
 
     headings = [ 'Ticker', 'Stock Price', 'Market Capitalisation', 'Number of Shares to Buy']
@@ -49,7 +52,10 @@ def convert_sp500_data_to_csv():
     """Takes current data from the Yahoo finance metrics and returns as a CSV"""
     final = fetch_sp500_data()
     today = dt.datetime.today().strftime('%Y-%m-%d-%H-%M-%S')
-    final.to_csv(f'{today}-full_sp500_data.csv')
+    file_path=os.path.join(
+                os.path.dirname(os.path.realpath(__file__)), f'output/{today}-full_sp500_data.csv'
+            )
+    final.to_csv(file_path)
 
 def chunks(chunk_list, no_of_chunks):
     """Yield successive n-sized chunks from list"""
@@ -66,11 +72,15 @@ def calculate_no_of_shares_to_purchase():
         except(ValueError):
             print('Not a number, please enter a legitamate value:')
         try:
-            today = dt.datetime.today().strftime('%Y-%m-%d-%H-%M-%S')
-            current_values = pd.read_csv(f'{today}-full_sp500_data.csv')
+            current_values = pd.read_csv(os.path.join(
+                os.path.dirname(os.path.realpath(__file__)), 'output/2023-06-01-15-54-22-full_sp500_data.csv')
+            )
         except(FileNotFoundError):
-            current_values = pd.read_csv('2023-06-01-15-54-22-full_sp500_data.csv') 
+            current_values = pd.read_csv(os.path.join(
+                os.path.dirname(os.path.realpath(__file__)), 'output/2023-06-01-15-54-22-full_sp500_data.csv')
+            )
             #update above freely
+            #eventually iterate through this
 
     current_values = current_values.drop('Unnamed: 0', axis=1)
 
@@ -84,7 +94,7 @@ def output_equal_weights_to_excel():
     current_values = calculate_no_of_shares_to_purchase()
     today = dt.datetime.today().strftime('%Y-%m-%d-%H-%M-%S')
     file_path=os.path.join(
-                os.path.dirname(os.path.realpath(__file__)), f'{today}-recommended_trades.xlsx'
+                os.path.dirname(os.path.realpath(__file__)), f'output/{today}-recommended_trades.xlsx'
             )
 
     writer = pd.ExcelWriter(file_path, engine='xlsxwriter')
@@ -130,3 +140,8 @@ def output_equal_weights_to_excel():
         writer.sheets['Recommended Trades'].write(f'{column}1', column_formats[column][0], string_format)
 
     writer.save()
+
+    
+if __name__ == "__main__":
+    convert_sp500_data_to_csv()
+    output_equal_weights_to_excel()
