@@ -6,7 +6,7 @@ def scrape_sp500_wiki_list():
     url = 'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies'
     data = pd.read_html(url)
 
-    sp500 = data[0].iloc[:, 0,1,6,7]
+    sp500 = data[0].iloc[:, [0,1,5,6]]
     sp500.columns = ['Ticker', 'Name', 'Date', 'CIK']
 
     mask = sp500['Date'].str.strip().str.fullmatch('\d{4}-\d{2}-\d{2}')
@@ -57,3 +57,8 @@ def scrape_nasdaq100_wiki_list():
     today = dt.datetime.today().strftime('%Y-%m-%d')
 
     nasdaq100.to_csv(f'{today}-nasdaq100.csv')
+
+
+if __name__ == "__main__":
+    scrape_sp500_wiki_list()
+    scrape_nasdaq100_wiki_list()
