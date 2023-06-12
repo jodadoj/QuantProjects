@@ -43,6 +43,6 @@ if __name__ == "__main__":
     except (OSError):
         file_path = os.path.join(
             os.path.dirname(os.path.realpath(__file__)),
-            f"../output/sp500_lists/2023-06-06-sp500.csv",
+            "../output/sp500_lists/2023-06-06-sp500.csv",
         )
         save_stock_info(file_path)

@@ -1,3 +1,5 @@
+DROP TABLE stocks IF EXISTS;
+
 CREATE TABLE stocks (
     ticker VARCHAR(10) PRIMARY KEY,
     company_name VARCHAR(255),

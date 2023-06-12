@@ -19,7 +19,8 @@ TODAYS_DATE = dt.datetime.today().strftime("%Y-%m-%d")
 def fetch_sp500_data():
     """Fetches current financial market data from Yahoo finance public api"""
     file_path = os.path.join(
-        os.path.dirname(os.path.realpath(__file__)), "output\sp500_lists\2023-06-06-sp500.csv"
+        os.path.dirname(os.path.realpath(__file__)),
+        "output\sp500_lists\2023-06-06-sp500.csv",
     )
     stocks = pd.read_csv(file_path)  # try index=False
 
@@ -91,7 +92,7 @@ def calculate_no_of_shares_to_purchase():
             )
             # update above freely
             # eventually iterate through this
-            
+
     if INCORRECTLY_FORMATED_INDEX in current_values.keys():
         current_values = current_values.drop(INCORRECTLY_FORMATED_INDEX, axis=1)
 
