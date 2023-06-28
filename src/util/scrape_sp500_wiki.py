@@ -72,7 +72,7 @@ def scrape_sp500_wiki():
     sp500_history.to_csv(
         os.path.join(
             os.path.dirname(os.path.realpath(__file__)),
-            f"../output/sp500_lists/{TODAYS_DATE}-sp500_history.csv",
+            f"../output/sp500_lists/change_history/{TODAYS_DATE}-sp500_history.csv",
         ),
         index=False,
     )

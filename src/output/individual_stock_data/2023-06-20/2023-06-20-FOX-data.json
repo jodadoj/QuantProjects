@@ -1,0 +1,2386 @@
+{
+    "FOX": {
+        "assetProfile": {
+            "address1": "1211 Avenue of the Americas",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10036",
+            "country": "United States",
+            "phone": "212 852 7000",
+            "website": "https://www.foxcorporation.com",
+            "industry": "Entertainment",
+            "industryDisp": "Entertainment",
+            "sector": "Communication Services",
+            "longBusinessSummary": "Fox Corporation operates as a news, sports, and entertainment company in the United States (U.S.). The company operates through Cable Network Programming; Television; and Other, Corporate and Eliminations segments. The Cable Network Programming segment produces and licenses news, business news, and sports content for distribution through traditional and virtual multi-channel video programming distributors (MVPDs) and other digital platforms, primarily in the U.S. It operates FOX News, a national cable news channel; FOX Business, a business news national cable channel; FS1 and FS2 multi-sport national networks; FOX Sports Racing, a video programming service that comprises motor sports programming; FOX Soccer Plus, a video programming network for live soccer and rugby competitions; FOX Deportes, a Spanish-language sports programming service; and Big Ten Network, a national video programming service. The Television segment acquires, produces, markets, and distributes programming. It operates The FOX Network, a national television broadcast network that broadcasts sports programming and entertainment; Tubi, an advertising-supported video-on-demand service; Fox Alternative Entertainment, a full-service production studio that develops and produces unscripted and alternative programming; MyNetworkTV, a programming distribution service; and Blockchain Creative Labs, which is focuses on the creation, distribution and monetization of Web3 content. This segment owns and operates 29 broadcast television stations. The Other, Corporate and Eliminations segment owns the FOX Studios Lot that provides production and post-production services, including 15 sound stages, two broadcast studios, theaters and screening rooms, editing rooms, and other television and film production facilities in Los Angeles, California. The company was incorporated in 2018 and is based in New York, New York.",
+            "fullTimeEmployees": 10600,
+            "companyOfficers": [
+                {
+                    "maxAge": 1,
+                    "name": "Mr. Keith Rupert Murdoch AC",
+                    "age": 91,
+                    "title": "Exec. Chairman",
+                    "yearBorn": 1931,
+                    "fiscalYear": 2022,
+                    "totalPay": 11461059,
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Mr. Lachlan Keith Murdoch",
+                    "age": 51,
+                    "title": "Exec. Chairman & CEO",
+                    "yearBorn": 1971,
+                    "fiscalYear": 2022,
+                    "totalPay": 10786857,
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Mr. Steven Silvester Tomsic",
+                    "age": 53,
+                    "title": "Chief Financial Officer",
+                    "yearBorn": 1969,
+                    "fiscalYear": 2022,
+                    "totalPay": 4143756,
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Mr. John P. Nallen",
+                    "age": 65,
+                    "title": "Chief Operating Officer",
+                    "yearBorn": 1957,
+                    "fiscalYear": 2022,
+                    "totalPay": 5240073,
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Mr. Viet D. Dinh",
+                    "age": 54,
+                    "title": "Chief Legal & Policy Officer",
+                    "yearBorn": 1968,
+                    "fiscalYear": 2022,
+                    "totalPay": 6206848,
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Ms. Gabrielle  Brown",
+                    "title": "Exec. VP & Chief Investor Relations Officer",
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Mr. Nicholas  Trutanich",
+                    "title": "Exec. VP of Litigation, Chief Ethics & Compliance Officer",
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Mr. Brian  Nick",
+                    "title": "Chief Communications Officer & Exec. VP",
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Ms. Marianne  Gambelli",
+                    "title": "Pres of Advter. Sales, Marketing & Brand Partnerships",
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Mr. Kevin E. Lord",
+                    "age": 59,
+                    "title": "Exec. VP & Chief HR Officer",
+                    "yearBorn": 1963,
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                }
+            ],
+            "auditRisk": 2,
+            "boardRisk": 6,
+            "compensationRisk": 6,
+            "shareHolderRightsRisk": 10,
+            "overallRisk": 10,
+            "governanceEpochDate": "2023-06-01 01:00:00",
+            "compensationAsOfEpochDate": "2022-12-31 00:00:00",
+            "maxAge": 86400
+        },
+        "recommendationTrend": {
+            "trend": [
+                {
+                    "period": "0m",
+                    "strongBuy": 1,
+                    "buy": 1,
+                    "hold": 1,
+                    "sell": 0,
+                    "strongSell": 0
+                },
+                {
+                    "period": "-1m",
+                    "strongBuy": 1,
+                    "buy": 0,
+                    "hold": 0,
+                    "sell": 0,
+                    "strongSell": 0
+                },
+                {
+                    "period": "-2m",
+                    "strongBuy": 1,
+                    "buy": 0,
+                    "hold": 0,
+                    "sell": 0,
+                    "strongSell": 0
+                },
+                {
+                    "period": "-3m",
+                    "strongBuy": 1,
+                    "buy": 1,
+                    "hold": 1,
+                    "sell": 0,
+                    "strongSell": 0
+                }
+            ],
+            "maxAge": 86400
+        },
+        "cashflowStatementHistory": {
+            "cashflowStatements": [
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-06-30",
+                    "netIncome": 1205000000,
+                    "depreciation": 381000000,
+                    "changeToNetincome": 981000000,
+                    "changeToAccountReceivables": -79000000,
+                    "changeToLiabilities": -54000000,
+                    "changeToInventory": -301000000,
+                    "changeToOperatingActivities": -249000000,
+                    "totalCashFromOperatingActivities": 1884000000,
+                    "capitalExpenditures": -307000000,
+                    "investments": -28000000,
+                    "otherCashflowsFromInvestingActivities": -18000000,
+                    "totalCashflowsFromInvestingActivities": -513000000,
+                    "dividendsPaid": -307000000,
+                    "netBorrowings": -750000000,
+                    "totalCashFromFinancingActivities": -2057000000,
+                    "changeInCash": -686000000,
+                    "repurchaseOfStock": -1000000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2021-06-30",
+                    "netIncome": 2150000000,
+                    "depreciation": 322000000,
+                    "changeToNetincome": 188000000,
+                    "changeToAccountReceivables": -269000000,
+                    "changeToLiabilities": 282000000,
+                    "changeToInventory": 190000000,
+                    "changeToOperatingActivities": -224000000,
+                    "totalCashFromOperatingActivities": 2639000000,
+                    "capitalExpenditures": -484000000,
+                    "investments": -86000000,
+                    "otherCashflowsFromInvestingActivities": -18000000,
+                    "totalCashflowsFromInvestingActivities": -528000000,
+                    "dividendsPaid": -330000000,
+                    "netBorrowings": -750000000,
+                    "otherCashflowsFromFinancingActivities": 461000000,
+                    "totalCashFromFinancingActivities": -870000000,
+                    "changeInCash": 1241000000,
+                    "repurchaseOfStock": -1001000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2020-06-30",
+                    "netIncome": 999000000,
+                    "depreciation": 282000000,
+                    "changeToNetincome": 864000000,
+                    "changeToAccountReceivables": 224000000,
+                    "changeToLiabilities": -87000000,
+                    "changeToInventory": 181000000,
+                    "changeToOperatingActivities": -98000000,
+                    "totalCashFromOperatingActivities": 2365000000,
+                    "capitalExpenditures": -359000000,
+                    "investments": 246000000,
+                    "otherCashflowsFromInvestingActivities": 14000000,
+                    "totalCashflowsFromInvestingActivities": -1100000000,
+                    "dividendsPaid": -335000000,
+                    "netBorrowings": 1191000000,
+                    "otherCashflowsFromFinancingActivities": -110000000,
+                    "totalCashFromFinancingActivities": 146000000,
+                    "changeInCash": 1411000000,
+                    "repurchaseOfStock": -600000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2019-06-30",
+                    "netIncome": 1595000000,
+                    "depreciation": 250000000,
+                    "changeToNetincome": 515000000,
+                    "changeToAccountReceivables": -166000000,
+                    "changeToLiabilities": 231000000,
+                    "changeToInventory": 197000000,
+                    "changeToOperatingActivities": -98000000,
+                    "totalCashFromOperatingActivities": 2524000000,
+                    "capitalExpenditures": -235000000,
+                    "investments": -338000000,
+                    "otherCashflowsFromInvestingActivities": -64000000,
+                    "totalCashflowsFromInvestingActivities": -637000000,
+                    "dividendsPaid": -188000000,
+                    "netBorrowings": 6750000000,
+                    "otherCashflowsFromFinancingActivities": -7715000000,
+                    "totalCashFromFinancingActivities": -1153000000,
+                    "changeInCash": 734000000,
+                    "repurchaseOfStock": -600000000
+                }
+            ],
+            "maxAge": 86400
+        },
+        "indexTrend": {
+            "maxAge": 1,
+            "symbol": "SP5",
+            "peRatio": 16.2098,
+            "pegRatio": 0.721429,
+            "estimates": [
+                {
+                    "period": "0q",
+                    "growth": -0.008
+                },
+                {
+                    "period": "+1q",
+                    "growth": 0.07
+                },
+                {
+                    "period": "0y",
+                    "growth": 0.006
+                },
+                {
+                    "period": "+1y",
+                    "growth": 0.103
+                },
+                {
+                    "period": "+5y",
+                    "growth": 0.0771607
+                },
+                {
+                    "period": "-5y"
+                }
+            ]
+        },
+        "defaultKeyStatistics": {
+            "maxAge": 1,
+            "priceHint": 2,
+            "enterpriseValue": 20237082624,
+            "forwardPE": 13.229788,
+            "profitMargins": 0.078449994,
+            "floatShares": 398885698,
+            "sharesOutstanding": 235580992,
+            "sharesShort": 3066453,
+            "sharesShortPriorMonth": 2250087,
+            "sharesShortPreviousMonthDate": "2023-04-28 01:00:00",
+            "dateShortInterest": "2023-05-31 01:00:00",
+            "sharesPercentSharesOut": 0.0061000003,
+            "heldPercentInsiders": 0.43157002,
+            "heldPercentInstitutions": 0.5326,
+            "shortRatio": 2.01,
+            "shortPercentOfFloat": 0.0232,
+            "beta": 0.861308,
+            "impliedSharesOutstanding": 0,
+            "category": null,
+            "bookValue": 20.124,
+            "priceToBook": 1.5449214,
+            "fundFamily": null,
+            "legalType": null,
+            "lastFiscalYearEnd": "2022-06-30 01:00:00",
+            "nextFiscalYearEnd": "2023-06-30 01:00:00",
+            "mostRecentQuarter": "2023-03-31 01:00:00",
+            "netIncomeToCommon": 1170000000,
+            "trailingEps": 2.14,
+            "forwardEps": 2.35,
+            "pegRatio": 2.72,
+            "lastSplitFactor": null,
+            "enterpriseToRevenue": 1.357,
+            "enterpriseToEbitda": 6.306,
+            "52WeekChange": 0.045122743,
+            "SandP52WeekChange": 0.1712712,
+            "lastDividendValue": 0.25,
+            "lastDividendDate": 1677542400
+        },
+        "industryTrend": {
+            "maxAge": 1,
+            "symbol": null,
+            "estimates": []
+        },
+        "quoteType": {
+            "exchange": "NMS",
+            "quoteType": "EQUITY",
+            "symbol": "FOX",
+            "underlyingSymbol": "FOX",
+            "shortName": "Fox Corporation",
+            "longName": "Fox Corporation",
+            "firstTradeDateEpochUtc": "2019-03-13 13:30:00",
+            "timeZoneFullName": "America/New_York",
+            "timeZoneShortName": "EDT",
+            "uuid": "1cbdb804-3b37-37c9-8a83-582f9218c8b4",
+            "messageBoardId": "finmb_546623668",
+            "gmtOffSetMilliseconds": -14400000,
+            "maxAge": 1
+        },
+        "incomeStatementHistory": {
+            "incomeStatementHistory": [
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-06-30",
+                    "totalRevenue": 13974000000,
+                    "costOfRevenue": 9117000000,
+                    "grossProfit": 4857000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 1937000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 11417000000,
+                    "operatingIncome": 2557000000,
+                    "totalOtherIncomeExpenseNet": -863000000,
+                    "ebit": 2557000000,
+                    "interestExpense": -377000000,
+                    "incomeBeforeTax": 1694000000,
+                    "incomeTaxExpense": 461000000,
+                    "minorityInterest": 224000000,
+                    "netIncomeFromContinuingOps": 1233000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 1205000000,
+                    "netIncomeApplicableToCommonShares": 1205000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2021-06-30",
+                    "totalRevenue": 12909000000,
+                    "costOfRevenue": 8037000000,
+                    "grossProfit": 4872000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 1836000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 10173000000,
+                    "operatingIncome": 2736000000,
+                    "totalOtherIncomeExpenseNet": 182000000,
+                    "ebit": 2736000000,
+                    "interestExpense": -395000000,
+                    "incomeBeforeTax": 2918000000,
+                    "incomeTaxExpense": 717000000,
+                    "minorityInterest": 263000000,
+                    "netIncomeFromContinuingOps": 2201000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 2150000000,
+                    "netIncomeApplicableToCommonShares": 2150000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2020-06-30",
+                    "totalRevenue": 12303000000,
+                    "costOfRevenue": 7807000000,
+                    "grossProfit": 4496000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 1758000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 9823000000,
+                    "operatingIncome": 2480000000,
+                    "totalOtherIncomeExpenseNet": -1016000000,
+                    "ebit": 2480000000,
+                    "interestExpense": -369000000,
+                    "incomeBeforeTax": 1464000000,
+                    "incomeTaxExpense": 402000000,
+                    "minorityInterest": 322000000,
+                    "netIncomeFromContinuingOps": 1062000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 999000000,
+                    "netIncomeApplicableToCommonShares": 999000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2019-06-30",
+                    "totalRevenue": 11389000000,
+                    "costOfRevenue": 7327000000,
+                    "grossProfit": 4062000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 1419000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 8958000000,
+                    "operatingIncome": 2431000000,
+                    "totalOtherIncomeExpenseNet": -207000000,
+                    "ebit": 2431000000,
+                    "interestExpense": -203000000,
+                    "incomeBeforeTax": 2224000000,
+                    "incomeTaxExpense": 581000000,
+                    "minorityInterest": 200000000,
+                    "netIncomeFromContinuingOps": 1643000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 1595000000,
+                    "netIncomeApplicableToCommonShares": 1595000000
+                }
+            ],
+            "maxAge": 86400
+        },
+        "fundOwnership": {
+            "maxAge": 1,
+            "ownershipList": [
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Dodge & Cox Stock Fund",
+                    "pctHeld": 0.0354,
+                    "position": 8419433,
+                    "value": 261760173,
+                    "pctChange": 0.0
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Vanguard Total Stock Market Index Fund",
+                    "pctHeld": 0.0182,
+                    "position": 4330977,
+                    "value": 134650075,
+                    "pctChange": 0.0052
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "American Century Mid Cap Value Fund",
+                    "pctHeld": 0.0155,
+                    "position": 3687714,
+                    "value": 114651028,
+                    "pctChange": -0.1447
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Vanguard 500 Index Fund",
+                    "pctHeld": 0.0138,
+                    "position": 3283748,
+                    "value": 102091725,
+                    "pctChange": -0.0139
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "AMG Yacktman Fd",
+                    "pctHeld": 0.012999999,
+                    "position": 3100000,
+                    "value": 96379000,
+                    "pctChange": 0.0
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Vanguard Mid-Cap Index Fund",
+                    "pctHeld": 0.012999999,
+                    "position": 3081254,
+                    "value": 95796187,
+                    "pctChange": -0.0215
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "AMG Yacktman Focused Fd",
+                    "pctHeld": 0.0126,
+                    "position": 3000000,
+                    "value": 93270000,
+                    "pctChange": 0.0
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-02-28",
+                    "organization": "Fidelity 500 Index Fund",
+                    "pctHeld": 0.0064,
+                    "position": 1527597,
+                    "value": 47492990,
+                    "pctChange": 0.0019
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "SPDR S&P 500 ETF Trust",
+                    "pctHeld": 0.0063,
+                    "position": 1505991,
+                    "value": 46821260,
+                    "pctChange": -0.0476
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-02-28",
+                    "organization": "SPDR (R) Idx Shares-SPDR Communication Services Select Sector ETF",
+                    "pctHeld": 0.006,
+                    "position": 1424490,
+                    "value": 44287394,
+                    "pctChange": -0.0064999997
+                }
+            ]
+        },
+        "summaryDetail": {
+            "maxAge": 1,
+            "priceHint": 2,
+            "previousClose": 31.5,
+            "open": 31.37,
+            "dayLow": 30.87,
+            "dayHigh": 31.5,
+            "regularMarketPreviousClose": 31.5,
+            "regularMarketOpen": 31.37,
+            "regularMarketDayLow": 30.87,
+            "regularMarketDayHigh": 31.5,
+            "dividendRate": 0.5,
+            "dividendYield": 0.0159,
+            "exDividendDate": "2023-02-28 00:00:00",
+            "payoutRatio": 0.2336,
+            "beta": 0.861308,
+            "trailingPE": 14.528037,
+            "forwardPE": 13.229788,
+            "volume": 1736626,
+            "regularMarketVolume": 1736626,
+            "averageVolume": 1230146,
+            "averageVolume10days": 1121750,
+            "averageDailyVolume10Day": 1121750,
+            "bid": 31.09,
+            "ask": 31.1,
+            "bidSize": 800,
+            "askSize": 800,
+            "marketCap": 16257458176,
+            "fiftyTwoWeekLow": 26.35,
+            "fiftyTwoWeekHigh": 34.42,
+            "priceToSalesTrailing12Months": 1.0900804,
+            "fiftyDayAverage": 30.029,
+            "twoHundredDayAverage": 30.075075,
+            "trailingAnnualDividendRate": 0.5,
+            "trailingAnnualDividendYield": 0.015873017,
+            "currency": "USD",
+            "fromCurrency": null,
+            "toCurrency": null,
+            "lastMarket": null,
+            "coinMarketCapLink": null,
+            "algorithm": null,
+            "tradeable": false
+        },
+        "insiderHolders": {
+            "holders": [
+                {
+                    "maxAge": 1,
+                    "name": "BANCROFT NATALIE",
+                    "relation": "Director",
+                    "url": "",
+                    "transactionDescription": "Sale",
+                    "latestTransDate": "2011-12-16",
+                    "positionIndirect": 2500,
+                    "positionIndirectDate": 1323993600
+                },
+                {
+                    "maxAge": 1,
+                    "name": "MURDOCH KEITH RUPERT",
+                    "relation": "Officer and Director",
+                    "url": "",
+                    "transactionDescription": "Sale",
+                    "latestTransDate": "2015-08-26",
+                    "positionSummaryDate": 1440547200
+                },
+                {
+                    "maxAge": 1,
+                    "name": "PERKINS THOMAS J",
+                    "relation": "Director",
+                    "url": "",
+                    "transactionDescription": "Sale",
+                    "latestTransDate": "2011-05-19",
+                    "positionDirectDate": "2011-05-19"
+                },
+                {
+                    "maxAge": 1,
+                    "name": "SHUMAN STANLEY S",
+                    "relation": "Retired",
+                    "url": "",
+                    "transactionDescription": "Sale",
+                    "latestTransDate": "2012-11-29",
+                    "positionIndirectDate": 1354147200
+                },
+                {
+                    "maxAge": 1,
+                    "name": "SILBERMAN ROBERT S",
+                    "relation": "Director",
+                    "url": "",
+                    "transactionDescription": "Purchase",
+                    "latestTransDate": "2013-08-13",
+                    "positionDirect": 15000,
+                    "positionDirectDate": "2013-08-13"
+                },
+                {
+                    "maxAge": 1,
+                    "name": "UBBEN JEFFREY W",
+                    "relation": "Director",
+                    "url": "",
+                    "transactionDescription": "Purchase",
+                    "latestTransDate": "2016-12-16",
+                    "positionIndirect": 53326300,
+                    "positionIndirectDate": 1481846400
+                }
+            ],
+            "maxAge": 1
+        },
+        "calendarEvents": {
+            "maxAge": 1,
+            "earnings": {
+                "earningsDate": [],
+                "earningsAverage": 0.49,
+                "earningsLow": 0.49,
+                "earningsHigh": 0.49,
+                "revenueAverage": 7841530000,
+                "revenueLow": 7841530000,
+                "revenueHigh": 7841530000
+            },
+            "exDividendDate": "2023-02-28 00:00:00",
+            "dividendDate": "2023-03-29 01:00:00"
+        },
+        "upgradeDowngradeHistory": {
+            "history": [
+                {
+                    "epochGradeDate": "2023-03-22 13:51:51",
+                    "firm": "Rosenblatt",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "reit"
+                },
+                {
+                    "epochGradeDate": "2022-08-11 15:35:37",
+                    "firm": "Credit Suisse",
+                    "toGrade": "Outperform",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2022-06-02 13:14:42",
+                    "firm": "Wolfe Research",
+                    "toGrade": "Peer Perform",
+                    "fromGrade": "Outperform",
+                    "action": "down"
+                },
+                {
+                    "epochGradeDate": "2021-12-14 13:39:38",
+                    "firm": "Macquarie",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2021-11-05 13:00:56",
+                    "firm": "Goldman Sachs",
+                    "toGrade": "Sell",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2020-11-25 09:37:21",
+                    "firm": "Credit Suisse",
+                    "toGrade": "Outperform",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2020-11-25 09:37:16",
+                    "firm": "Guggenheim Securities",
+                    "toGrade": "Buy",
+                    "fromGrade": "Neutral",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2020-11-25 09:37:13",
+                    "firm": "JP Morgan",
+                    "toGrade": "Overweight",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2020-11-25 09:36:56",
+                    "firm": "Loop Capital",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "init"
+                },
+                {
+                    "epochGradeDate": "2020-11-25 09:36:46",
+                    "firm": "Rosenblatt",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "init"
+                },
+                {
+                    "epochGradeDate": "2020-11-25 09:36:05",
+                    "firm": "Deutsche Bank",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                }
+            ],
+            "maxAge": 86400
+        },
+        "price": {
+            "maxAge": 1,
+            "preMarketSource": "FREE_REALTIME",
+            "postMarketChangePercent": -0.008684481,
+            "postMarketChange": -0.27,
+            "postMarketTime": "2023-06-20 21:10:11",
+            "postMarketPrice": 30.82,
+            "postMarketSource": "FREE_REALTIME",
+            "regularMarketChangePercent": -0.013015869,
+            "regularMarketChange": -0.40999985,
+            "regularMarketTime": "2023-06-20 21:00:06",
+            "priceHint": 2,
+            "regularMarketPrice": 31.09,
+            "regularMarketDayHigh": 31.5,
+            "regularMarketDayLow": 30.87,
+            "regularMarketVolume": 1736626,
+            "averageDailyVolume10Day": 1121750,
+            "averageDailyVolume3Month": 1230146,
+            "regularMarketPreviousClose": 31.5,
+            "regularMarketSource": "FREE_REALTIME",
+            "regularMarketOpen": 31.37,
+            "exchange": "NMS",
+            "exchangeName": "NasdaqGS",
+            "exchangeDataDelayedBy": 0,
+            "marketState": "POST",
+            "quoteType": "EQUITY",
+            "symbol": "FOX",
+            "underlyingSymbol": null,
+            "shortName": "Fox Corporation",
+            "longName": "Fox Corporation",
+            "currency": "USD",
+            "quoteSourceName": "Nasdaq Real Time Price",
+            "currencySymbol": "$",
+            "fromCurrency": null,
+            "toCurrency": null,
+            "lastMarket": null,
+            "marketCap": 16257458176
+        },
+        "balanceSheetHistory": {
+            "balanceSheetStatements": [
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-06-30",
+                    "cash": 5200000000,
+                    "netReceivables": 2128000000,
+                    "otherCurrentAssets": 953000000,
+                    "totalCurrentAssets": 8281000000,
+                    "longTermInvestments": 578000000,
+                    "propertyPlantEquipment": 2159000000,
+                    "goodWill": 3554000000,
+                    "intangibleAssets": 3678000000,
+                    "otherAssets": 3935000000,
+                    "deferredLongTermAssetCharges": 3440000000,
+                    "totalAssets": 22185000000,
+                    "accountsPayable": 302000000,
+                    "otherCurrentLiab": 895000000,
+                    "longTermDebt": 7206000000,
+                    "otherLiab": 715000000,
+                    "minorityInterest": 224000000,
+                    "totalCurrentLiabilities": 2296000000,
+                    "totalLiab": 10622000000,
+                    "commonStock": 6000000,
+                    "retainedEarnings": 2461000000,
+                    "treasuryStock": -226000000,
+                    "capitalSurplus": 9098000000,
+                    "otherStockholderEquity": -226000000,
+                    "totalStockholderEquity": 11339000000,
+                    "netTangibleAssets": 4107000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2021-06-30",
+                    "cash": 5886000000,
+                    "netReceivables": 2029000000,
+                    "otherCurrentAssets": 834000000,
+                    "totalCurrentAssets": 8749000000,
+                    "longTermInvestments": 899000000,
+                    "propertyPlantEquipment": 2177000000,
+                    "goodWill": 3435000000,
+                    "intangibleAssets": 3353000000,
+                    "otherAssets": 4313000000,
+                    "deferredLongTermAssetCharges": 3822000000,
+                    "totalAssets": 22926000000,
+                    "accountsPayable": 229000000,
+                    "shortLongTermDebt": 749000000,
+                    "otherCurrentLiab": 855000000,
+                    "longTermDebt": 7202000000,
+                    "otherLiab": 927000000,
+                    "minorityInterest": 263000000,
+                    "totalCurrentLiabilities": 3002000000,
+                    "totalLiab": 11540000000,
+                    "commonStock": 6000000,
+                    "retainedEarnings": 1982000000,
+                    "treasuryStock": -318000000,
+                    "capitalSurplus": 9453000000,
+                    "otherStockholderEquity": -318000000,
+                    "totalStockholderEquity": 11123000000,
+                    "netTangibleAssets": 4335000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2020-06-30",
+                    "cash": 4645000000,
+                    "netReceivables": 1888000000,
+                    "otherCurrentAssets": 953000000,
+                    "totalCurrentAssets": 7486000000,
+                    "longTermInvestments": 618000000,
+                    "propertyPlantEquipment": 2037000000,
+                    "goodWill": 3409000000,
+                    "intangibleAssets": 3400000000,
+                    "otherAssets": 4800000000,
+                    "deferredLongTermAssetCharges": 4358000000,
+                    "totalAssets": 21750000000,
+                    "accountsPayable": 240000000,
+                    "otherCurrentLiab": 637000000,
+                    "longTermDebt": 7946000000,
+                    "otherLiab": 1030000000,
+                    "minorityInterest": 322000000,
+                    "totalCurrentLiabilities": 1906000000,
+                    "totalLiab": 11334000000,
+                    "commonStock": 6000000,
+                    "retainedEarnings": 674000000,
+                    "treasuryStock": -417000000,
+                    "capitalSurplus": 9831000000,
+                    "otherStockholderEquity": -417000000,
+                    "totalStockholderEquity": 10094000000,
+                    "netTangibleAssets": 3285000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2019-06-30",
+                    "cash": 3234000000,
+                    "netReceivables": 1967000000,
+                    "inventory": 1129000000,
+                    "otherCurrentAssets": 1277000000,
+                    "totalCurrentAssets": 6478000000,
+                    "longTermInvestments": 865000000,
+                    "propertyPlantEquipment": 1313000000,
+                    "goodWill": 2691000000,
+                    "intangibleAssets": 3056000000,
+                    "otherAssets": 5106000000,
+                    "deferredLongTermAssetCharges": 4651000000,
+                    "totalAssets": 19509000000,
+                    "accountsPayable": 194000000,
+                    "otherCurrentLiab": 683000000,
+                    "longTermDebt": 6751000000,
+                    "otherLiab": 899000000,
+                    "minorityInterest": 200000000,
+                    "totalCurrentLiabilities": 1712000000,
+                    "totalLiab": 9362000000,
+                    "commonStock": 7000000,
+                    "retainedEarnings": 357000000,
+                    "treasuryStock": -308000000,
+                    "capitalSurplus": 9891000000,
+                    "otherStockholderEquity": -308000000,
+                    "totalStockholderEquity": 9947000000,
+                    "netTangibleAssets": 4200000000
+                }
+            ],
+            "maxAge": 86400
+        },
+        "earningsTrend": {
+            "trend": [
+                {
+                    "maxAge": 1,
+                    "period": "0q",
+                    "endDate": "2019-03-31",
+                    "growth": -0.093,
+                    "earningsEstimate": {
+                        "avg": 0.49,
+                        "low": 0.49,
+                        "high": 0.49,
+                        "yearAgoEps": 0.54,
+                        "numberOfAnalysts": 1,
+                        "growth": -0.093
+                    },
+                    "revenueEstimate": {
+                        "avg": 7841530000,
+                        "low": 7841530000,
+                        "high": 7841530000,
+                        "numberOfAnalysts": 1,
+                        "yearAgoRevenue": 7420000000,
+                        "growth": 0.056999996
+                    },
+                    "epsTrend": {
+                        "current": 0.49,
+                        "7daysAgo": 0.49,
+                        "30daysAgo": 0.49,
+                        "60daysAgo": 0.49,
+                        "90daysAgo": 0.49
+                    },
+                    "epsRevisions": {
+                        "upLast7days": 0,
+                        "upLast30days": 0,
+                        "downLast30days": 0,
+                        "downLast90days": {}
+                    }
+                },
+                {
+                    "maxAge": 1,
+                    "period": "+1q",
+                    "endDate": "2019-06-30",
+                    "growth": 0.556,
+                    "earningsEstimate": {
+                        "avg": 0.56,
+                        "low": 0.56,
+                        "high": 0.56,
+                        "yearAgoEps": 0.36,
+                        "numberOfAnalysts": 1,
+                        "growth": 0.556
+                    },
+                    "revenueEstimate": {
+                        "avg": 8374060000,
+                        "low": 8374060000,
+                        "high": 8374060000,
+                        "numberOfAnalysts": 1,
+                        "yearAgoRevenue": 7941000000,
+                        "growth": 0.055
+                    },
+                    "epsTrend": {
+                        "current": 0.56,
+                        "7daysAgo": 0.56,
+                        "30daysAgo": 0.56,
+                        "60daysAgo": 0.56,
+                        "90daysAgo": 0.56
+                    },
+                    "epsRevisions": {
+                        "upLast7days": 0,
+                        "upLast30days": 0,
+                        "downLast30days": 0,
+                        "downLast90days": {}
+                    }
+                },
+                {
+                    "maxAge": 1,
+                    "period": "0y",
+                    "endDate": "2019-06-30",
+                    "growth": {},
+                    "earningsEstimate": {
+                        "avg": 2.05,
+                        "low": 1.86,
+                        "high": 2.24,
+                        "yearAgoEps": {},
+                        "numberOfAnalysts": 2,
+                        "growth": {}
+                    },
+                    "revenueEstimate": {
+                        "avg": 31428000000,
+                        "low": 31061000000,
+                        "high": 31795000000,
+                        "numberOfAnalysts": 2,
+                        "yearAgoRevenue": 30400000000,
+                        "growth": 0.034
+                    },
+                    "epsTrend": {
+                        "current": 2.05,
+                        "7daysAgo": 2.05,
+                        "30daysAgo": 2.05,
+                        "60daysAgo": 2.05,
+                        "90daysAgo": 1.86
+                    },
+                    "epsRevisions": {
+                        "upLast7days": 0,
+                        "upLast30days": 0,
+                        "downLast30days": 0,
+                        "downLast90days": {}
+                    }
+                },
+                {
+                    "maxAge": 1,
+                    "period": "+1y",
+                    "endDate": "2020-06-30",
+                    "growth": 0.146,
+                    "earningsEstimate": {
+                        "avg": 2.35,
+                        "low": 2.35,
+                        "high": 2.35,
+                        "yearAgoEps": 2.05,
+                        "numberOfAnalysts": 1,
+                        "growth": 0.146
+                    },
+                    "revenueEstimate": {
+                        "avg": 34859500000,
+                        "low": 34859500000,
+                        "high": 34859500000,
+                        "numberOfAnalysts": 1,
+                        "yearAgoRevenue": 31428000000,
+                        "growth": 0.109
+                    },
+                    "epsTrend": {
+                        "current": 2.35,
+                        "7daysAgo": 2.35,
+                        "30daysAgo": 2.35,
+                        "60daysAgo": 2.35,
+                        "90daysAgo": 2.34
+                    },
+                    "epsRevisions": {
+                        "upLast7days": 0,
+                        "upLast30days": 0,
+                        "downLast30days": 0,
+                        "downLast90days": {}
+                    }
+                },
+                {
+                    "maxAge": 1,
+                    "period": "+5y",
+                    "endDate": null,
+                    "growth": 0.092,
+                    "earningsEstimate": {
+                        "avg": {},
+                        "low": {},
+                        "high": {},
+                        "yearAgoEps": {},
+                        "numberOfAnalysts": {},
+                        "growth": {}
+                    },
+                    "revenueEstimate": {
+                        "avg": {},
+                        "low": {},
+                        "high": {},
+                        "numberOfAnalysts": {},
+                        "yearAgoRevenue": {},
+                        "growth": {}
+                    },
+                    "epsTrend": {
+                        "current": {},
+                        "7daysAgo": {},
+                        "30daysAgo": {},
+                        "60daysAgo": {},
+                        "90daysAgo": {}
+                    },
+                    "epsRevisions": {
+                        "upLast7days": {},
+                        "upLast30days": {},
+                        "downLast30days": {},
+                        "downLast90days": {}
+                    }
+                },
+                {
+                    "maxAge": 1,
+                    "period": "-5y",
+                    "endDate": null,
+                    "growth": {},
+                    "earningsEstimate": {
+                        "avg": {},
+                        "low": {},
+                        "high": {},
+                        "yearAgoEps": {},
+                        "numberOfAnalysts": {},
+                        "growth": {}
+                    },
+                    "revenueEstimate": {
+                        "avg": {},
+                        "low": {},
+                        "high": {},
+                        "numberOfAnalysts": {},
+                        "yearAgoRevenue": {},
+                        "growth": {}
+                    },
+                    "epsTrend": {
+                        "current": {},
+                        "7daysAgo": {},
+                        "30daysAgo": {},
+                        "60daysAgo": {},
+                        "90daysAgo": {}
+                    },
+                    "epsRevisions": {
+                        "upLast7days": {},
+                        "upLast30days": {},
+                        "downLast30days": {},
+                        "downLast90days": {}
+                    }
+                }
+            ],
+            "maxAge": 1
+        },
+        "secFilings": {
+            "filings": [
+                {
+                    "date": "2023-06-15",
+                    "epochDate": "2023-06-15 01:00:00",
+                    "type": "8-K",
+                    "title": "Corporate Changes & Voting Matters",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-23-167872_1754301",
+                    "exhibits": [
+                        {
+                            "type": "8-K",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312523167872/d630896d8k.htm"
+                        },
+                        {
+                            "type": "EX-10.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312523167872/d630896dex101.htm"
+                        },
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000119312523167872/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000119312523167872/Financial_Report.xlsx"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2023-05-09",
+                    "epochDate": "2023-05-09 01:00:00",
+                    "type": "8-K",
+                    "title": "Corporate Changes & Voting Matters",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-23-138936_1754301",
+                    "exhibits": [
+                        {
+                            "type": "EX-99.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312523138936/d370789dex991.htm"
+                        },
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000119312523138936/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000119312523138936/Financial_Report.xlsx"
+                        },
+                        {
+                            "type": "8-K",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312523138936/d370789d8k.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2023-04-19",
+                    "epochDate": "2023-04-19 01:00:00",
+                    "type": "8-K",
+                    "title": "Corporate Changes & Voting Matters",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-23-106432_1754301",
+                    "exhibits": [
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000119312523106432/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000119312523106432/Financial_Report.xlsx"
+                        },
+                        {
+                            "type": "8-K",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312523106432/d454159d8k.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2023-02-14",
+                    "epochDate": "2023-02-14 00:00:00",
+                    "type": "SC 13G/A",
+                    "title": "Tender Offer/Acquisition Reports",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-23-038573_1754301",
+                    "exhibits": [
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0000200217/000119312523038573/d399065dsc13ga.htm"
+                        },
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312523038573/d399065dsc13ga.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2023-02-13",
+                    "epochDate": "2023-02-13 00:00:00",
+                    "type": "SC 13G/A",
+                    "title": "Tender Offer/Acquisition Reports",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001172661-23-000758_1754301",
+                    "exhibits": [
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001483866/000117266123000758/ifp-foxa123122a3.htm"
+                        },
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000117266123000758/ifp-foxa123122a3.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2023-02-09",
+                    "epochDate": "2023-02-09 00:00:00",
+                    "type": "SC 13G/A",
+                    "title": "Tender Offer/Acquisition Reports",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001104659-23-015993_1754301",
+                    "exhibits": [
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0000102909/000110465923015993/tv0944-foxcorpclassa.htm"
+                        },
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000110465923015993/tv0944-foxcorpclassa.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2023-02-08",
+                    "epochDate": "2023-02-08 00:00:00",
+                    "type": "10-Q",
+                    "title": "Periodic Financial Reports",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001628280-23-002786_1754301",
+                    "exhibits": [
+                        {
+                            "type": "10-Q",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828023002786/fox-20221231.htm"
+                        },
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000162828023002786/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000162828023002786/Financial_Report.xlsx"
+                        },
+                        {
+                            "type": "EX-10.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828023002786/foxa-20221231x10qex101.htm"
+                        },
+                        {
+                            "type": "EX-3.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828023002786/foxa-20221231x10qex31.htm"
+                        },
+                        {
+                            "type": "EX-31.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828023002786/foxa-20221231x10qex311.htm"
+                        },
+                        {
+                            "type": "EX-31.2",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828023002786/foxa-20221231x10qex312.htm"
+                        },
+                        {
+                            "type": "EX-32.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828023002786/foxa-20221231x10qex321.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2023-02-01",
+                    "epochDate": "2023-02-01 00:00:00",
+                    "type": "SC 13G/A",
+                    "title": "Tender Offer/Acquisition Reports",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001306550-23-005977_1754301",
+                    "exhibits": [
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001364742/000130655023005977/us35137l1052_020123.txt"
+                        },
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000130655023005977/us35137l1052_020123.txt"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2023-01-24",
+                    "epochDate": "2023-01-24 00:00:00",
+                    "type": "8-K",
+                    "title": "Corporate Changes & Voting Matters",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-23-014288_1754301",
+                    "exhibits": [
+                        {
+                            "type": "EX-99.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312523014288/d330813dex991.htm"
+                        },
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000119312523014288/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000119312523014288/Financial_Report.xlsx"
+                        },
+                        {
+                            "type": "8-K",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312523014288/d330813d8k.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-12-06",
+                    "epochDate": "2022-12-06 00:00:00",
+                    "type": "8-K",
+                    "title": "Corporate Changes & Voting Matters",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-22-298947_1754301",
+                    "exhibits": [
+                        {
+                            "type": "EX-99.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522298947/d366357dex991.htm"
+                        },
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000119312522298947/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000119312522298947/Financial_Report.xlsx"
+                        },
+                        {
+                            "type": "8-K",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522298947/d366357d8k.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-11-07",
+                    "epochDate": "2022-11-07 00:00:00",
+                    "type": "8-K",
+                    "title": "Corporate Changes & Voting Matters",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-22-279067_1754301",
+                    "exhibits": [
+                        {
+                            "type": "8-K",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522279067/d407813d8k.htm"
+                        },
+                        {
+                            "type": "EX-99.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522279067/d407813dex991.htm"
+                        },
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000119312522279067/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000119312522279067/Financial_Report.xlsx"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-11-03",
+                    "epochDate": "2022-11-03 00:00:00",
+                    "type": "8-K",
+                    "title": "Corporate Changes & Voting Matters",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-22-277013_1754301",
+                    "exhibits": [
+                        {
+                            "type": "8-K",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522277013/d408693d8k.htm"
+                        },
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000119312522277013/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000119312522277013/Financial_Report.xlsx"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-11-01",
+                    "epochDate": "2022-11-01 00:00:00",
+                    "type": "8-K",
+                    "title": "Corporate Changes & Voting Matters",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-22-274515_1754301",
+                    "exhibits": [
+                        {
+                            "type": "EX-99.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522274515/d392507dex991.htm"
+                        },
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000119312522274515/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000119312522274515/Financial_Report.xlsx"
+                        },
+                        {
+                            "type": "8-K",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522274515/d392507d8k.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-10-17",
+                    "epochDate": "2022-10-17 01:00:00",
+                    "type": "8-K",
+                    "title": "Corporate Changes & Voting Matters",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-22-263379_1754301",
+                    "exhibits": [
+                        {
+                            "type": "EX-99.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522263379/d352959dex991.htm"
+                        },
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000119312522263379/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000119312522263379/Financial_Report.xlsx"
+                        },
+                        {
+                            "type": "8-K",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522263379/d352959d8k.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-09-19",
+                    "epochDate": "2022-09-19 01:00:00",
+                    "type": "DEFA14A",
+                    "title": "Proxy Statements",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-22-247094_1754301",
+                    "exhibits": [
+                        {
+                            "type": "DEFA14A",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522247094/d372017ddefa14a.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-09-09",
+                    "epochDate": "2022-09-09 01:00:00",
+                    "type": "PRE 14A",
+                    "title": "Proxy Statements",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-22-241934_1754301",
+                    "exhibits": [
+                        {
+                            "type": "PRE 14A",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522241934/d376635dpre14a.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-08-12",
+                    "epochDate": "2022-08-12 01:00:00",
+                    "type": "10-K",
+                    "title": "Periodic Financial Reports",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001628280-22-022584_1754301",
+                    "exhibits": [
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000162828022022584/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000162828022022584/Financial_Report.xlsx"
+                        },
+                        {
+                            "type": "EX-21.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828022022584/foxa-20220630x10kex211.htm"
+                        },
+                        {
+                            "type": "EX-23.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828022022584/foxa-20220630x10kex231.htm"
+                        },
+                        {
+                            "type": "EX-31.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828022022584/foxa-20220630x10kex311.htm"
+                        },
+                        {
+                            "type": "EX-31.2",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828022022584/foxa-20220630x10kex312.htm"
+                        },
+                        {
+                            "type": "EX-32.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828022022584/foxa-20220630x10kex321.htm"
+                        },
+                        {
+                            "type": "10-K",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828022022584/fox-20220630.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-08-10",
+                    "epochDate": "2022-08-10 01:00:00",
+                    "type": "8-K",
+                    "title": "Corporate Changes & Voting Matters",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-22-216839_1754301",
+                    "exhibits": [
+                        {
+                            "type": "8-K",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522216839/d388419d8k.htm"
+                        },
+                        {
+                            "type": "EX-99.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522216839/d388419dex991.htm"
+                        },
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000119312522216839/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000119312522216839/Financial_Report.xlsx"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-05-10",
+                    "epochDate": "2022-05-10 01:00:00",
+                    "type": "8-K",
+                    "title": "Corporate Changes & Voting Matters",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-22-145744_1754301",
+                    "exhibits": [
+                        {
+                            "type": "EX-99.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522145744/d323335dex991.htm"
+                        },
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000119312522145744/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000119312522145744/Financial_Report.xlsx"
+                        },
+                        {
+                            "type": "8-K",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522145744/d323335d8k.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-02-14",
+                    "epochDate": "2022-02-14 00:00:00",
+                    "type": "SC 13G",
+                    "title": "Tender Offer/Acquisition Reports",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001193125-22-040933_1754301",
+                    "exhibits": [
+                        {
+                            "type": "SC 13G",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0000200217/000119312522040933/d293890dsc13g.htm"
+                        },
+                        {
+                            "type": "SC 13G",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000119312522040933/d293890dsc13g.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-02-11",
+                    "epochDate": "2022-02-11 00:00:00",
+                    "type": "SC 13G/A",
+                    "title": "Tender Offer/Acquisition Reports",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001172661-22-000345_1754301",
+                    "exhibits": [
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001483866/000117266122000345/ifp-foxa123121a2.htm"
+                        },
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000117266122000345/ifp-foxa123121a2.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-02-10",
+                    "epochDate": "2022-02-10 00:00:00",
+                    "type": "SC 13G/A",
+                    "title": "Tender Offer/Acquisition Reports",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001104659-22-017592_1754301",
+                    "exhibits": [
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0000102909/000110465922017592/tv0939-foxcorpclassa.htm"
+                        },
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000110465922017592/tv0939-foxcorpclassa.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-02-09",
+                    "epochDate": "2022-02-09 00:00:00",
+                    "type": "10-Q",
+                    "title": "Periodic Financial Reports",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0001628280-22-002107_1754301",
+                    "exhibits": [
+                        {
+                            "type": "EXCEL",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000162828022002107/Financial_Report.xlsx",
+                            "downloadUrl": "https://finance.yahoo.com/_getSECFilingReportUrl?reportUrl=/sec-filings/0001754301/000162828022002107/Financial_Report.xlsx"
+                        },
+                        {
+                            "type": "EX-10.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828022002107/foxa-20211231x10q_exhx101.htm"
+                        },
+                        {
+                            "type": "EX-31.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828022002107/foxa-20211231x10qex311.htm"
+                        },
+                        {
+                            "type": "EX-31.2",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828022002107/foxa-20211231x10qex312.htm"
+                        },
+                        {
+                            "type": "EX-32.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828022002107/foxa-20211231x10qex321.htm"
+                        },
+                        {
+                            "type": "EX-10.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/1754301/000162828022002107/foxa-20211231x10q_exhx101.htm"
+                        },
+                        {
+                            "type": "EX-31.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/1754301/000162828022002107/foxa-20211231x10qex311.htm"
+                        },
+                        {
+                            "type": "EX-31.2",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/1754301/000162828022002107/foxa-20211231x10qex312.htm"
+                        },
+                        {
+                            "type": "EX-32.1",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/1754301/000162828022002107/foxa-20211231x10qex321.htm"
+                        },
+                        {
+                            "type": "10-Q",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/0001754301/000162828022002107/fox-20211231.htm"
+                        },
+                        {
+                            "type": "10-Q",
+                            "url": "https://cdn.yahoofinance.com/prod/sec-filings/1754301/000162828022002107/fox-20211231.htm"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-01-27",
+                    "epochDate": "2022-01-27 00:00:00",
+                    "type": "SC 13G/A",
+                    "title": "Tender Offer/Acquisition Reports",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0000834237-22-002856_1754301",
+                    "exhibits": [
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001364742/000083423722002856/us35137l1052_012722.txt"
+                        },
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000083423722002856/us35137l1052_012722.txt"
+                        }
+                    ],
+                    "maxAge": 1
+                },
+                {
+                    "date": "2022-01-26",
+                    "epochDate": "2022-01-26 00:00:00",
+                    "type": "SC 13G/A",
+                    "title": "Tender Offer/Acquisition Reports",
+                    "edgarUrl": "https://finance.yahoo.com/sec-filing/FOX/0000834237-22-001384_1754301",
+                    "exhibits": [
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001364742/000083423722001384/us35137l1052_012522.txt"
+                        },
+                        {
+                            "type": "SC 13G/A",
+                            "url": "https://s3.amazonaws.com/finance-pri-uw2/sec-filings/0001754301/000083423722001384/us35137l1052_012522.txt"
+                        }
+                    ],
+                    "maxAge": 1
+                }
+            ],
+            "maxAge": 86400
+        },
+        "institutionOwnership": {
+            "maxAge": 1,
+            "ownershipList": [
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Vanguard Group, Inc. (The)",
+                    "pctHeld": 0.069299996,
+                    "position": 16331334,
+                    "value": 507741176,
+                    "pctChange": -0.0042
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Dodge & Cox Inc",
+                    "pctHeld": 0.0495,
+                    "position": 11669678,
+                    "value": 362810290,
+                    "pctChange": -0.01
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Blackrock Inc.",
+                    "pctHeld": 0.045900002,
+                    "position": 10809714,
+                    "value": 336074009,
+                    "pctChange": -0.0256
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Yacktman Asset Management Lp",
+                    "pctHeld": 0.037100002,
+                    "position": 8736350,
+                    "value": 271613122,
+                    "pctChange": 0.0058999998
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "State Street Corporation",
+                    "pctHeld": 0.0321,
+                    "position": 7553861,
+                    "value": 234849539,
+                    "pctChange": 0.012
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Nomura Holdings Inc.",
+                    "pctHeld": 0.0229,
+                    "position": 5403041,
+                    "value": 167980545,
+                    "pctChange": 2.5795999
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "State Of Wisconsin Investment Board",
+                    "pctHeld": 0.0229,
+                    "position": 5397082,
+                    "value": 167795280,
+                    "pctChange": 0.0701
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "American Century Companies, Inc.",
+                    "pctHeld": 0.0216,
+                    "position": 5097728,
+                    "value": 158488364,
+                    "pctChange": 0.0019
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Geode Capital Management, LLC",
+                    "pctHeld": 0.0123000005,
+                    "position": 2886758,
+                    "value": 89749306,
+                    "pctChange": 0.0073
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Norges Bank Investment Management",
+                    "pctHeld": 0.0117,
+                    "position": 2763114,
+                    "value": 85905214,
+                    "pctChange": 1.0
+                }
+            ]
+        },
+        "majorHoldersBreakdown": {
+            "maxAge": 1,
+            "insidersPercentHeld": 0.43157002,
+            "institutionsPercentHeld": 0.5326,
+            "institutionsFloatPercentHeld": 0.93697,
+            "institutionsCount": 557
+        },
+        "balanceSheetHistoryQuarterly": {
+            "balanceSheetStatements": [
+                {
+                    "maxAge": 1,
+                    "endDate": "2023-03-31",
+                    "shortLongTermDebt": 1249000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-12-31",
+                    "cash": 4058000000,
+                    "netReceivables": 3004000000,
+                    "otherCurrentAssets": 1509000000,
+                    "totalCurrentAssets": 8571000000,
+                    "longTermInvestments": 772000000,
+                    "propertyPlantEquipment": 2649000000,
+                    "goodWill": 3556000000,
+                    "intangibleAssets": 3794000000,
+                    "otherAssets": 3784000000,
+                    "deferredLongTermAssetCharges": 3283000000,
+                    "totalAssets": 23126000000,
+                    "accountsPayable": 385000000,
+                    "otherCurrentLiab": 1110000000,
+                    "longTermDebt": 7208000000,
+                    "otherLiab": 603000000,
+                    "minorityInterest": 265000000,
+                    "totalCurrentLiabilities": 2543000000,
+                    "totalLiab": 11254000000,
+                    "commonStock": 5000000,
+                    "retainedEarnings": 2985000000,
+                    "treasuryStock": -219000000,
+                    "capitalSurplus": 8836000000,
+                    "otherStockholderEquity": -219000000,
+                    "totalStockholderEquity": 11607000000,
+                    "netTangibleAssets": 4257000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-09-30",
+                    "cash": 4950000000,
+                    "netReceivables": 2268000000,
+                    "otherCurrentAssets": 1277000000,
+                    "totalCurrentAssets": 8495000000,
+                    "longTermInvestments": 649000000,
+                    "propertyPlantEquipment": 2134000000,
+                    "goodWill": 3550000000,
+                    "intangibleAssets": 3781000000,
+                    "otherAssets": 3815000000,
+                    "deferredLongTermAssetCharges": 3334000000,
+                    "totalAssets": 22424000000,
+                    "accountsPayable": 422000000,
+                    "otherCurrentLiab": 1009000000,
+                    "longTermDebt": 7207000000,
+                    "otherLiab": 690000000,
+                    "minorityInterest": 257000000,
+                    "totalCurrentLiabilities": 2362000000,
+                    "totalLiab": 10646000000,
+                    "commonStock": 5000000,
+                    "retainedEarnings": 2795000000,
+                    "treasuryStock": -228000000,
+                    "capitalSurplus": 8949000000,
+                    "otherStockholderEquity": -228000000,
+                    "totalStockholderEquity": 11521000000,
+                    "netTangibleAssets": 4190000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-06-30",
+                    "cash": 5200000000,
+                    "netReceivables": 2128000000,
+                    "otherCurrentAssets": 953000000,
+                    "totalCurrentAssets": 8281000000,
+                    "longTermInvestments": 578000000,
+                    "propertyPlantEquipment": 2159000000,
+                    "goodWill": 3554000000,
+                    "intangibleAssets": 3678000000,
+                    "otherAssets": 3935000000,
+                    "deferredLongTermAssetCharges": 3440000000,
+                    "totalAssets": 22185000000,
+                    "accountsPayable": 302000000,
+                    "otherCurrentLiab": 895000000,
+                    "longTermDebt": 7206000000,
+                    "otherLiab": 715000000,
+                    "minorityInterest": 224000000,
+                    "totalCurrentLiabilities": 2296000000,
+                    "totalLiab": 10622000000,
+                    "commonStock": 6000000,
+                    "retainedEarnings": 2461000000,
+                    "treasuryStock": -226000000,
+                    "capitalSurplus": 9098000000,
+                    "otherStockholderEquity": -226000000,
+                    "totalStockholderEquity": 11339000000,
+                    "netTangibleAssets": 4107000000
+                }
+            ],
+            "maxAge": 86400
+        },
+        "earningsHistory": {
+            "history": [
+                {
+                    "maxAge": 1,
+                    "epsActual": 0.54,
+                    "epsEstimate": 0.48,
+                    "epsDifference": 0.06,
+                    "surprisePercent": 0.125,
+                    "quarter": "2017-03-31",
+                    "period": "-4q"
+                },
+                {
+                    "maxAge": 1,
+                    "epsActual": 0.36,
+                    "epsEstimate": 0.37,
+                    "epsDifference": -0.01,
+                    "surprisePercent": -0.027,
+                    "quarter": "2017-06-30",
+                    "period": "-3q"
+                },
+                {
+                    "maxAge": 1,
+                    "epsActual": 0.49,
+                    "epsEstimate": 0.48,
+                    "epsDifference": 0.01,
+                    "surprisePercent": 0.021,
+                    "quarter": "2017-09-30",
+                    "period": "-2q"
+                },
+                {
+                    "maxAge": 1,
+                    "epsActual": 0.37,
+                    "epsEstimate": 0.29,
+                    "epsDifference": 0.08,
+                    "surprisePercent": 0.276,
+                    "quarter": "2018-12-31",
+                    "period": "-1q"
+                }
+            ],
+            "maxAge": 86400
+        },
+        "summaryProfile": {
+            "address1": "1211 Avenue of the Americas",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10036",
+            "country": "United States",
+            "phone": "212 852 7000",
+            "website": "https://www.foxcorporation.com",
+            "industry": "Entertainment",
+            "industryDisp": "Entertainment",
+            "sector": "Communication Services",
+            "longBusinessSummary": "Fox Corporation operates as a news, sports, and entertainment company in the United States (U.S.). The company operates through Cable Network Programming; Television; and Other, Corporate and Eliminations segments. The Cable Network Programming segment produces and licenses news, business news, and sports content for distribution through traditional and virtual multi-channel video programming distributors (MVPDs) and other digital platforms, primarily in the U.S. It operates FOX News, a national cable news channel; FOX Business, a business news national cable channel; FS1 and FS2 multi-sport national networks; FOX Sports Racing, a video programming service that comprises motor sports programming; FOX Soccer Plus, a video programming network for live soccer and rugby competitions; FOX Deportes, a Spanish-language sports programming service; and Big Ten Network, a national video programming service. The Television segment acquires, produces, markets, and distributes programming. It operates The FOX Network, a national television broadcast network that broadcasts sports programming and entertainment; Tubi, an advertising-supported video-on-demand service; Fox Alternative Entertainment, a full-service production studio that develops and produces unscripted and alternative programming; MyNetworkTV, a programming distribution service; and Blockchain Creative Labs, which is focuses on the creation, distribution and monetization of Web3 content. This segment owns and operates 29 broadcast television stations. The Other, Corporate and Eliminations segment owns the FOX Studios Lot that provides production and post-production services, including 15 sound stages, two broadcast studios, theaters and screening rooms, editing rooms, and other television and film production facilities in Los Angeles, California. The company was incorporated in 2018 and is based in New York, New York.",
+            "fullTimeEmployees": 10600,
+            "companyOfficers": [],
+            "maxAge": 86400
+        },
+        "netSharePurchaseActivity": {
+            "maxAge": 1,
+            "period": "6m",
+            "buyInfoCount": 0,
+            "buyInfoShares": 0,
+            "sellInfoCount": 0,
+            "netInfoCount": 0,
+            "netInfoShares": 0,
+            "netPercentInsiderShares": 0.0,
+            "totalInsiderShares": 217786432
+        },
+        "insiderTransactions": {
+            "transactions": [
+                {
+                    "maxAge": 1,
+                    "shares": 3000000,
+                    "value": 83350000,
+                    "filerUrl": "",
+                    "transactionText": "Purchase at price 27.74 - 27.80 per share.",
+                    "filerName": "UBBEN JEFFREY W",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2016-12-16",
+                    "ownership": "I"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3000000,
+                    "value": 78182500,
+                    "filerUrl": "",
+                    "transactionText": "Purchase at price 25.86 - 26.13 per share.",
+                    "filerName": "UBBEN JEFFREY W",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2016-08-18",
+                    "ownership": "I"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1000000,
+                    "value": 27250515,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 27.22 - 27.27 per share.",
+                    "filerName": "MURDOCH KEITH RUPERT",
+                    "filerRelation": "Officer and Director",
+                    "moneyText": "",
+                    "startDate": "2015-08-26",
+                    "ownership": "D/I"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3000000,
+                    "value": 108071761,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 35.71 - 36.23 per share.",
+                    "filerName": "MURDOCH KEITH RUPERT",
+                    "filerRelation": "Chief Executive Officer",
+                    "moneyText": "",
+                    "startDate": "2014-12-05",
+                    "ownership": "I"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 11000,
+                    "value": 357830,
+                    "filerUrl": "",
+                    "transactionText": "Purchase at price 32.53 per share.",
+                    "filerName": "SILBERMAN ROBERT S",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2013-08-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1000000,
+                    "value": 28852585,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 28.85 - 28.86 per share.",
+                    "filerName": "MURDOCH KEITH RUPERT",
+                    "filerRelation": "Chief Executive Officer",
+                    "moneyText": "",
+                    "startDate": "2013-02-22",
+                    "ownership": "I"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1396571,
+                    "value": 40109519,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 28.72 per share.",
+                    "filerName": "MURDOCH KEITH RUPERT",
+                    "filerRelation": "Chief Executive Officer",
+                    "moneyText": "",
+                    "startDate": "2013-02-13",
+                    "ownership": "I"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 60996,
+                    "value": 1540759,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 25.26 per share.",
+                    "filerName": "SHUMAN STANLEY S",
+                    "filerRelation": "Retired",
+                    "moneyText": "",
+                    "startDate": "2012-11-29",
+                    "ownership": "I"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2500,
+                    "value": 44200,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 17.68 per share.",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2011-12-16",
+                    "ownership": "I"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 10875,
+                    "value": 201949,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 18.57 per share.",
+                    "filerName": "PERKINS THOMAS J",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2011-05-19",
+                    "ownership": "D"
+                }
+            ],
+            "maxAge": 1
+        },
+        "sectorTrend": {
+            "maxAge": 1,
+            "symbol": null,
+            "estimates": []
+        },
+        "incomeStatementHistoryQuarterly": {
+            "incomeStatementHistory": [
+                {
+                    "maxAge": 1,
+                    "endDate": "2023-03-31",
+                    "totalRevenue": 0,
+                    "costOfRevenue": 0,
+                    "grossProfit": 0,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": {},
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 0,
+                    "operatingIncome": {},
+                    "totalOtherIncomeExpenseNet": 0,
+                    "ebit": 0,
+                    "interestExpense": {},
+                    "incomeBeforeTax": {},
+                    "incomeTaxExpense": 0,
+                    "minorityInterest": {},
+                    "netIncomeFromContinuingOps": {},
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 0,
+                    "netIncomeApplicableToCommonShares": {}
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-12-31",
+                    "totalRevenue": 4605000000,
+                    "costOfRevenue": 3528000000,
+                    "grossProfit": 1077000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 550000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 4181000000,
+                    "operatingIncome": 424000000,
+                    "totalOtherIncomeExpenseNet": 13000000,
+                    "ebit": 424000000,
+                    "interestExpense": -60000000,
+                    "incomeBeforeTax": 437000000,
+                    "incomeTaxExpense": 116000000,
+                    "minorityInterest": 265000000,
+                    "netIncomeFromContinuingOps": 321000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 313000000,
+                    "netIncomeApplicableToCommonShares": 313000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-09-30",
+                    "totalRevenue": 3192000000,
+                    "costOfRevenue": 1656000000,
+                    "grossProfit": 1536000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 448000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 2203000000,
+                    "operatingIncome": 989000000,
+                    "totalOtherIncomeExpenseNet": -144000000,
+                    "ebit": 989000000,
+                    "interestExpense": -68000000,
+                    "incomeBeforeTax": 845000000,
+                    "incomeTaxExpense": 232000000,
+                    "minorityInterest": 257000000,
+                    "netIncomeFromContinuingOps": 613000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 605000000,
+                    "netIncomeApplicableToCommonShares": 605000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-06-30",
+                    "totalRevenue": 3033000000,
+                    "costOfRevenue": 1715000000,
+                    "grossProfit": 1318000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 569000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 2383000000,
+                    "operatingIncome": 650000000,
+                    "totalOtherIncomeExpenseNet": -203000000,
+                    "ebit": 650000000,
+                    "interestExpense": -92000000,
+                    "incomeBeforeTax": 447000000,
+                    "incomeTaxExpense": 139000000,
+                    "minorityInterest": 224000000,
+                    "netIncomeFromContinuingOps": 308000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 306000000,
+                    "netIncomeApplicableToCommonShares": 306000000
+                }
+            ],
+            "maxAge": 86400
+        },
+        "cashflowStatementHistoryQuarterly": {
+            "cashflowStatements": [
+                {
+                    "maxAge": 1,
+                    "endDate": "2023-03-31",
+                    "netIncome": 0,
+                    "changeToLiabilities": 0
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-12-31",
+                    "netIncome": 313000000,
+                    "depreciation": 107000000,
+                    "changeToNetincome": 8000000,
+                    "changeToAccountReceivables": -692000000,
+                    "changeToLiabilities": -25000000,
+                    "changeToInventory": -87000000,
+                    "changeToOperatingActivities": -155000000,
+                    "totalCashFromOperatingActivities": -531000000,
+                    "capitalExpenditures": -79000000,
+                    "investments": -19000000,
+                    "otherCashflowsFromInvestingActivities": -5000000,
+                    "totalCashflowsFromInvestingActivities": -103000000,
+                    "dividendsPaid": -8000000,
+                    "totalCashFromFinancingActivities": -258000000,
+                    "changeInCash": -892000000,
+                    "repurchaseOfStock": -250000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-09-30",
+                    "netIncome": 605000000,
+                    "depreciation": 103000000,
+                    "changeToNetincome": 195000000,
+                    "changeToAccountReceivables": -260000000,
+                    "changeToLiabilities": -127000000,
+                    "changeToInventory": -333000000,
+                    "changeToOperatingActivities": 87000000,
+                    "totalCashFromOperatingActivities": 270000000,
+                    "capitalExpenditures": -74000000,
+                    "investments": -31000000,
+                    "otherCashflowsFromInvestingActivities": -13000000,
+                    "totalCashflowsFromInvestingActivities": -118000000,
+                    "dividendsPaid": -147000000,
+                    "otherCashflowsFromFinancingActivities": -5000000,
+                    "totalCashFromFinancingActivities": -402000000,
+                    "changeInCash": -250000000,
+                    "repurchaseOfStock": -250000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-06-30",
+                    "netIncome": 306000000,
+                    "depreciation": 103000000,
+                    "changeToNetincome": 310000000,
+                    "changeToAccountReceivables": 230000000,
+                    "changeToLiabilities": 151000000,
+                    "changeToInventory": -145000000,
+                    "changeToOperatingActivities": -22000000,
+                    "totalCashFromOperatingActivities": 933000000,
+                    "capitalExpenditures": -116000000,
+                    "investments": -31000000,
+                    "otherCashflowsFromInvestingActivities": -12000000,
+                    "totalCashflowsFromInvestingActivities": -127000000,
+                    "dividendsPaid": -12000000,
+                    "otherCashflowsFromFinancingActivities": 24000000,
+                    "totalCashFromFinancingActivities": -240000000,
+                    "changeInCash": 566000000,
+                    "repurchaseOfStock": -252000000
+                }
+            ],
+            "maxAge": 86400
+        },
+        "earnings": {
+            "maxAge": 86400,
+            "earningsChart": {
+                "quarterly": [
+                    {
+                        "date": "1Q2017",
+                        "actual": 0.54,
+                        "estimate": 0.48
+                    },
+                    {
+                        "date": "2Q2017",
+                        "actual": 0.36,
+                        "estimate": 0.37
+                    },
+                    {
+                        "date": "3Q2017",
+                        "actual": 0.49,
+                        "estimate": 0.48
+                    },
+                    {
+                        "date": "4Q2018",
+                        "actual": 0.37,
+                        "estimate": 0.29
+                    }
+                ],
+                "currentQuarterEstimate": 0.49,
+                "currentQuarterEstimateDate": "1Q",
+                "currentQuarterEstimateYear": 2019,
+                "earningsDate": []
+            },
+            "financialsChart": {
+                "yearly": [
+                    {
+                        "date": 2019,
+                        "revenue": 11389000000,
+                        "earnings": 1595000000
+                    },
+                    {
+                        "date": 2020,
+                        "revenue": 12303000000,
+                        "earnings": 999000000
+                    },
+                    {
+                        "date": 2021,
+                        "revenue": 12909000000,
+                        "earnings": 2150000000
+                    },
+                    {
+                        "date": 2022,
+                        "revenue": 13974000000,
+                        "earnings": 1205000000
+                    }
+                ],
+                "quarterly": [
+                    {
+                        "date": "2Q2022",
+                        "revenue": 3033000000,
+                        "earnings": 306000000
+                    },
+                    {
+                        "date": "3Q2022",
+                        "revenue": 3192000000,
+                        "earnings": 605000000
+                    },
+                    {
+                        "date": "4Q2022",
+                        "revenue": 4605000000,
+                        "earnings": 313000000
+                    },
+                    {
+                        "date": "1Q2023",
+                        "revenue": 0,
+                        "earnings": 0
+                    }
+                ]
+            },
+            "financialCurrency": "USD"
+        },
+        "pageViews": {
+            "shortTermTrend": "UP",
+            "midTermTrend": "UP",
+            "longTermTrend": "UP",
+            "maxAge": 1
+        },
+        "financialData": {
+            "maxAge": 86400,
+            "currentPrice": 31.09,
+            "targetHighPrice": 51.5,
+            "targetLowPrice": 51.5,
+            "targetMeanPrice": 51.5,
+            "targetMedianPrice": 51.5,
+            "recommendationKey": "none",
+            "numberOfAnalystOpinions": 1,
+            "totalCash": 4145999872,
+            "totalCashPerShare": 8.216,
+            "ebitda": 3208999936,
+            "totalDebt": 8216999936,
+            "quickRatio": 1.565,
+            "currentRatio": 1.754,
+            "totalRevenue": 14913999872,
+            "debtToEquity": 78.594,
+            "revenuePerShare": 27.517,
+            "returnOnAssets": 0.07841,
+            "returnOnEquity": 0.10912,
+            "grossProfits": 4857000000,
+            "freeCashflow": 2488375040,
+            "operatingCashflow": 2240000000,
+            "revenueGrowth": 0.182,
+            "grossMargins": 0.35457,
+            "ebitdaMargins": 0.21517,
+            "operatingMargins": 0.1868,
+            "profitMargins": 0.078449994,
+            "financialCurrency": "USD"
+        }
+    }
+}

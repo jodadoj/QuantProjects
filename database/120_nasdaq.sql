@@ -1,7 +1,7 @@
 ALTER TABLE stocks
 ADD COLUMN IF NOT EXISTS nasdaq100 BOOLEAN;
 
-DROP TABLE temp_nasdaq100_tickers IF EXISTS;
+DROP TABLE IF EXISTS temp_nasdaq100_tickers;
 
 CREATE TABLE temp_nasdaq100_tickers (
     company_name VARCHAR(50),
