@@ -1,4 +1,4 @@
-DROP TABLE stocks IF EXISTS;
+DROP TABLE IF EXISTS stocks;
 
 CREATE TABLE stocks (
     ticker VARCHAR(10) PRIMARY KEY,

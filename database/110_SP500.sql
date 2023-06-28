@@ -1,7 +1,7 @@
 ALTER TABLE stocks
 ADD COLUMN IF NOT EXISTS sp500 BOOLEAN;
 
-DROP TABLE temp_sp500_tickers IF EXISTS;
+DROP TABLE IF EXISTS temp_sp500_tickers;
 
 CREATE TABLE temp_sp500_tickers (
     ticker VARCHAR(30),

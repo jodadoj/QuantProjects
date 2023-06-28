@@ -1,0 +1,3919 @@
+{
+    "NWSA": {
+        "assetProfile": {
+            "address1": "1211 Avenue of the Americas",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10036",
+            "country": "United States",
+            "phone": "212 416 3400",
+            "website": "https://newscorp.com",
+            "industry": "Entertainment",
+            "industryDisp": "Entertainment",
+            "sector": "Communication Services",
+            "longBusinessSummary": "News Corporation, a media and information services company, creates and distributes authoritative and engaging content, and other products and services for consumers and businesses worldwide. It operates in six segments: Digital Real Estate Services, Subscription Video Services, Dow Jones, Book Publishing, News Media, and Other. The company distributes content and data products, including The Wall Street Journal, Barron's, MarketWatch, Investor's Business Daily, Factiva, Dow Jones Risk & Compliance, Dow Jones Newswires, and OPIS through various media channels, such as newspapers, newswires, websites, mobile apps, newsletters, magazines, proprietary databases, live journalism, video, and podcasts. It also owns and operates daily, Sunday, weekly, and bi-weekly newspapers comprising The Australian, The Weekend Australian, The Daily Telegraph, The Sunday Telegraph, Herald Sun, Sunday Herald Sun, The Courier Mail, The Sunday Mail, The Advertiser, Sunday Mail, The Sun, The Sun on Sunday, The Times, The Sunday Times, and New York Post, as well as digital mastheads and other websites. In addition, the company publishes general fiction, nonfiction, children's, and religious books; provides sports, entertainment, and news services to pay-TV and streaming subscribers, and other commercial licensees through cable, satellite, and internet distribution; and broadcasts rights to live sporting events. Further, it offers property and property-related advertising and services on its websites and mobile applications; online real estate services; and financial services. The company was founded in 2012 and is headquartered in New York, New York.",
+            "fullTimeEmployees": 25500,
+            "companyOfficers": [
+                {
+                    "maxAge": 1,
+                    "name": "Mr. Keith Rupert Murdoch AC",
+                    "age": 91,
+                    "title": "Exec. Chairman",
+                    "yearBorn": 1931,
+                    "fiscalYear": 2022,
+                    "totalPay": 4278506,
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Mr. Robert J. Thomson",
+                    "age": 61,
+                    "title": "CEO & Director",
+                    "yearBorn": 1961,
+                    "fiscalYear": 2022,
+                    "totalPay": 11631180,
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Ms. Susan Lee Panuccio B.Bus (Hons), BBUS (Dist), ICCA",
+                    "age": 50,
+                    "title": "Chief Financial Officer",
+                    "yearBorn": 1972,
+                    "fiscalYear": 2022,
+                    "totalPay": 4867546,
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Mr. David B. Pitofsky",
+                    "age": 57,
+                    "title": "Exec. VP, Gen. Counsel & Chief Compliance Officer",
+                    "yearBorn": 1965,
+                    "fiscalYear": 2022,
+                    "totalPay": 3239606,
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Ms. Marygrace  DeGrazio",
+                    "age": 45,
+                    "title": "Chief Accounting Officer",
+                    "yearBorn": 1977,
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Mr. David L. Kline",
+                    "age": 64,
+                    "title": "CTO & Exec. VP",
+                    "yearBorn": 1958,
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Mr. Michael  Florin",
+                    "title": "Sr. VP & Head of Investor Relations",
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Mr. Jim  Kennedy",
+                    "title": "Chief Communications Officer",
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Ms. Ruth  Allen",
+                    "title": "Exec. VP & Chief HR Officer",
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                },
+                {
+                    "maxAge": 1,
+                    "name": "Ms. Anoushka  Healy",
+                    "title": "Exec. VP & Chief Strategy Officer",
+                    "exercisedValue": 0,
+                    "unexercisedValue": 0
+                }
+            ],
+            "auditRisk": 9,
+            "boardRisk": 8,
+            "compensationRisk": 4,
+            "shareHolderRightsRisk": 10,
+            "overallRisk": 10,
+            "governanceEpochDate": "2023-06-01 01:00:00",
+            "compensationAsOfEpochDate": "2022-12-31 00:00:00",
+            "maxAge": 86400
+        },
+        "recommendationTrend": {
+            "trend": [
+                {
+                    "period": "0m",
+                    "strongBuy": 1,
+                    "buy": 4,
+                    "hold": 5,
+                    "sell": 1,
+                    "strongSell": 0
+                },
+                {
+                    "period": "-1m",
+                    "strongBuy": 1,
+                    "buy": 4,
+                    "hold": 1,
+                    "sell": 0,
+                    "strongSell": 0
+                },
+                {
+                    "period": "-2m",
+                    "strongBuy": 1,
+                    "buy": 3,
+                    "hold": 2,
+                    "sell": 0,
+                    "strongSell": 0
+                },
+                {
+                    "period": "-3m",
+                    "strongBuy": 1,
+                    "buy": 6,
+                    "hold": 0,
+                    "sell": 0,
+                    "strongSell": 0
+                }
+            ],
+            "maxAge": 86400
+        },
+        "cashflowStatementHistory": {
+            "cashflowStatements": [
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-06-30",
+                    "netIncome": 623000000,
+                    "depreciation": 425000000,
+                    "changeToNetincome": 136000000,
+                    "changeToAccountReceivables": -51000000,
+                    "changeToLiabilities": 45000000,
+                    "changeToInventory": -87000000,
+                    "totalCashFromOperatingActivities": 1354000000,
+                    "capitalExpenditures": -499000000,
+                    "investments": -112000000,
+                    "otherCashflowsFromInvestingActivities": 33000000,
+                    "totalCashflowsFromInvestingActivities": -2076000000,
+                    "dividendsPaid": -118000000,
+                    "netBorrowings": 852000000,
+                    "otherCashflowsFromFinancingActivities": -151000000,
+                    "totalCashFromFinancingActivities": 404000000,
+                    "effectOfExchangeRate": -96000000,
+                    "changeInCash": -414000000,
+                    "repurchaseOfStock": -179000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2021-06-30",
+                    "netIncome": 330000000,
+                    "depreciation": 430000000,
+                    "changeToNetincome": 24000000,
+                    "changeToAccountReceivables": -166000000,
+                    "changeToLiabilities": 363000000,
+                    "changeToInventory": 6000000,
+                    "totalCashFromOperatingActivities": 1237000000,
+                    "capitalExpenditures": -390000000,
+                    "investments": -39000000,
+                    "otherCashflowsFromInvestingActivities": -1000000,
+                    "totalCashflowsFromInvestingActivities": -1292000000,
+                    "dividendsPaid": -118000000,
+                    "netBorrowings": 958000000,
+                    "otherCashflowsFromFinancingActivities": -141000000,
+                    "totalCashFromFinancingActivities": 699000000,
+                    "effectOfExchangeRate": 75000000,
+                    "changeInCash": 719000000,
+                    "repurchaseOfStock": -179000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2020-06-30",
+                    "netIncome": -1269000000,
+                    "depreciation": 413000000,
+                    "changeToNetincome": 1568000000,
+                    "changeToAccountReceivables": -1470000000,
+                    "changeToLiabilities": 1298000000,
+                    "changeToInventory": 9000000,
+                    "totalCashFromOperatingActivities": 780000000,
+                    "capitalExpenditures": -438000000,
+                    "investments": 3000000,
+                    "otherCashflowsFromInvestingActivities": 4000000,
+                    "totalCashflowsFromInvestingActivities": -427000000,
+                    "dividendsPaid": -117000000,
+                    "netBorrowings": -300000000,
+                    "otherCashflowsFromFinancingActivities": -55000000,
+                    "totalCashFromFinancingActivities": -472000000,
+                    "effectOfExchangeRate": -7000000,
+                    "changeInCash": -126000000,
+                    "repurchaseOfStock": -179000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2019-06-30",
+                    "netIncome": 155000000,
+                    "depreciation": 441000000,
+                    "changeToNetincome": 185000000,
+                    "changeToAccountReceivables": 134000000,
+                    "changeToLiabilities": -147000000,
+                    "changeToInventory": -58000000,
+                    "totalCashFromOperatingActivities": 928000000,
+                    "capitalExpenditures": -572000000,
+                    "investments": -38000000,
+                    "otherCashflowsFromInvestingActivities": 18000000,
+                    "totalCashflowsFromInvestingActivities": -677000000,
+                    "dividendsPaid": -117000000,
+                    "netBorrowings": -435000000,
+                    "otherCashflowsFromFinancingActivities": -58000000,
+                    "totalCashFromFinancingActivities": -610000000,
+                    "effectOfExchangeRate": -32000000,
+                    "changeInCash": -391000000,
+                    "repurchaseOfStock": -179000000
+                }
+            ],
+            "maxAge": 86400
+        },
+        "indexTrend": {
+            "maxAge": 1,
+            "symbol": "SP5",
+            "peRatio": 16.2098,
+            "pegRatio": 0.721429,
+            "estimates": [
+                {
+                    "period": "0q",
+                    "growth": -0.008
+                },
+                {
+                    "period": "+1q",
+                    "growth": 0.07
+                },
+                {
+                    "period": "0y",
+                    "growth": 0.006
+                },
+                {
+                    "period": "+1y",
+                    "growth": 0.103
+                },
+                {
+                    "period": "+5y",
+                    "growth": 0.0771607
+                },
+                {
+                    "period": "-5y"
+                }
+            ]
+        },
+        "defaultKeyStatistics": {
+            "maxAge": 1,
+            "priceHint": 2,
+            "enterpriseValue": 14646682624,
+            "forwardPE": 23.567902,
+            "profitMargins": 0.02638,
+            "floatShares": 492817416,
+            "sharesOutstanding": 380142016,
+            "sharesShort": 9730213,
+            "sharesShortPriorMonth": 11328221,
+            "sharesShortPreviousMonthDate": "2023-04-28 01:00:00",
+            "dateShortInterest": "2023-05-31 01:00:00",
+            "sharesPercentSharesOut": 0.017,
+            "heldPercentInsiders": 0.0067299996,
+            "heldPercentInstitutions": 1.0262,
+            "shortRatio": 3.82,
+            "shortPercentOfFloat": 0.025799999,
+            "beta": 1.323943,
+            "impliedSharesOutstanding": 0,
+            "category": null,
+            "bookValue": 14.057,
+            "priceToBook": 1.3580422,
+            "fundFamily": null,
+            "legalType": null,
+            "lastFiscalYearEnd": "2022-06-30 01:00:00",
+            "nextFiscalYearEnd": "2023-06-30 01:00:00",
+            "mostRecentQuarter": "2023-03-31 01:00:00",
+            "earningsQuarterlyGrowth": -0.39,
+            "netIncomeToCommon": 267000000,
+            "trailingEps": 0.46,
+            "forwardEps": 0.81,
+            "pegRatio": -19.06,
+            "lastSplitFactor": null,
+            "enterpriseToRevenue": 1.447,
+            "enterpriseToEbitda": 12.77,
+            "52WeekChange": 0.2858082,
+            "SandP52WeekChange": 0.1712712,
+            "lastDividendValue": 0.1,
+            "lastDividendDate": 1678752000
+        },
+        "industryTrend": {
+            "maxAge": 1,
+            "symbol": null,
+            "estimates": []
+        },
+        "quoteType": {
+            "exchange": "NMS",
+            "quoteType": "EQUITY",
+            "symbol": "NWSA",
+            "underlyingSymbol": "NWSA",
+            "shortName": "News Corporation",
+            "longName": "News Corporation",
+            "firstTradeDateEpochUtc": "2013-06-19 14:30:00",
+            "timeZoneFullName": "America/New_York",
+            "timeZoneShortName": "EDT",
+            "uuid": "ea15bdb0-9720-3a7f-a6f8-970031ed5705",
+            "messageBoardId": "finmb_212741644",
+            "gmtOffSetMilliseconds": -14400000,
+            "maxAge": 1
+        },
+        "incomeStatementHistory": {
+            "incomeStatementHistory": [
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-06-30",
+                    "totalRevenue": 10385000000,
+                    "costOfRevenue": 5076000000,
+                    "grossProfit": 5309000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 3628000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 9392000000,
+                    "operatingIncome": 993000000,
+                    "totalOtherIncomeExpenseNet": -181000000,
+                    "ebit": 993000000,
+                    "interestExpense": -99000000,
+                    "incomeBeforeTax": 812000000,
+                    "incomeTaxExpense": 52000000,
+                    "minorityInterest": 921000000,
+                    "netIncomeFromContinuingOps": 760000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 623000000,
+                    "netIncomeApplicableToCommonShares": 623000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2021-06-30",
+                    "totalRevenue": 9358000000,
+                    "costOfRevenue": 4779000000,
+                    "grossProfit": 4579000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 3293000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 8752000000,
+                    "operatingIncome": 606000000,
+                    "totalOtherIncomeExpenseNet": -156000000,
+                    "ebit": 606000000,
+                    "interestExpense": -53000000,
+                    "incomeBeforeTax": 450000000,
+                    "incomeTaxExpense": 61000000,
+                    "minorityInterest": 935000000,
+                    "netIncomeFromContinuingOps": 389000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 330000000,
+                    "netIncomeApplicableToCommonShares": 330000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2020-06-30",
+                    "totalRevenue": 9008000000,
+                    "costOfRevenue": 4927000000,
+                    "grossProfit": 4081000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 3065000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 8636000000,
+                    "operatingIncome": 372000000,
+                    "totalOtherIncomeExpenseNet": -1896000000,
+                    "ebit": 372000000,
+                    "interestExpense": -25000000,
+                    "incomeBeforeTax": -1524000000,
+                    "incomeTaxExpense": 21000000,
+                    "minorityInterest": 807000000,
+                    "netIncomeFromContinuingOps": -1545000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": -1269000000,
+                    "netIncomeApplicableToCommonShares": -1269000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2019-06-30",
+                    "totalRevenue": 10074000000,
+                    "costOfRevenue": 5639000000,
+                    "grossProfit": 4435000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 3177000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 9475000000,
+                    "operatingIncome": 599000000,
+                    "totalOtherIncomeExpenseNet": -245000000,
+                    "ebit": 599000000,
+                    "interestExpense": -59000000,
+                    "incomeBeforeTax": 354000000,
+                    "incomeTaxExpense": 126000000,
+                    "minorityInterest": 1167000000,
+                    "netIncomeFromContinuingOps": 228000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 155000000,
+                    "netIncomeApplicableToCommonShares": 155000000
+                }
+            ],
+            "maxAge": 86400
+        },
+        "fundOwnership": {
+            "maxAge": 1,
+            "ownershipList": [
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Price (T.Rowe) Mid-Cap Value Fund",
+                    "pctHeld": 0.0423,
+                    "position": 16163715,
+                    "value": 308565321,
+                    "pctChange": 0.0
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Price (T.Rowe) Equity Income Fund",
+                    "pctHeld": 0.0388,
+                    "position": 14830000,
+                    "value": 283104702,
+                    "pctChange": 0.028099999
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Vanguard Total Stock Market Index Fund",
+                    "pctHeld": 0.036,
+                    "position": 13751494,
+                    "value": 262516022,
+                    "pctChange": 0.0107
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Vanguard 500 Index Fund",
+                    "pctHeld": 0.030299999,
+                    "position": 11579959,
+                    "value": 221061419,
+                    "pctChange": 0.0137
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Vanguard Mid-Cap Index Fund",
+                    "pctHeld": 0.0295,
+                    "position": 11290279,
+                    "value": 215531427,
+                    "pctChange": 0.0061000003
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "AMG Yacktman Fd",
+                    "pctHeld": 0.0233,
+                    "position": 8900000,
+                    "value": 169901001,
+                    "pctChange": 0.0
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Dodge & Cox Stock Fund",
+                    "pctHeld": 0.0201,
+                    "position": 7697190,
+                    "value": 146939358,
+                    "pctChange": 0.0
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Price (T.Rowe) Mid-Cap Value Equity Trust",
+                    "pctHeld": 0.0185,
+                    "position": 7074111,
+                    "value": 135044780,
+                    "pctChange": 0.0
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-01-31",
+                    "organization": "Vanguard/Windsor II",
+                    "pctHeld": 0.0164,
+                    "position": 6280710,
+                    "value": 119898754,
+                    "pctChange": -0.1304
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2022-12-31",
+                    "organization": "Vanguard Index-Value Index Fund",
+                    "pctHeld": 0.0112,
+                    "position": 4295222,
+                    "value": 81995788,
+                    "pctChange": -0.0228
+                }
+            ]
+        },
+        "summaryDetail": {
+            "maxAge": 1,
+            "priceHint": 2,
+            "previousClose": 19.57,
+            "open": 19.4,
+            "dayLow": 19.08,
+            "dayHigh": 19.5,
+            "regularMarketPreviousClose": 19.57,
+            "regularMarketOpen": 19.4,
+            "regularMarketDayLow": 19.08,
+            "regularMarketDayHigh": 19.5,
+            "dividendRate": 0.2,
+            "dividendYield": 0.010199999,
+            "exDividendDate": "2023-03-14 00:00:00",
+            "payoutRatio": 0.4348,
+            "fiveYearAvgDividendYield": 1.28,
+            "beta": 1.323943,
+            "trailingPE": 41.5,
+            "forwardPE": 23.567902,
+            "volume": 1620696,
+            "regularMarketVolume": 1620696,
+            "averageVolume": 2547330,
+            "averageVolume10days": 2876680,
+            "averageDailyVolume10Day": 2876680,
+            "bid": 19.05,
+            "ask": 19.15,
+            "bidSize": 3100,
+            "askSize": 2200,
+            "marketCap": 10967491584,
+            "fiftyTwoWeekLow": 14.87,
+            "fiftyTwoWeekHigh": 21.69,
+            "priceToSalesTrailing12Months": 1.0837443,
+            "fiftyDayAverage": 17.9878,
+            "twoHundredDayAverage": 17.68685,
+            "trailingAnnualDividendRate": 0.2,
+            "trailingAnnualDividendYield": 0.010219724,
+            "currency": "USD",
+            "fromCurrency": null,
+            "toCurrency": null,
+            "lastMarket": null,
+            "coinMarketCapLink": null,
+            "algorithm": null,
+            "tradeable": false
+        },
+        "insiderHolders": {
+            "holders": [
+                {
+                    "maxAge": 1,
+                    "name": "AYOTTE KELLY A",
+                    "relation": "Director",
+                    "url": "",
+                    "transactionDescription": "Conversion of Exercise of derivative security",
+                    "latestTransDate": "2023-04-12",
+                    "positionDirectDate": "2023-04-12"
+                },
+                {
+                    "maxAge": 1,
+                    "name": "AZNAR JOSE MARIA",
+                    "relation": "Director",
+                    "url": "",
+                    "transactionDescription": "Conversion of Exercise of derivative security",
+                    "latestTransDate": "2023-04-12",
+                    "positionDirect": 1087,
+                    "positionDirectDate": "2023-04-12"
+                },
+                {
+                    "maxAge": 1,
+                    "name": "BANCROFT NATALIE",
+                    "relation": "Director",
+                    "url": "",
+                    "transactionDescription": "Conversion of Exercise of derivative security",
+                    "latestTransDate": "2023-04-12",
+                    "positionDirectDate": "2023-04-12"
+                },
+                {
+                    "maxAge": 1,
+                    "name": "BARNES PETER L",
+                    "relation": "Director",
+                    "url": "",
+                    "transactionDescription": "Conversion of Exercise of derivative security",
+                    "latestTransDate": "2022-10-12",
+                    "positionDirect": 1989,
+                    "positionDirectDate": "2022-10-12"
+                },
+                {
+                    "maxAge": 1,
+                    "name": "MURDOCH KEITH RUPERT",
+                    "relation": "Officer and Director",
+                    "url": "",
+                    "transactionDescription": "Conversion of Exercise of derivative security",
+                    "latestTransDate": "2022-08-15",
+                    "positionDirect": 2182360,
+                    "positionDirectDate": "2022-08-15"
+                },
+                {
+                    "maxAge": 1,
+                    "name": "MURDOCH LACHLAN KEITH",
+                    "relation": "Director",
+                    "url": "",
+                    "transactionDescription": "Conversion of Exercise of derivative security",
+                    "latestTransDate": "2023-04-12",
+                    "positionDirect": 114,
+                    "positionDirectDate": "2023-04-12"
+                },
+                {
+                    "maxAge": 1,
+                    "name": "PESSOA ANA PAULA",
+                    "relation": "Director",
+                    "url": "",
+                    "transactionDescription": "Conversion of Exercise of derivative security",
+                    "latestTransDate": "2023-04-12",
+                    "positionDirectDate": "2023-04-12"
+                },
+                {
+                    "maxAge": 1,
+                    "name": "PITOFSKY DAVID B",
+                    "relation": "General Counsel",
+                    "url": "",
+                    "transactionDescription": "Sale",
+                    "latestTransDate": "2023-03-03",
+                    "positionDirect": 63956,
+                    "positionDirectDate": "2023-03-03"
+                },
+                {
+                    "maxAge": 1,
+                    "name": "SIDDIQUI MASROOR T.",
+                    "relation": "Director",
+                    "url": "",
+                    "transactionDescription": "Conversion of Exercise of derivative security",
+                    "latestTransDate": "2023-04-12",
+                    "positionDirectDate": "2023-04-12"
+                },
+                {
+                    "maxAge": 1,
+                    "name": "THOMSON ROBERT J.",
+                    "relation": "Chief Executive Officer",
+                    "url": "",
+                    "transactionDescription": "Conversion of Exercise of derivative security",
+                    "latestTransDate": "2022-08-15",
+                    "positionDirectDate": "2022-08-15"
+                }
+            ],
+            "maxAge": 1
+        },
+        "calendarEvents": {
+            "maxAge": 1,
+            "earnings": {
+                "earningsDate": [
+                    "2023-08-07 11:59:S",
+                    "2023-08-11 13:00:S"
+                ],
+                "earningsAverage": 0.09,
+                "earningsLow": 0.06,
+                "earningsHigh": 0.11,
+                "revenueAverage": 2485400000,
+                "revenueLow": 2431600000,
+                "revenueHigh": 2519000000
+            },
+            "exDividendDate": "2023-03-14 00:00:00",
+            "dividendDate": "2023-04-12 01:00:00"
+        },
+        "upgradeDowngradeHistory": {
+            "history": [
+                {
+                    "epochGradeDate": "2023-01-25 12:12:34",
+                    "firm": "Loop Capital",
+                    "toGrade": "Buy",
+                    "fromGrade": "Hold",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2022-07-28 14:23:36",
+                    "firm": "Macquarie",
+                    "toGrade": "Neutral",
+                    "fromGrade": "Outperform",
+                    "action": "down"
+                },
+                {
+                    "epochGradeDate": "2022-07-21 13:47:12",
+                    "firm": "Guggenheim",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2021-07-26 14:26:53",
+                    "firm": "UBS",
+                    "toGrade": "Buy",
+                    "fromGrade": "Neutral",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2021-03-18 10:59:12",
+                    "firm": "Guggenheim",
+                    "toGrade": "Buy",
+                    "fromGrade": "Neutral",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2021-01-27 11:06:52",
+                    "firm": "JP Morgan",
+                    "toGrade": "Overweight",
+                    "fromGrade": "Neutral",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2020-07-22 10:16:06",
+                    "firm": "JP Morgan",
+                    "toGrade": "Neutral",
+                    "fromGrade": "Underweight",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2019-08-12 11:36:04",
+                    "firm": "Credit Suisse",
+                    "toGrade": "Outperform",
+                    "fromGrade": "Neutral",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2019-07-19 11:31:44",
+                    "firm": "JP Morgan",
+                    "toGrade": "Underweight",
+                    "fromGrade": "Neutral",
+                    "action": "down"
+                },
+                {
+                    "epochGradeDate": "2018-10-09 15:24:07",
+                    "firm": "Goldman Sachs",
+                    "toGrade": "Buy",
+                    "fromGrade": "Neutral",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2018-09-04 13:22:11",
+                    "firm": "Loop Capital",
+                    "toGrade": "Buy",
+                    "fromGrade": "Hold",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2018-08-29 13:54:44",
+                    "firm": "UBS",
+                    "toGrade": "Neutral",
+                    "fromGrade": "Sell",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2018-08-20 15:05:51",
+                    "firm": "Morgan Stanley",
+                    "toGrade": "Underweight",
+                    "fromGrade": "Equal-Weight",
+                    "action": "down"
+                },
+                {
+                    "epochGradeDate": "2018-03-16 11:36:36",
+                    "firm": "Loop Capital",
+                    "toGrade": "Hold",
+                    "fromGrade": "",
+                    "action": "init"
+                },
+                {
+                    "epochGradeDate": "2017-07-14 14:35:36",
+                    "firm": "Rosenblatt",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "init"
+                },
+                {
+                    "epochGradeDate": "2016-11-08 16:38:50",
+                    "firm": "CLSA",
+                    "toGrade": "Outperform",
+                    "fromGrade": "Buy",
+                    "action": "down"
+                },
+                {
+                    "epochGradeDate": "2016-05-09 07:34:12",
+                    "firm": "CLSA",
+                    "toGrade": "Outperform",
+                    "fromGrade": "Buy",
+                    "action": "down"
+                },
+                {
+                    "epochGradeDate": "2016-02-05 09:34:07",
+                    "firm": "CLSA",
+                    "toGrade": "Buy",
+                    "fromGrade": "Outperform",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2015-11-09 05:30:30",
+                    "firm": "Wells Fargo",
+                    "toGrade": "Market Perform",
+                    "fromGrade": "Outperform",
+                    "action": "down"
+                },
+                {
+                    "epochGradeDate": "2015-07-27 09:40:45",
+                    "firm": "Macquarie",
+                    "toGrade": "Outperform",
+                    "fromGrade": "Neutral",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2014-11-06 09:00:00",
+                    "firm": "Jefferies",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2014-10-21 19:00:52",
+                    "firm": "Macquarie",
+                    "toGrade": "Neutral",
+                    "fromGrade": "Underperform",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2014-10-20 09:30:00",
+                    "firm": "Macquarie",
+                    "toGrade": "Neutral",
+                    "fromGrade": "Underperform",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2014-05-01 17:00:00",
+                    "firm": "Credit Suisse",
+                    "toGrade": "Outperform",
+                    "fromGrade": "Neutral",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2013-12-17 16:00:00",
+                    "firm": "S&P Capital IQ",
+                    "toGrade": "Hold",
+                    "fromGrade": "Buy",
+                    "action": "down"
+                },
+                {
+                    "epochGradeDate": "2013-11-05 08:24:17",
+                    "firm": "FBR Capital",
+                    "toGrade": "Market Perform",
+                    "fromGrade": "",
+                    "action": "init"
+                },
+                {
+                    "epochGradeDate": "2013-10-01 08:09:20",
+                    "firm": "Evercore Partners",
+                    "toGrade": "Equal-Weight",
+                    "fromGrade": "",
+                    "action": "init"
+                },
+                {
+                    "epochGradeDate": "2013-07-12 07:48:31",
+                    "firm": "Bank of America",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "init"
+                },
+                {
+                    "epochGradeDate": "2013-07-08 08:51:42",
+                    "firm": "Deutsche Bank",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "init"
+                },
+                {
+                    "epochGradeDate": "2013-07-02 07:42:56",
+                    "firm": "Deutsche Bank",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "init"
+                },
+                {
+                    "epochGradeDate": "2013-07-01 10:01:00",
+                    "firm": "Lazard",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "init"
+                },
+                {
+                    "epochGradeDate": "2013-07-01 07:30:28",
+                    "firm": "JP Morgan",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "init"
+                },
+                {
+                    "epochGradeDate": "2013-06-21 09:44:08",
+                    "firm": "Goldman Sachs",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "init"
+                },
+                {
+                    "epochGradeDate": "2013-06-19 09:13:01",
+                    "firm": "BTIG Research",
+                    "toGrade": "Neutral",
+                    "fromGrade": "Buy",
+                    "action": "down"
+                },
+                {
+                    "epochGradeDate": "2013-06-14 10:30:27",
+                    "firm": "CIMB",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2013-06-10 08:34:49",
+                    "firm": "Credit Suisse",
+                    "toGrade": "Outperform",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2013-05-09 08:33:53",
+                    "firm": "Wunderlich",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2013-05-06 13:58:50",
+                    "firm": "Wunderlich",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2013-04-16 09:21:42",
+                    "firm": "Deutsche Bank",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2013-04-08 08:40:26",
+                    "firm": "Credit Suisse",
+                    "toGrade": "Outperform",
+                    "fromGrade": "Neutral",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2013-04-01 10:08:23",
+                    "firm": "Credit Suisse",
+                    "toGrade": "Outperform",
+                    "fromGrade": "Neutral",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2013-03-06 07:25:13",
+                    "firm": "Wunderlich",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2013-02-07 07:45:43",
+                    "firm": "Nomura",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2013-02-06 06:54:22",
+                    "firm": "Wunderlich",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2013-01-28 10:36:48",
+                    "firm": "Deutsche Bank",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2013-01-28 06:47:47",
+                    "firm": "Morgan Stanley",
+                    "toGrade": "Overweight",
+                    "fromGrade": "Equal-Weight",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2013-01-23 08:22:57",
+                    "firm": "Citigroup",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2013-01-10 08:47:07",
+                    "firm": "Bernstein",
+                    "toGrade": "Outperform",
+                    "fromGrade": "Market Perform",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2013-01-04 07:53:36",
+                    "firm": "Nomura",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-12-28 08:36:34",
+                    "firm": "Deutsche Bank",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-12-24 07:28:15",
+                    "firm": "Deutsche Bank",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-12-19 08:14:08",
+                    "firm": "Canaccord Genuity",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-11-20 07:57:00",
+                    "firm": "Credit Suisse",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-11-07 13:47:00",
+                    "firm": "UBS",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-11-07 11:27:00",
+                    "firm": "Deutsche Bank",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-10-31 10:11:00",
+                    "firm": "Macquarie",
+                    "toGrade": "Outperform",
+                    "fromGrade": "Neutral",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2012-10-11 07:35:00",
+                    "firm": "Morgan Stanley",
+                    "toGrade": "Equal-Weight",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-10-02 13:25:00",
+                    "firm": "Barclays",
+                    "toGrade": "Overweight",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-09-25 08:49:00",
+                    "firm": "Nomura",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-09-20 13:06:00",
+                    "firm": "Barclays",
+                    "toGrade": "Overweight",
+                    "fromGrade": "Equal-Weight",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2012-09-04 13:58:00",
+                    "firm": "Barclays",
+                    "toGrade": "Overweight",
+                    "fromGrade": "Equal-Weight",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2012-08-10 07:01:00",
+                    "firm": "Shaw Stockbroking",
+                    "toGrade": "Hold",
+                    "fromGrade": "Buy",
+                    "action": "down"
+                },
+                {
+                    "epochGradeDate": "2012-08-09 15:12:00",
+                    "firm": "Wedbush",
+                    "toGrade": "Outperform",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-08-09 15:01:00",
+                    "firm": "Barclays",
+                    "toGrade": "Equal-Weight",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-08-09 07:22:00",
+                    "firm": "Credit Suisse",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-07-19 06:45:00",
+                    "firm": "Citigroup",
+                    "toGrade": "Buy",
+                    "fromGrade": "Neutral",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2012-06-28 10:23:00",
+                    "firm": "Miller Tabak",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-06-27 12:57:00",
+                    "firm": "BTIG Research",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-06-27 09:25:00",
+                    "firm": "Needham",
+                    "toGrade": "Buy",
+                    "fromGrade": "Hold",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2012-06-21 11:07:00",
+                    "firm": "Miller Tabak",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-04-09 07:32:00",
+                    "firm": "Citigroup",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "down"
+                },
+                {
+                    "epochGradeDate": "2012-02-27 07:23:00",
+                    "firm": "Goldman Sachs",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "up"
+                },
+                {
+                    "epochGradeDate": "2012-02-09 12:10:00",
+                    "firm": "UBS",
+                    "toGrade": "Neutral",
+                    "fromGrade": "",
+                    "action": "main"
+                },
+                {
+                    "epochGradeDate": "2012-02-09 09:27:00",
+                    "firm": "Deutsche Bank",
+                    "toGrade": "Buy",
+                    "fromGrade": "",
+                    "action": "main"
+                }
+            ],
+            "maxAge": 86400
+        },
+        "price": {
+            "maxAge": 1,
+            "preMarketSource": "FREE_REALTIME",
+            "postMarketChangePercent": -0.0020953899,
+            "postMarketChange": -0.0400009,
+            "postMarketTime": "2023-06-20 21:10:11",
+            "postMarketPrice": 19.05,
+            "postMarketSource": "FREE_REALTIME",
+            "regularMarketChangePercent": -0.024527317,
+            "regularMarketChange": -0.47999954,
+            "regularMarketTime": "2023-06-20 21:00:04",
+            "priceHint": 2,
+            "regularMarketPrice": 19.09,
+            "regularMarketDayHigh": 19.5,
+            "regularMarketDayLow": 19.08,
+            "regularMarketVolume": 1620696,
+            "averageDailyVolume10Day": 2876680,
+            "averageDailyVolume3Month": 2547330,
+            "regularMarketPreviousClose": 19.57,
+            "regularMarketSource": "FREE_REALTIME",
+            "regularMarketOpen": 19.4,
+            "exchange": "NMS",
+            "exchangeName": "NasdaqGS",
+            "exchangeDataDelayedBy": 0,
+            "marketState": "POST",
+            "quoteType": "EQUITY",
+            "symbol": "NWSA",
+            "underlyingSymbol": null,
+            "shortName": "News Corporation",
+            "longName": "News Corporation",
+            "currency": "USD",
+            "quoteSourceName": "Nasdaq Real Time Price",
+            "currencySymbol": "$",
+            "fromCurrency": null,
+            "toCurrency": null,
+            "lastMarket": null,
+            "marketCap": 10967491584
+        },
+        "balanceSheetHistory": {
+            "balanceSheetStatements": [
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-06-30",
+                    "cash": 1822000000,
+                    "netReceivables": 1565000000,
+                    "inventory": 311000000,
+                    "otherCurrentAssets": 334000000,
+                    "totalCurrentAssets": 4093000000,
+                    "longTermInvestments": 549000000,
+                    "propertyPlantEquipment": 2422000000,
+                    "goodWill": 5169000000,
+                    "intangibleAssets": 3243000000,
+                    "otherAssets": 1745000000,
+                    "deferredLongTermAssetCharges": 422000000,
+                    "totalAssets": 17221000000,
+                    "accountsPayable": 411000000,
+                    "shortLongTermDebt": 266000000,
+                    "otherCurrentLiab": 1225000000,
+                    "longTermDebt": 2736000000,
+                    "otherLiab": 836000000,
+                    "minorityInterest": 921000000,
+                    "totalCurrentLiabilities": 3519000000,
+                    "totalLiab": 8078000000,
+                    "commonStock": 6000000,
+                    "retainedEarnings": -2293000000,
+                    "treasuryStock": -1270000000,
+                    "capitalSurplus": 11779000000,
+                    "otherStockholderEquity": -1270000000,
+                    "totalStockholderEquity": 8222000000,
+                    "netTangibleAssets": -190000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2021-06-30",
+                    "cash": 2236000000,
+                    "netReceivables": 1498000000,
+                    "inventory": 253000000,
+                    "otherCurrentAssets": 469000000,
+                    "totalCurrentAssets": 4456000000,
+                    "longTermInvestments": 442000000,
+                    "propertyPlantEquipment": 2775000000,
+                    "goodWill": 4653000000,
+                    "intangibleAssets": 2711000000,
+                    "otherAssets": 1734000000,
+                    "deferredLongTermAssetCharges": 378000000,
+                    "totalAssets": 16771000000,
+                    "accountsPayable": 321000000,
+                    "shortLongTermDebt": 6000000,
+                    "otherCurrentLiab": 1191000000,
+                    "longTermDebt": 2229000000,
+                    "otherLiab": 974000000,
+                    "minorityInterest": 935000000,
+                    "totalCurrentLiabilities": 3234000000,
+                    "totalLiab": 7625000000,
+                    "commonStock": 6000000,
+                    "retainedEarnings": -2911000000,
+                    "treasuryStock": -941000000,
+                    "capitalSurplus": 12057000000,
+                    "otherStockholderEquity": -941000000,
+                    "totalStockholderEquity": 8211000000,
+                    "netTangibleAssets": 847000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2020-06-30",
+                    "cash": 1517000000,
+                    "netReceivables": 1203000000,
+                    "inventory": 348000000,
+                    "otherCurrentAssets": 393000000,
+                    "totalCurrentAssets": 3461000000,
+                    "longTermInvestments": 419000000,
+                    "propertyPlantEquipment": 2836000000,
+                    "goodWill": 3951000000,
+                    "intangibleAssets": 2345000000,
+                    "otherAssets": 1249000000,
+                    "deferredLongTermAssetCharges": 332000000,
+                    "totalAssets": 14261000000,
+                    "accountsPayable": 351000000,
+                    "shortLongTermDebt": 48000000,
+                    "otherCurrentLiab": 936000000,
+                    "longTermDebt": 1127000000,
+                    "otherLiab": 827000000,
+                    "minorityInterest": 807000000,
+                    "totalCurrentLiabilities": 2682000000,
+                    "totalLiab": 5872000000,
+                    "commonStock": 6000000,
+                    "retainedEarnings": -3241000000,
+                    "treasuryStock": -1331000000,
+                    "capitalSurplus": 12148000000,
+                    "otherStockholderEquity": -1331000000,
+                    "totalStockholderEquity": 7582000000,
+                    "netTangibleAssets": 1286000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2019-06-30",
+                    "cash": 1643000000,
+                    "netReceivables": 1544000000,
+                    "inventory": 348000000,
+                    "otherCurrentAssets": 462000000,
+                    "totalCurrentAssets": 4050000000,
+                    "longTermInvestments": 439000000,
+                    "propertyPlantEquipment": 2041000000,
+                    "goodWill": 5147000000,
+                    "intangibleAssets": 2939000000,
+                    "otherAssets": 1095000000,
+                    "deferredLongTermAssetCharges": 269000000,
+                    "totalAssets": 15711000000,
+                    "accountsPayable": 411000000,
+                    "shortLongTermDebt": 449000000,
+                    "otherCurrentLiab": 941000000,
+                    "longTermDebt": 1040000000,
+                    "otherLiab": 1020000000,
+                    "minorityInterest": 1167000000,
+                    "totalCurrentLiabilities": 3340000000,
+                    "totalLiab": 5400000000,
+                    "commonStock": 6000000,
+                    "retainedEarnings": -1979000000,
+                    "treasuryStock": -1126000000,
+                    "capitalSurplus": 12243000000,
+                    "otherStockholderEquity": -1126000000,
+                    "totalStockholderEquity": 9144000000,
+                    "netTangibleAssets": 1058000000
+                }
+            ],
+            "maxAge": 86400
+        },
+        "earningsTrend": {
+            "trend": [
+                {
+                    "maxAge": 1,
+                    "period": "0q",
+                    "endDate": "2023-06-30",
+                    "growth": -0.75699997,
+                    "earningsEstimate": {
+                        "avg": 0.09,
+                        "low": 0.06,
+                        "high": 0.11,
+                        "yearAgoEps": 0.37,
+                        "numberOfAnalysts": 5,
+                        "growth": -0.75699997
+                    },
+                    "revenueEstimate": {
+                        "avg": 2485400000,
+                        "low": 2431600000,
+                        "high": 2519000000,
+                        "numberOfAnalysts": 5,
+                        "yearAgoRevenue": 2674000000,
+                        "growth": -0.071
+                    },
+                    "epsTrend": {
+                        "current": 0.09,
+                        "7daysAgo": 0.09,
+                        "30daysAgo": 0.09,
+                        "60daysAgo": 0.1,
+                        "90daysAgo": 0.1
+                    },
+                    "epsRevisions": {
+                        "upLast7days": 0,
+                        "upLast30days": 2,
+                        "downLast30days": 0,
+                        "downLast90days": {}
+                    }
+                },
+                {
+                    "maxAge": 1,
+                    "period": "+1q",
+                    "endDate": "2023-09-30",
+                    "growth": 0.333,
+                    "earningsEstimate": {
+                        "avg": 0.16,
+                        "low": 0.1,
+                        "high": 0.21,
+                        "yearAgoEps": 0.12,
+                        "numberOfAnalysts": 4,
+                        "growth": 0.333
+                    },
+                    "revenueEstimate": {
+                        "avg": 2466060000,
+                        "low": 2439100000,
+                        "high": 2490480000,
+                        "numberOfAnalysts": 3,
+                        "yearAgoRevenue": 2494780000,
+                        "growth": -0.012
+                    },
+                    "epsTrend": {
+                        "current": 0.16,
+                        "7daysAgo": 0.16,
+                        "30daysAgo": 0.18,
+                        "60daysAgo": 0.2,
+                        "90daysAgo": 0.2
+                    },
+                    "epsRevisions": {
+                        "upLast7days": 0,
+                        "upLast30days": 0,
+                        "downLast30days": 0,
+                        "downLast90days": {}
+                    }
+                },
+                {
+                    "maxAge": 1,
+                    "period": "0y",
+                    "endDate": "2023-06-30",
+                    "growth": -0.64199996,
+                    "earningsEstimate": {
+                        "avg": 0.43,
+                        "low": 0.4,
+                        "high": 0.45,
+                        "yearAgoEps": 1.2,
+                        "numberOfAnalysts": 4,
+                        "growth": -0.64199996
+                    },
+                    "revenueEstimate": {
+                        "avg": 9950160000,
+                        "low": 9877600000,
+                        "high": 10044000000,
+                        "numberOfAnalysts": 6,
+                        "yearAgoRevenue": 10385000000,
+                        "growth": -0.042
+                    },
+                    "epsTrend": {
+                        "current": 0.43,
+                        "7daysAgo": 0.43,
+                        "30daysAgo": 0.43,
+                        "60daysAgo": 0.44,
+                        "90daysAgo": 0.44
+                    },
+                    "epsRevisions": {
+                        "upLast7days": 0,
+                        "upLast30days": 2,
+                        "downLast30days": 0,
+                        "downLast90days": {}
+                    }
+                },
+                {
+                    "maxAge": 1,
+                    "period": "+1y",
+                    "endDate": "2024-06-30",
+                    "growth": 0.884,
+                    "earningsEstimate": {
+                        "avg": 0.81,
+                        "low": 0.6,
+                        "high": 0.98,
+                        "yearAgoEps": 0.43,
+                        "numberOfAnalysts": 6,
+                        "growth": 0.884
+                    },
+                    "revenueEstimate": {
+                        "avg": 10237800000,
+                        "low": 9958100000,
+                        "high": 10373000000,
+                        "numberOfAnalysts": 6,
+                        "yearAgoRevenue": 9950160000,
+                        "growth": 0.029000001
+                    },
+                    "epsTrend": {
+                        "current": 0.81,
+                        "7daysAgo": 0.81,
+                        "30daysAgo": 0.83,
+                        "60daysAgo": 0.71,
+                        "90daysAgo": 0.71
+                    },
+                    "epsRevisions": {
+                        "upLast7days": 0,
+                        "upLast30days": 2,
+                        "downLast30days": 0,
+                        "downLast90days": {}
+                    }
+                },
+                {
+                    "maxAge": 1,
+                    "period": "+5y",
+                    "endDate": null,
+                    "growth": -0.0238,
+                    "earningsEstimate": {
+                        "avg": {},
+                        "low": {},
+                        "high": {},
+                        "yearAgoEps": {},
+                        "numberOfAnalysts": {},
+                        "growth": {}
+                    },
+                    "revenueEstimate": {
+                        "avg": {},
+                        "low": {},
+                        "high": {},
+                        "numberOfAnalysts": {},
+                        "yearAgoRevenue": {},
+                        "growth": {}
+                    },
+                    "epsTrend": {
+                        "current": {},
+                        "7daysAgo": {},
+                        "30daysAgo": {},
+                        "60daysAgo": {},
+                        "90daysAgo": {}
+                    },
+                    "epsRevisions": {
+                        "upLast7days": {},
+                        "upLast30days": {},
+                        "downLast30days": {},
+                        "downLast90days": {}
+                    }
+                },
+                {
+                    "maxAge": 1,
+                    "period": "-5y",
+                    "endDate": null,
+                    "growth": 0.22332,
+                    "earningsEstimate": {
+                        "avg": {},
+                        "low": {},
+                        "high": {},
+                        "yearAgoEps": {},
+                        "numberOfAnalysts": {},
+                        "growth": {}
+                    },
+                    "revenueEstimate": {
+                        "avg": {},
+                        "low": {},
+                        "high": {},
+                        "numberOfAnalysts": {},
+                        "yearAgoRevenue": {},
+                        "growth": {}
+                    },
+                    "epsTrend": {
+                        "current": {},
+                        "7daysAgo": {},
+                        "30daysAgo": {},
+                        "60daysAgo": {},
+                        "90daysAgo": {}
+                    },
+                    "epsRevisions": {
+                        "upLast7days": {},
+                        "upLast30days": {},
+                        "downLast30days": {},
+                        "downLast90days": {}
+                    }
+                }
+            ],
+            "maxAge": 1
+        },
+        "institutionOwnership": {
+            "maxAge": 1,
+            "ownershipList": [
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Price (T.Rowe) Associates Inc",
+                    "pctHeld": 0.18360001,
+                    "position": 69948286,
+                    "value": 1335312790,
+                    "pctChange": -0.0271
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Vanguard Group, Inc. (The)",
+                    "pctHeld": 0.1423,
+                    "position": 54205662,
+                    "value": 1034786095,
+                    "pctChange": -0.0148
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Independent Franchise Partners, LLP",
+                    "pctHeld": 0.078099996,
+                    "position": 29764842,
+                    "value": 568210838,
+                    "pctChange": 0.1035
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Blackrock Inc.",
+                    "pctHeld": 0.0681,
+                    "position": 25935937,
+                    "value": 495117041,
+                    "pctChange": -0.0099
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "State Street Corporation",
+                    "pctHeld": 0.0458,
+                    "position": 17452969,
+                    "value": 333177180,
+                    "pctChange": 0.0215
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Yacktman Asset Management Lp",
+                    "pctHeld": 0.0444,
+                    "position": 16915929,
+                    "value": 322925087,
+                    "pctChange": 0.0067000003
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Dodge & Cox Inc",
+                    "pctHeld": 0.027999999,
+                    "position": 10677309,
+                    "value": 203829830,
+                    "pctChange": -0.0068
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Burgundy Asset Management Ltd.",
+                    "pctHeld": 0.0275,
+                    "position": 10467179,
+                    "value": 199818448,
+                    "pctChange": 0.0117999995
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Metropolis Capital Ltd",
+                    "pctHeld": 0.0233,
+                    "position": 8873406,
+                    "value": 169393321,
+                    "pctChange": 0.109799996
+                },
+                {
+                    "maxAge": 1,
+                    "reportDate": "2023-03-31",
+                    "organization": "Hotchkis & Wiley Capital Management, LLC",
+                    "pctHeld": 0.0227,
+                    "position": 8640415,
+                    "value": 164945523,
+                    "pctChange": -0.0343
+                }
+            ]
+        },
+        "majorHoldersBreakdown": {
+            "maxAge": 1,
+            "insidersPercentHeld": 0.0067299996,
+            "institutionsPercentHeld": 1.0262,
+            "institutionsFloatPercentHeld": 1.0331501,
+            "institutionsCount": 634
+        },
+        "balanceSheetHistoryQuarterly": {
+            "balanceSheetStatements": [
+                {
+                    "maxAge": 1,
+                    "endDate": "2023-03-31"
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-12-31",
+                    "cash": 1328000000,
+                    "netReceivables": 1750000000,
+                    "inventory": 328000000,
+                    "otherCurrentAssets": 343000000,
+                    "totalCurrentAssets": 3763000000,
+                    "longTermInvestments": 595000000,
+                    "propertyPlantEquipment": 3066000000,
+                    "goodWill": 5167000000,
+                    "intangibleAssets": 2585000000,
+                    "otherAssets": 1715000000,
+                    "deferredLongTermAssetCharges": 386000000,
+                    "totalAssets": 16891000000,
+                    "accountsPayable": 308000000,
+                    "otherCurrentLiab": 1208000000,
+                    "longTermDebt": 2970000000,
+                    "otherLiab": 806000000,
+                    "minorityInterest": 941000000,
+                    "totalCurrentLiabilities": 2939000000,
+                    "totalLiab": 7835000000,
+                    "commonStock": 6000000,
+                    "retainedEarnings": -2186000000,
+                    "treasuryStock": -1255000000,
+                    "capitalSurplus": 11550000000,
+                    "otherStockholderEquity": -1255000000,
+                    "totalStockholderEquity": 8115000000,
+                    "netTangibleAssets": 363000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-09-30",
+                    "cash": 1458000000,
+                    "netReceivables": 1586000000,
+                    "inventory": 373000000,
+                    "otherCurrentAssets": 326000000,
+                    "totalCurrentAssets": 3754000000,
+                    "longTermInvestments": 537000000,
+                    "propertyPlantEquipment": 2812000000,
+                    "goodWill": 5041000000,
+                    "intangibleAssets": 2563000000,
+                    "otherAssets": 1680000000,
+                    "deferredLongTermAssetCharges": 390000000,
+                    "totalAssets": 16387000000,
+                    "accountsPayable": 348000000,
+                    "otherCurrentLiab": 1164000000,
+                    "longTermDebt": 2945000000,
+                    "otherLiab": 781000000,
+                    "minorityInterest": 856000000,
+                    "totalCurrentLiabilities": 3013000000,
+                    "totalLiab": 7659000000,
+                    "commonStock": 6000000,
+                    "retainedEarnings": -2253000000,
+                    "treasuryStock": -1465000000,
+                    "capitalSurplus": 11584000000,
+                    "otherStockholderEquity": -1465000000,
+                    "totalStockholderEquity": 7872000000,
+                    "netTangibleAssets": 268000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-06-30",
+                    "cash": 1822000000,
+                    "netReceivables": 1565000000,
+                    "inventory": 311000000,
+                    "otherCurrentAssets": 334000000,
+                    "totalCurrentAssets": 4093000000,
+                    "longTermInvestments": 549000000,
+                    "propertyPlantEquipment": 2422000000,
+                    "goodWill": 5169000000,
+                    "intangibleAssets": 3243000000,
+                    "otherAssets": 1745000000,
+                    "deferredLongTermAssetCharges": 422000000,
+                    "totalAssets": 17221000000,
+                    "accountsPayable": 411000000,
+                    "shortLongTermDebt": 266000000,
+                    "otherCurrentLiab": 1225000000,
+                    "longTermDebt": 2736000000,
+                    "otherLiab": 836000000,
+                    "minorityInterest": 921000000,
+                    "totalCurrentLiabilities": 3519000000,
+                    "totalLiab": 8078000000,
+                    "commonStock": 6000000,
+                    "retainedEarnings": -2293000000,
+                    "treasuryStock": -1270000000,
+                    "capitalSurplus": 11779000000,
+                    "otherStockholderEquity": -1270000000,
+                    "totalStockholderEquity": 8222000000,
+                    "netTangibleAssets": -190000000
+                }
+            ],
+            "maxAge": 86400
+        },
+        "earningsHistory": {
+            "history": [
+                {
+                    "maxAge": 1,
+                    "epsActual": 0.37,
+                    "epsEstimate": 0.06,
+                    "epsDifference": 0.31,
+                    "surprisePercent": 5.1670003,
+                    "quarter": "2022-06-30",
+                    "period": "-4q"
+                },
+                {
+                    "maxAge": 1,
+                    "epsActual": 0.12,
+                    "epsEstimate": 0.15,
+                    "epsDifference": -0.03,
+                    "surprisePercent": -0.2,
+                    "quarter": "2022-09-30",
+                    "period": "-3q"
+                },
+                {
+                    "maxAge": 1,
+                    "epsActual": 0.14,
+                    "epsEstimate": 0.19,
+                    "epsDifference": -0.05,
+                    "surprisePercent": -0.26299998,
+                    "quarter": "2022-12-31",
+                    "period": "-2q"
+                },
+                {
+                    "maxAge": 1,
+                    "epsActual": 0.09,
+                    "epsEstimate": 0.05,
+                    "epsDifference": 0.04,
+                    "surprisePercent": 0.8,
+                    "quarter": "2023-03-31",
+                    "period": "-1q"
+                }
+            ],
+            "maxAge": 86400
+        },
+        "esgScores": {
+            "maxAge": 86400,
+            "totalEsg": 11.61,
+            "environmentScore": 0.02,
+            "socialScore": 4.58,
+            "governanceScore": 7.02,
+            "ratingYear": 2023,
+            "ratingMonth": 1,
+            "highestControversy": 2.0,
+            "peerCount": 29,
+            "esgPerformance": "UNDER_PERF",
+            "peerGroup": "Media",
+            "relatedControversy": [
+                "Customer Incidents"
+            ],
+            "peerEsgScorePerformance": {
+                "min": 6.03,
+                "avg": 14.155862068965519,
+                "max": 22.24
+            },
+            "peerGovernancePerformance": {
+                "min": 4.12,
+                "avg": 6.485833333333332,
+                "max": 9.42
+            },
+            "peerSocialPerformance": {
+                "min": 1.91,
+                "avg": 6.9508333333333345,
+                "max": 12.47
+            },
+            "peerEnvironmentPerformance": {
+                "min": 0.02,
+                "avg": 0.5145833333333333,
+                "max": 3.99
+            },
+            "peerHighestControversyPerformance": {
+                "min": 0.0,
+                "avg": 1.2413793103448276,
+                "max": 4.0
+            },
+            "percentile": 4.12,
+            "environmentPercentile": null,
+            "socialPercentile": null,
+            "governancePercentile": null,
+            "adult": false,
+            "alcoholic": false,
+            "animalTesting": false,
+            "catholic": false,
+            "controversialWeapons": false,
+            "smallArms": false,
+            "furLeather": false,
+            "gambling": false,
+            "gmo": false,
+            "militaryContract": false,
+            "nuclear": false,
+            "pesticides": false,
+            "palmOil": false,
+            "coal": false,
+            "tobacco": false
+        },
+        "summaryProfile": {
+            "address1": "1211 Avenue of the Americas",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10036",
+            "country": "United States",
+            "phone": "212 416 3400",
+            "website": "https://newscorp.com",
+            "industry": "Entertainment",
+            "industryDisp": "Entertainment",
+            "sector": "Communication Services",
+            "longBusinessSummary": "News Corporation, a media and information services company, creates and distributes authoritative and engaging content, and other products and services for consumers and businesses worldwide. It operates in six segments: Digital Real Estate Services, Subscription Video Services, Dow Jones, Book Publishing, News Media, and Other. The company distributes content and data products, including The Wall Street Journal, Barron's, MarketWatch, Investor's Business Daily, Factiva, Dow Jones Risk & Compliance, Dow Jones Newswires, and OPIS through various media channels, such as newspapers, newswires, websites, mobile apps, newsletters, magazines, proprietary databases, live journalism, video, and podcasts. It also owns and operates daily, Sunday, weekly, and bi-weekly newspapers comprising The Australian, The Weekend Australian, The Daily Telegraph, The Sunday Telegraph, Herald Sun, Sunday Herald Sun, The Courier Mail, The Sunday Mail, The Advertiser, Sunday Mail, The Sun, The Sun on Sunday, The Times, The Sunday Times, and New York Post, as well as digital mastheads and other websites. In addition, the company publishes general fiction, nonfiction, children's, and religious books; provides sports, entertainment, and news services to pay-TV and streaming subscribers, and other commercial licensees through cable, satellite, and internet distribution; and broadcasts rights to live sporting events. Further, it offers property and property-related advertising and services on its websites and mobile applications; online real estate services; and financial services. The company was founded in 2012 and is headquartered in New York, New York.",
+            "fullTimeEmployees": 25500,
+            "companyOfficers": [],
+            "maxAge": 86400
+        },
+        "netSharePurchaseActivity": {
+            "maxAge": 1,
+            "period": "6m",
+            "buyInfoCount": 18,
+            "buyInfoShares": 29136,
+            "buyPercentInsiderShares": 0.008,
+            "sellInfoCount": 1,
+            "sellInfoShares": 23750,
+            "sellPercentInsiderShares": 0.006,
+            "netInfoCount": 19,
+            "netInfoShares": 5386,
+            "netPercentInsiderShares": 0.001,
+            "totalInsiderShares": 3859410
+        },
+        "insiderTransactions": {
+            "transactions": [
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-04-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-04-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-04-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-04-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-04-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AYOTTE KELLY A",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-04-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2491,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-04-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2491,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-04-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2491,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-04-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2491,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-04-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2491,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-04-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2491,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AYOTTE KELLY A",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-04-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 23750,
+                    "value": 409165,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 17.23 per share.",
+                    "filerName": "PITOFSKY DAVID B",
+                    "filerRelation": "General Counsel",
+                    "moneyText": "",
+                    "startDate": "2023-03-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2351,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-01-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2351,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-01-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2351,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-01-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2351,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-01-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2351,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-01-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2351,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AYOTTE KELLY A",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2023-01-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 18,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 18,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 18,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 18,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 18,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 18,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 18,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AYOTTE KELLY A",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-12",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2888,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2888,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2888,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2888,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2888,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2888,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2888,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AYOTTE KELLY A",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-10-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 284045,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH KEITH RUPERT",
+                    "filerRelation": "Officer and Director",
+                    "moneyText": "",
+                    "startDate": "2022-08-15",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1007370,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "THOMSON ROBERT J.",
+                    "filerRelation": "Chief Executive Officer",
+                    "moneyText": "",
+                    "startDate": "2022-08-15",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 82028,
+                    "value": 1536417,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 18.73 per share.",
+                    "filerName": "PITOFSKY DAVID B",
+                    "filerRelation": "General Counsel",
+                    "moneyText": "",
+                    "startDate": "2022-08-15",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 199683,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PITOFSKY DAVID B",
+                    "filerRelation": "General Counsel",
+                    "moneyText": "",
+                    "startDate": "2022-08-15",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 253461,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PANUCCIO SUSAN",
+                    "filerRelation": "Chief Financial Officer",
+                    "moneyText": "",
+                    "startDate": "2022-08-15",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 13753,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "DEGRAZIO MARYGRACE",
+                    "filerRelation": "Officer",
+                    "moneyText": "",
+                    "startDate": "2022-08-15",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2786,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2786,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2786,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2786,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2786,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2786,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2786,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AYOTTE KELLY A",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 14,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AYOTTE KELLY A",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3009,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3009,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3009,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3009,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3009,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3009,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3009,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AYOTTE KELLY A",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3319,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-01-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3319,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-01-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3319,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-01-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3319,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-01-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3319,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-01-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3319,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2022-01-03",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1000000,
+                    "value": 21790400,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 21.79 per share.",
+                    "filerName": "MURDOCH KEITH RUPERT",
+                    "filerRelation": "Officer and Director",
+                    "moneyText": "",
+                    "startDate": "2021-12-07",
+                    "ownership": "I"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 11,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-10-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 11,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-10-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 11,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-10-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 11,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-10-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 11,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-10-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 11,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-10-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2678,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2678,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2678,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2678,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2678,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2678,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 22000,
+                    "value": 518199,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 23.55 per share.",
+                    "filerName": "PITOFSKY DAVID B",
+                    "filerRelation": "General Counsel",
+                    "moneyText": "",
+                    "startDate": "2021-08-16",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 205549,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH KEITH RUPERT",
+                    "filerRelation": "Officer and Director",
+                    "moneyText": "",
+                    "startDate": "2021-08-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 616663,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "THOMSON ROBERT J.",
+                    "filerRelation": "Chief Executive Officer",
+                    "moneyText": "",
+                    "startDate": "2021-08-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 129454,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PITOFSKY DAVID B",
+                    "filerRelation": "General Counsel",
+                    "moneyText": "",
+                    "startDate": "2021-08-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 158773,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PANUCCIO SUSAN",
+                    "filerRelation": "Chief Financial Officer",
+                    "moneyText": "",
+                    "startDate": "2021-08-13",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3391,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3391,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3391,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3391,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3391,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 3391,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2782,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2782,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2782,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2782,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2782,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2782,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 500000,
+                    "value": 13023183,
+                    "filerUrl": "",
+                    "transactionText": "Purchase at price 25.75 - 26.14 per share.",
+                    "filerName": "MURDOCH KEITH RUPERT",
+                    "filerRelation": "Officer and Director",
+                    "moneyText": "",
+                    "startDate": "2021-03-12",
+                    "ownership": "I"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 500000,
+                    "value": 12044800,
+                    "filerUrl": "",
+                    "transactionText": "Purchase at price 24.09 per share.",
+                    "filerName": "MURDOCH KEITH RUPERT",
+                    "filerRelation": "Officer and Director",
+                    "moneyText": "",
+                    "startDate": "2021-03-05",
+                    "ownership": "I"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 16000,
+                    "value": 349181,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 21.82 per share.",
+                    "filerName": "PITOFSKY DAVID B",
+                    "filerRelation": "General Counsel",
+                    "moneyText": "",
+                    "startDate": "2021-02-09",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2744,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-01-04",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2744,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-01-04",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2744,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-01-04",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2744,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-01-04",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2744,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-01-04",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2744,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2021-01-04",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2847,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2847,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2847,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2847,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2847,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2847,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 191108,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH KEITH RUPERT",
+                    "filerRelation": "Officer and Director",
+                    "moneyText": "",
+                    "startDate": "2020-08-14",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 477777,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "THOMSON ROBERT J.",
+                    "filerRelation": "Chief Executive Officer",
+                    "moneyText": "",
+                    "startDate": "2020-08-14",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 81217,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PITOFSKY DAVID B",
+                    "filerRelation": "General Counsel",
+                    "moneyText": "",
+                    "startDate": "2020-08-14",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 105106,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PANUCCIO SUSAN",
+                    "filerRelation": "Chief Financial Officer",
+                    "moneyText": "",
+                    "startDate": "2020-08-14",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2476,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2476,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2476,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2476,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH JAMES RUPERT",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2476,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2476,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2476,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-07-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 11433,
+                    "value": 151603,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 13.26 per share.",
+                    "filerName": "PITOFSKY DAVID B",
+                    "filerRelation": "General Counsel",
+                    "moneyText": "",
+                    "startDate": "2020-06-05",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1939,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1939,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1939,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1939,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH JAMES RUPERT",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1939,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1939,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1939,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-04-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2004,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-01-02",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2004,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-01-02",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2004,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-01-02",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2004,
+                    "value": 28938,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 14.44 per share.",
+                    "filerName": "MURDOCH JAMES RUPERT",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-01-02",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2004,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH JAMES RUPERT",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-01-02",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2004,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-01-02",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2004,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-01-02",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 2004,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2020-01-02",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 242,
+                    "value": 3248,
+                    "filerUrl": "",
+                    "transactionText": "Stock Award(Grant) at price 13.42 per share.",
+                    "filerName": "HALPIN KEVIN",
+                    "filerRelation": "Officer",
+                    "moneyText": "",
+                    "startDate": "2019-10-16",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1956,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH LACHLAN KEITH",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2019-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1956,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BARNES PETER L",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2019-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1956,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "AZNAR JOSE MARIA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2019-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1956,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH JAMES RUPERT",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2019-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1956,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "BANCROFT NATALIE",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2019-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1956,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "PESSOA ANA PAULA",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2019-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 1956,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "SIDDIQUI MASROOR T.",
+                    "filerRelation": "Director",
+                    "moneyText": "",
+                    "startDate": "2019-10-01",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 34937,
+                    "value": 503844,
+                    "filerUrl": "",
+                    "transactionText": "Sale at price 14.32 - 14.46 per share.",
+                    "filerName": "HALPIN KEVIN",
+                    "filerRelation": "Chief Financial Officer",
+                    "moneyText": "",
+                    "startDate": "2019-09-10",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 165248,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "MURDOCH KEITH RUPERT",
+                    "filerRelation": "Officer and Director",
+                    "moneyText": "",
+                    "startDate": "2019-08-15",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 413126,
+                    "filerUrl": "",
+                    "transactionText": "",
+                    "filerName": "THOMSON ROBERT J.",
+                    "filerRelation": "Chief Executive Officer",
+                    "moneyText": "",
+                    "startDate": "2019-08-15",
+                    "ownership": "D"
+                },
+                {
+                    "maxAge": 1,
+                    "shares": 32562,
+                    "value": 0,
+                    "filerUrl": "",
+                    "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+                    "filerName": "HALPIN KEVIN",
+                    "filerRelation": "Chief Financial Officer",
+                    "moneyText": "",
+                    "startDate": "2019-08-15",
+                    "ownership": "D"
+                }
+            ],
+            "maxAge": 1
+        },
+        "sectorTrend": {
+            "maxAge": 1,
+            "symbol": null,
+            "estimates": []
+        },
+        "incomeStatementHistoryQuarterly": {
+            "incomeStatementHistory": [
+                {
+                    "maxAge": 1,
+                    "endDate": "2023-03-31",
+                    "totalRevenue": 0,
+                    "costOfRevenue": 0,
+                    "grossProfit": 0,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": {},
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 0,
+                    "operatingIncome": {},
+                    "totalOtherIncomeExpenseNet": 0,
+                    "ebit": 0,
+                    "interestExpense": {},
+                    "incomeBeforeTax": {},
+                    "incomeTaxExpense": 0,
+                    "minorityInterest": {},
+                    "netIncomeFromContinuingOps": {},
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 0,
+                    "netIncomeApplicableToCommonShares": {}
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-12-31",
+                    "totalRevenue": 2521000000,
+                    "costOfRevenue": 1294000000,
+                    "grossProfit": 1227000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 815000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 2283000000,
+                    "operatingIncome": 238000000,
+                    "totalOtherIncomeExpenseNet": -83000000,
+                    "ebit": 238000000,
+                    "interestExpense": -26000000,
+                    "incomeBeforeTax": 155000000,
+                    "incomeTaxExpense": 61000000,
+                    "minorityInterest": 941000000,
+                    "netIncomeFromContinuingOps": 94000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 67000000,
+                    "netIncomeApplicableToCommonShares": 67000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-09-30",
+                    "totalRevenue": 2478000000,
+                    "costOfRevenue": 1273000000,
+                    "grossProfit": 1205000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 849000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 2301000000,
+                    "operatingIncome": 177000000,
+                    "totalOtherIncomeExpenseNet": -76000000,
+                    "ebit": 177000000,
+                    "interestExpense": -27000000,
+                    "incomeBeforeTax": 101000000,
+                    "incomeTaxExpense": 35000000,
+                    "minorityInterest": 856000000,
+                    "netIncomeFromContinuingOps": 66000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 40000000,
+                    "netIncomeApplicableToCommonShares": 40000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-06-30",
+                    "totalRevenue": 2674000000,
+                    "costOfRevenue": 1307000000,
+                    "grossProfit": 1367000000,
+                    "researchDevelopment": {},
+                    "sellingGeneralAdministrative": 1049000000,
+                    "nonRecurring": {},
+                    "otherOperatingExpenses": {},
+                    "totalOperatingExpenses": 2539000000,
+                    "operatingIncome": 135000000,
+                    "totalOtherIncomeExpenseNet": -155000000,
+                    "ebit": 135000000,
+                    "interestExpense": -19000000,
+                    "incomeBeforeTax": -20000000,
+                    "incomeTaxExpense": -147000000,
+                    "minorityInterest": 921000000,
+                    "netIncomeFromContinuingOps": 127000000,
+                    "discontinuedOperations": {},
+                    "extraordinaryItems": {},
+                    "effectOfAccountingCharges": {},
+                    "otherItems": {},
+                    "netIncome": 110000000,
+                    "netIncomeApplicableToCommonShares": 110000000
+                }
+            ],
+            "maxAge": 86400
+        },
+        "cashflowStatementHistoryQuarterly": {
+            "cashflowStatements": [
+                {
+                    "maxAge": 1,
+                    "endDate": "2023-03-31",
+                    "netIncome": 0,
+                    "changeToLiabilities": 0
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-12-31",
+                    "netIncome": 67000000,
+                    "depreciation": 174000000,
+                    "changeToNetincome": 114000000,
+                    "changeToAccountReceivables": -255000000,
+                    "changeToLiabilities": 42000000,
+                    "changeToInventory": 50000000,
+                    "totalCashFromOperatingActivities": 192000000,
+                    "capitalExpenditures": -113000000,
+                    "investments": -84000000,
+                    "otherCashflowsFromInvestingActivities": -2000000,
+                    "totalCashflowsFromInvestingActivities": -207000000,
+                    "dividendsPaid": -58000000,
+                    "netBorrowings": -46000000,
+                    "otherCashflowsFromFinancingActivities": -8000000,
+                    "totalCashFromFinancingActivities": -163000000,
+                    "effectOfExchangeRate": 48000000,
+                    "changeInCash": -130000000,
+                    "repurchaseOfStock": -51000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-09-30",
+                    "netIncome": 40000000,
+                    "depreciation": 179000000,
+                    "changeToNetincome": 75000000,
+                    "changeToAccountReceivables": -96000000,
+                    "changeToLiabilities": -168000000,
+                    "changeToInventory": -61000000,
+                    "totalCashFromOperatingActivities": -31000000,
+                    "capitalExpenditures": -104000000,
+                    "investments": -8000000,
+                    "otherCashflowsFromInvestingActivities": -19000000,
+                    "totalCashflowsFromInvestingActivities": -130000000,
+                    "dividendsPaid": -58000000,
+                    "netBorrowings": -9000000,
+                    "otherCashflowsFromFinancingActivities": -13000000,
+                    "totalCashFromFinancingActivities": -149000000,
+                    "effectOfExchangeRate": -54000000,
+                    "changeInCash": -364000000,
+                    "repurchaseOfStock": -127000000
+                },
+                {
+                    "maxAge": 1,
+                    "endDate": "2022-06-30",
+                    "netIncome": 110000000,
+                    "depreciation": -80000000,
+                    "changeToNetincome": -50000000,
+                    "changeToAccountReceivables": 11000000,
+                    "changeToLiabilities": 75000000,
+                    "changeToInventory": -5000000,
+                    "totalCashFromOperatingActivities": 324000000,
+                    "capitalExpenditures": -182000000,
+                    "investments": -13000000,
+                    "otherCashflowsFromInvestingActivities": 4000000,
+                    "totalCashflowsFromInvestingActivities": -522000000,
+                    "dividendsPaid": -4000000,
+                    "netBorrowings": 357000000,
+                    "otherCashflowsFromFinancingActivities": -69000000,
+                    "totalCashFromFinancingActivities": 230000000,
+                    "effectOfExchangeRate": -75000000,
+                    "changeInCash": -43000000,
+                    "repurchaseOfStock": -54000000
+                }
+            ],
+            "maxAge": 86400
+        },
+        "earnings": {
+            "maxAge": 86400,
+            "earningsChart": {
+                "quarterly": [
+                    {
+                        "date": "2Q2022",
+                        "actual": 0.37,
+                        "estimate": 0.06
+                    },
+                    {
+                        "date": "3Q2022",
+                        "actual": 0.12,
+                        "estimate": 0.15
+                    },
+                    {
+                        "date": "4Q2022",
+                        "actual": 0.14,
+                        "estimate": 0.19
+                    },
+                    {
+                        "date": "1Q2023",
+                        "actual": 0.09,
+                        "estimate": 0.05
+                    }
+                ],
+                "currentQuarterEstimate": 0.09,
+                "currentQuarterEstimateDate": "2Q",
+                "currentQuarterEstimateYear": 2023,
+                "earningsDate": [
+                    "2023-08-07 11:59:S",
+                    "2023-08-11 13:00:S"
+                ]
+            },
+            "financialsChart": {
+                "yearly": [
+                    {
+                        "date": 2019,
+                        "revenue": 10074000000,
+                        "earnings": 155000000
+                    },
+                    {
+                        "date": 2020,
+                        "revenue": 9008000000,
+                        "earnings": -1269000000
+                    },
+                    {
+                        "date": 2021,
+                        "revenue": 9358000000,
+                        "earnings": 330000000
+                    },
+                    {
+                        "date": 2022,
+                        "revenue": 10385000000,
+                        "earnings": 623000000
+                    }
+                ],
+                "quarterly": [
+                    {
+                        "date": "2Q2022",
+                        "revenue": 2674000000,
+                        "earnings": 110000000
+                    },
+                    {
+                        "date": "3Q2022",
+                        "revenue": 2478000000,
+                        "earnings": 40000000
+                    },
+                    {
+                        "date": "4Q2022",
+                        "revenue": 2521000000,
+                        "earnings": 67000000
+                    },
+                    {
+                        "date": "1Q2023",
+                        "revenue": 0,
+                        "earnings": 0
+                    }
+                ]
+            },
+            "financialCurrency": "USD"
+        },
+        "pageViews": {
+            "shortTermTrend": "DOWN",
+            "midTermTrend": "UP",
+            "longTermTrend": "UP",
+            "maxAge": 1
+        },
+        "financialData": {
+            "maxAge": 86400,
+            "currentPrice": 19.09,
+            "targetHighPrice": 30.0,
+            "targetLowPrice": 16.9,
+            "targetMeanPrice": 23.35,
+            "targetMedianPrice": 23.25,
+            "recommendationMean": 2.0,
+            "recommendationKey": "buy",
+            "numberOfAnalystOpinions": 4,
+            "totalCash": 1676000000,
+            "totalCashPerShare": 2.923,
+            "ebitda": 1147000064,
+            "totalDebt": 4192999936,
+            "quickRatio": 1.004,
+            "currentRatio": 1.258,
+            "totalRevenue": 10119999488,
+            "debtToEquity": 46.672,
+            "revenuePerShare": 17.463,
+            "returnOnAssets": 0.02507,
+            "returnOnEquity": 0.037609998,
+            "grossProfits": 5309000000,
+            "freeCashflow": 490500000,
+            "operatingCashflow": 994000000,
+            "earningsGrowth": -0.376,
+            "revenueGrowth": -0.018,
+            "grossMargins": 0.49012002,
+            "ebitdaMargins": 0.11334,
+            "operatingMargins": 0.068280004,
+            "profitMargins": 0.02638,
+            "financialCurrency": "USD"
+        }
+    }
+}
