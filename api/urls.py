@@ -1,7 +1,8 @@
 from django.urls import path
-from .views import main, StocksView
+from .views import StocksView
+from .viewsets import StocksViewSet
 
 urlpatterns = [
-    path('', main),
-    path('stocks', StocksView.as_view())
+    # path('', StocksViewSet()),
+    # path('', StocksView.as_view())
 ]
