@@ -18,6 +18,24 @@ def generate_random_code(length=8):
                                   ))
     return code
 
+class LiveStocks(models.Model):
+    """
+    Table representing the live stock data collected by the database
+    -------
+    Fields
+    -------
+    """
+    id = models.CharField(primary_key=True, max_length=10)
+    exchange = models.CharField(max_length=10, null=True)
+    quoteType = models.IntegerField(max_length=5, null=True)
+    price = models.FloatField(max_length=30, null=True)
+    timestamp = models.FloatField(max_length=30, null=True)
+    marketHours = models.IntegerField(max_length=5, null=True)
+    changePercent = models.FloatField(max_length=30, null=True)
+    dayVolume = models.FloatField(max_length=30, null=True)
+    change = models.FloatField(max_length=30, null=True)
+    priceHint = models.IntegerField(max_length=5, null=True)
+
 class Stocks(models.Model):
     """
     Table representing the list of stocks known to the database

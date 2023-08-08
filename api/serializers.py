@@ -1,5 +1,21 @@
 from rest_framework import serializers
-from .models import Stocks, Forex, Crypto
+from .models import LiveStocks, Stocks, Forex, Crypto
+
+class LiveStocksSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = LiveStocks
+        fields = (
+            'id',
+            'exchange',
+            'quoteType',
+            'price',
+            'timestamp',
+            'marketHours',
+            'changePercent',
+            'dayVolume',
+            'change',
+            'priceHint'
+        )
 
 #note changed 52WeekChange _> fiftyTwoWeekChange
 class StocksSerializer(serializers.ModelSerializer):

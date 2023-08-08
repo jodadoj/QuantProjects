@@ -40,13 +40,13 @@ def save_single_stock_info(ticker):
     )
 
     if not os.path.isfile(save_path):
-        current_stock = yq.Ticker(ticker, asynchronous=True)
-        current_stock_data = current_stock.all_modules
-
         try:
             os.makedirs(os.path.realpath(os.path.dirname(save_path)))
         except FileExistsError:
             pass
+
+        current_stock = yq.Ticker(ticker, asynchronous=True)
+        current_stock_data = current_stock.all_modules
 
         with open(save_path, "w", encoding="utf-8") as stock_file:
             json.dump(current_stock_data, stock_file, indent=4, sort_keys=False)
