@@ -19,6 +19,6 @@ from .router import router
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    # path('api/', include('api.urls')),
+    path('api/', include('api.urls')),
     path('rest-api/', include(router.urls))
 ]

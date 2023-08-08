@@ -4,5 +4,5 @@ from .viewsets import StocksViewSet
 
 urlpatterns = [
     # path('', StocksViewSet()),
-    # path('', StocksView.as_view())
+    path('', StocksView.as_view())
 ]
