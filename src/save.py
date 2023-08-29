@@ -1,0 +1,2 @@
+from util.save_single_stock_price_history import save_single_stock_price_history
+save_single_stock_price_history('AAPL')

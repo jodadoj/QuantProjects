@@ -18,6 +18,24 @@ def generate_random_code(length=8):
                                   ))
     return code
 
+class LiveStocks(models.Model):
+    """
+    Table representing the live stock data collected by the database
+    -------
+    Fields
+    -------
+    """
+    id = models.CharField(primary_key=True, max_length=10)
+    exchange = models.CharField(max_length=10, null=True)
+    quoteType = models.IntegerField(max_length=5, null=True)
+    price = models.FloatField(max_length=30, null=True)
+    timestamp = models.FloatField(max_length=30, null=True)
+    marketHours = models.IntegerField(max_length=5, null=True)
+    changePercent = models.FloatField(max_length=30, null=True)
+    dayVolume = models.FloatField(max_length=30, null=True)
+    change = models.FloatField(max_length=30, null=True)
+    priceHint = models.IntegerField(max_length=5, null=True)
+
 class Stocks(models.Model):
     """
     Table representing the list of stocks known to the database
@@ -48,16 +66,106 @@ class Stocks(models.Model):
 
     """
     ticker = models.CharField(primary_key=True, max_length=10)
-    company_name = models.CharField(max_length=300)
+    company_name = models.CharField(max_length=300, null=True)
     currency = models.CharField(max_length=5)
-    exchange = models.CharField(max_length=10)
-    mic_code = models.CharField(max_length=20)
-    country = models.CharField(max_length=30)
-    security_type = models.CharField(max_length=50)
+    exchange = models.CharField(max_length=10, null=True)
+    mic_code = models.CharField(max_length=20, null=True)
+    country = models.CharField(max_length=30, null=True)
+    security_type = models.CharField(max_length=50, null=True)
     sp500 = models.BooleanField()
     ftse_100 = models.BooleanField()
     nasdaq_100 = models.BooleanField()
     last_updated = models.DateField(default='1901-01-01')
+    enterpriseValue = models.FloatField(max_length=30, null=True)
+    forwardPE = models.FloatField(max_length=30, null=True)
+    profitMargins = models.FloatField(max_length=30, null=True)
+    floatShares = models.FloatField(max_length=30, null=True)
+    sharesOutstanding = models.FloatField(max_length=30, null=True)
+    sharesShort = models.FloatField(max_length=30, null=True)
+    sharesShortPriorMonth = models.DateField(default='1901-01-01')
+    sharesShortPreviousMonthDate = models.DateField(default='1901-01-01')
+    dateShortInterest = models.FloatField(max_length=30, null=True)
+    sharesPercentSharesOut = models.FloatField(max_length=30, null=True)
+    heldPercentInsiders = models.FloatField(max_length=30, null=True)
+    heldPercentInstitutions = models.FloatField(max_length=30, null=True)
+    shortRatio = models.FloatField(max_length=30, null=True)
+    shortPercentOfFloat = models.FloatField(max_length=30, null=True)
+    beta = models.FloatField(max_length=30, null=True)
+    impliedSharesOutstanding = models.FloatField(max_length=30, null=True)
+    bookValue = models.FloatField(max_length=30, null=True)
+    priceToBook = models.FloatField(max_length=30, null=True)
+    lastFiscalYearEnd = models.DateField(default='1901-01-01')
+    nextFiscalYearEnd = models.DateField(default='1901-01-01')
+    mostRecentQuarter = models.DateField(default='1901-01-01')
+    earningsQuarterlyGrowth = models.FloatField(max_length=30, null=True)
+    netIncomeToCommon = models.FloatField(max_length=30, null=True)
+    trailingEps = models.FloatField(max_length=30, null=True)
+    forwardEps = models.FloatField(max_length=30, null=True)
+    pegRatio = models.FloatField(max_length=30, null=True)
+    lastSplitFactor = models.FloatField(max_length=30, null=True)
+    lastSplitDate = models.FloatField(max_length=30, null=True)
+    enterpriseToRevenue = models.FloatField(max_length=30, null=True)
+    enterpriseToEbitda = models.FloatField(max_length=30, null=True)
+    fiftyTwoWeekChange = models.FloatField(max_length=30, null=True)
+    sandP52WeekChange = models.FloatField(max_length=30, null=True)
+    lastDividendValue = models.FloatField(max_length=30, null=True)
+    lastDividendDate = models.FloatField(max_length=30, null=True)
+    currentPrice = models.FloatField(max_length=30, null=True)
+    targetHighPrice = models.FloatField(max_length=30, null=True)
+    targetLowPrice = models.FloatField(max_length=30, null=True)
+    targetMeanPrice = models.FloatField(max_length=30, null=True)
+    targetMedianPrice = models.FloatField(max_length=30, null=True)
+    totalCash = models.FloatField(max_length=30, null=True)
+    totalCashPerShare = models.FloatField(max_length=30, null=True)
+    ebitda = models.FloatField(max_length=30, null=True)
+    totalDebt = models.FloatField(max_length=30, null=True)
+    quickRatio = models.FloatField(max_length=30, null=True)
+    currentRatio = models.FloatField(max_length=30, null=True)
+    totalRevenue = models.FloatField(max_length=30, null=True)
+    debtToEquity = models.FloatField(max_length=30, null=True)
+    revenuePerShare = models.FloatField(max_length=30, null=True)
+    returnOnAssets = models.FloatField(max_length=30, null=True)
+    returnOnEquity = models.FloatField(max_length=30, null=True)
+    grossProfits = models.FloatField(max_length=30, null=True)
+    freeCashflow = models.FloatField(max_length=30, null=True)
+    operatingCashflow = models.FloatField(max_length=30, null=True)
+    earningsGrowth = models.FloatField(max_length=30, null=True)
+    revenueGrowth = models.FloatField(max_length=30, null=True)
+    grossMargins = models.FloatField(max_length=30, null=True)
+    ebitdaMargins = models.FloatField(max_length=30, null=True)
+    operatingMargins = models.FloatField(max_length=30, null=True)
+    previousClose = models.FloatField(max_length=30, null=True)
+    open = models.FloatField(max_length=30, null=True)
+    dayLow = models.FloatField(max_length=30, null=True)
+    dayHigh = models.FloatField(max_length=30, null=True)
+    regularMarketPreviousClose = models.FloatField(max_length=30, null=True)
+    regularMarketOpen = models.FloatField(max_length=30, null=True)
+    regularMarketDayLow = models.FloatField(max_length=30, null=True)
+    regularMarketDayHigh = models.FloatField(max_length=30, null=True)
+    dividendRate = models.FloatField(max_length=30, null=True)
+    dividendYield = models.FloatField(max_length=30, null=True)
+    payoutRatio = models.FloatField(max_length=30, null=True)
+    fiveYearAvgDividendYield = models.FloatField(max_length=30, null=True)
+    trailingPE = models.FloatField(max_length=30, null=True)
+    volume = models.FloatField(max_length=30, null=True)
+    regularMarketVolume = models.FloatField(max_length=30, null=True)
+    averageVolume = models.FloatField(max_length=30, null=True)
+    averageVolume10days = models.FloatField(max_length=30, null=True)
+    averageDailyVolume10Day = models.FloatField(max_length=30, null=True)
+    bid = models.FloatField(max_length=30, null=True)
+    ask = models.FloatField(max_length=30, null=True)
+    bidSize = models.FloatField(max_length=30, null=True)
+    askSize = models.FloatField(max_length=30, null=True)
+    marketCap = models.FloatField(max_length=30, null=True)
+    fiftyTwoWeekLow = models.FloatField(max_length=30, null=True)
+    fiftyTwoWeekHigh = models.FloatField(max_length=30, null=True)
+    priceToSalesTrailing12Months = models.FloatField(max_length=30, null=True)
+    fiftyDayAverage = models.FloatField(max_length=30, null=True)
+    twoHundredDayAverage = models.FloatField(max_length=30, null=True)
+    trailingAnnualDividendRate = models.FloatField(max_length=30, null=True)
+    trailingAnnualDividendYield = models.FloatField(max_length=30, null=True)
+
+
 
 class Forex(models.Model):
     """
@@ -71,9 +179,10 @@ class Forex(models.Model):
     Currency quote - 
     """
     symbol = models.CharField(primary_key=True, max_length=10)
-    currency_group = models.CharField(max_length=20)
-    currency_base = models.CharField(max_length=30)
-    currency_quote = models.CharField(max_length=50)
+    currency_group = models.CharField(max_length=20, null=True)
+    currency_base = models.CharField(max_length=30, null=True)
+    currency_quote = models.CharField(max_length=50, null=True)
+    last_updated = models.DateField(default='1901-01-01')
 
 class Crypto(models.Model):
     
@@ -88,6 +197,9 @@ class Crypto(models.Model):
     Currency quote - 
     """
     symbol = models.CharField(primary_key=True, max_length=20)
-    available_exchanges = models.CharField(max_length=100)
-    currency_base = models.CharField(max_length=50)
-    currency_quote = models.CharField(max_length=50)
+    available_exchanges = models.CharField(max_length=100, null=True)
+    currency_base = models.CharField(max_length=50, null=True)
+    currency_quote = models.CharField(max_length=50, null=True)
+    last_updated = models.DateField(default='1901-01-01')
+    
+    
